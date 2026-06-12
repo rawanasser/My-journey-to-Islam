@@ -1,0 +1,1636 @@
+{
+  "COMMON_LOADING": "Încărcare...",
+  "COMMON_BACK": "Spate",
+  "COMMON_CONTINUE": "Continua",
+  "COMMON_SUCCESS": "Succes",
+  "COMMON_ERROR": "Eroare",
+  "COMMON_FEATURE_COMING_SOON": "Funcție în curând.",
+  "COMMON_SAVE": "Salvați setările",
+  "WELCOME_TEXT": "Salut, fratele meu musulman, bine ai venit! ✨ Să începem împreună o călătorie semnificativă pentru a explora elementele de bază ale islamului într-un mod simplu și inspirator. Fie ca această călătorie să vă lumineze calea.",
+  "WHAT_IS_ISLAM_TEXT": "Islamul este o religie monoteistă care învață că există un singur Dumnezeu (Allah) și că Muhammad este mesagerul Său.",
+  "ISLAM_PILLARS_DESC": "Islamul se bazează pe cinci piloni: cele două mărturii despre credință, rugăciune, zakat, post și Hajj.",
+  "SHAHADA_TEXT": "În primul rând: Cele două mărturii sunt: ​​„Eu mărturisesc că nu există niciun zeu în afară de Allah și mărturisesc că Muhammad este Mesagerul lui Dumnezeu”.",
+  "PRAYER_NAME_FAJR": "Fajr (Zori)",
+  "PRAYER_NAME_DHUHR": "Dhuhr (Amiază)",
+  "PRAYER_NAME_ASR": "Asr (După-amiază)",
+  "PRAYER_NAME_MAGHRIB": "Maghrib (Apus)",
+  "PRAYER_NAME_ISHA": "Isha (Seară)",
+  "PRAYER_NAME_IMSAK": "Imsak (Post)",
+  "PRAYER_NAME_DHUHA": "Dhuha (Dimineață)",
+  "PRAYER_TITLE": "În al doilea rând: Rugăciunea",
+  "PRAYER_INTRO": "În Islam, rugăciunea (Salah) este un act de închinare efectuat de cinci ori pe zi la anumite ore. Aceste rugăciuni sunt:",
+  "PRAYER_FAJR_DESC": "Fajr (Rugăciunea zorilor): Efectuat înainte de răsăritul soarelui și este format din 2 Rak'ah (unități).",
+  "PRAYER_DHUHR_DESC": "Dhuhr (Rugăciunea de la amiază): Efectuat după ce soarele trece de zenit și este format din 4 Rak'ah.",
+  "PRAYER_ASR_DESC": "Asr (Rugăciunea de după-amiază): Se efectuează după-amiaza înainte de apus și constă din 4 Rak'ah.",
+  "PRAYER_MAGHRIB_DESC": "Maghrib (Rugăciunea la apus): Se efectuează imediat după apus și constă din 3 Rak'ah.",
+  "PRAYER_ISHA_DESC": "Isha (Rugăciunea de seară): Efectuat după ce amurgul a dispărut și este format din 4 Rak'ah.",
+  "ZAKAT_TEXT": "În al treilea rând, Zakat Zakat îi ajută pe cei nevoiași. Musulmanii li se cere să dea un procent din averea lor.",
+  "FASTING_TEXT": "În al patrulea rând, postul Postul înseamnă abținerea de la mâncare și băutură din zori până la apus în timpul lunii Ramadan.",
+  "HAJJ_TEXT": "Al cincilea Hajj Hajj este o obligație pentru fiecare musulman capabil o dată în viață. Descoperiți diferitele ritualuri.",
+  "START_JOURNEY": "Să începem călătoria noastră pentru a înțelege mai bine islamul.",
+  "HOME_NEXT_PRAYER_IN": "în",
+  "HOME_PERMISSION_DENIED": "Acces refuzat",
+  "HOME_DEFAULT_LOCATION": "Locație implicită: Mecca",
+  "HOME_YOUR_LOCATION": "Locația dvs.:",
+  "HOME_LOADING_PRAYERS": "Se încarcă orele de rugăciune...",
+  "HOME_NO_PRAYERS": "Nu s-au găsit timpi de rugăciune.",
+  "HOME_CHECK_CONNECTION": "Vă rugăm să vă verificați conexiunea la internet și permisiunile privind locația.",
+  "HOME_NOTIFICATION_TITLE": "Acum este timpul pentru rugăciunea %{name}",
+  "HOME_NOTIFICATION_BODY": "Allah este cel mai mare",
+  "HOME_NOTIFICATION_CHANNEL": "Mementouri de rugăciune",
+  "HOME_PRAYER_NO_UPCOMING": "Fără rugăciuni viitoare",
+  "HIJRI_AH": "AH",
+  "HIJRI_MONTH_1": "Muharram",
+  "HIJRI_MONTH_2": "Safar",
+  "HIJRI_MONTH_3": "Rabi al-Awwal",
+  "HIJRI_MONTH_4": "Rabi al-Thani",
+  "HIJRI_MONTH_5": "Jumada al-Awwal",
+  "HIJRI_MONTH_6": "Jumada al-Thani",
+  "HIJRI_MONTH_7": "Rajab",
+  "HIJRI_MONTH_8": "Shaaban",
+  "HIJRI_MONTH_9": "Ramadanul",
+  "HIJRI_MONTH_10": "Shawwal",
+  "HIJRI_MONTH_11": "Dhu al-Qidah",
+  "HIJRI_MONTH_12": "Dhu al-Hijjah",
+  "QUOTE_0": "Într-adevăr, Allah este cu pacientul. (Coran 2:153)",
+  "QUOTE_1": "Și El te-a găsit pierdut și te-a călăuzit. (Coran 93:7)",
+  "QUOTE_2": "Deci, cu adevărat, cu greutățile, există ușurare. (Coran 94:6)",
+  "QUOTE_3": "Cei mai buni dintre voi sunt cei care au cele mai bune maniere și caracter. (Profetul Muhammad ﷺ)",
+  "QUOTE_4": "Nu vă pierdeți speranța și nici nu fiți trist. (Coran 3:139)",
+  "QUOTE_5": "Oricine își pune încrederea în Allah, El va fi suficient pentru ei. (Coran 65:3)",
+  "QUOTE_6": "Allah nu împovărează un suflet peste ceea ce poate suporta. (Coran 2:286)",
+  "FOOTER_LIBRARY": "Bibliotecă",
+  "FOOTER_LEARN": "Învăţa",
+  "FOOTER_QURAN": "Coranul",
+  "FOOTER_ADHAKAR": "Adhkarul meu",
+  "FOOTER_QIBLA": "Qibla",
+  "QURAN_TITLE": "Sfântul Coran",
+  "QURAN_LOAD_FAILED": "Nu s-au încărcat sure. Vă rugăm să vă verificați conexiunea.",
+  "SURAH_LOAD_FAILED": "Nu s-au încărcat detaliile surei. Vă rugăm să vă verificați conexiunea.",
+  "SURAH_NO_DATA": "Nu s-au găsit detalii",
+  "SURAH_BOOKMARKED": "Ayah marcat!",
+  "SURAH_TAFSIR_TITLE": "Tafsir",
+  "SURAH_NOTES_TITLE": "Note",
+  "SURAH_JUZ": "Deja",
+  "ADHAKAR_LOAD_FAILED": "Nu s-a încărcat Adhkar.",
+  "ADHAKAR_TITLE_NOT_FOUND": "Titlul nu a fost găsit",
+  "ADHAKAR_DETAILS_ERROR": "A apărut o eroare la încărcarea detaliilor Adhkar.",
+  "ADHAKAR_REPEAT": "Repeta",
+  "ADHAKAR_TIMES": "ori",
+  "QIBLA_TITLE": "Direcția Qibla",
+  "QIBLA_INSTRUCTION": "Aliniați săgeata pentru a găsi Qibla",
+  "SETTINGS_TITLE": "Setări",
+  "SETTINGS_LANGUAGE": "Limbă",
+  "SETTINGS_APP_LANGUAGE": "Limba aplicației",
+  "SETTINGS_SELECT_LANGUAGE": "Selectați Limbă",
+  "SETTINGS_NOTIFICATIONS": "Notificări",
+  "LIBRARY_TITLE": "Biblioteca islamică",
+  "LIBRARY_WEBVIEW_TITLE": "Casa islamică",
+  "BOOK_1_TITLE": "Nectarul Sigilat",
+  "BOOK_1_AUTHOR": "Safiur Rahman Al-Mubarakpuri",
+  "BOOK_2_TITLE": "Riyad as-Salihin",
+  "BOOK_2_AUTHOR": "Imam an-Nawawi",
+  "BOOK_3_TITLE": "Patruzeci de hadith",
+  "BOOK_3_AUTHOR": "Imam an-Nawawi",
+  "LESSONS_TITLE": "Lecții video",
+  "LESSONS_PREFIX": "Lecţie",
+  "LESSONS_DEFAULT_TEXT": "În această lecție, vom explora aspectele importante ale înțelegerii și practicii islamului într-un mod simplu, pas cu pas. Vă rugăm să urmăriți videoclipul de mai sus pentru detalii.",
+  "ERROR_BOUNDARY_TITLE": "Hopa! Ceva a mers prost",
+  "ERROR_BOUNDARY_MESSAGE": "Aplicația a întâmpinat o eroare neașteptată. Vă rugăm să încercați din nou.",
+  "ERROR_BOUNDARY_TRY_AGAIN": "Încearcă din nou",
+  "SELECT_LANGUAGE": "Selectați limba dvs",
+  "SELECT_LANGUAGE_SUBTITLE": "Alegeți limba dvs",
+  "SURAH_1_NAME_EN": "Al-Fatiha",
+  "SURAH_2_NAME_EN": "Al-Baqarah",
+  "SURAH_3_NAME_EN": "Aal-E-Imran",
+  "SURAH_4_NAME_EN": "An-Nisa",
+  "SURAH_5_NAME_EN": "Al-Ma’idah",
+  "SURAH_6_NAME_EN": "Al-An’am",
+  "SURAH_7_NAME_EN": "Al-A’raf",
+  "SURAH_8_NAME_EN": "Al-Anfal",
+  "SURAH_9_NAME_EN": "At-Tawbah",
+  "SURAH_10_NAME_EN": "Yunus",
+  "SURAH_11_NAME_EN": "Hud",
+  "SURAH_12_NAME_EN": "Yusuf",
+  "SURAH_13_NAME_EN": "Ar-Ra’d",
+  "SURAH_14_NAME_EN": "Ibrahim",
+  "SURAH_15_NAME_EN": "Al-Hijr",
+  "SURAH_16_NAME_EN": "An-Nahl",
+  "SURAH_17_NAME_EN": "Al-Isra",
+  "SURAH_18_NAME_EN": "Al-Kahf",
+  "SURAH_19_NAME_EN": "Maryam",
+  "SURAH_20_NAME_EN": "Taha",
+  "SURAH_21_NAME_EN": "Al-Anbiya",
+  "SURAH_22_NAME_EN": "Al-Hajj",
+  "SURAH_23_NAME_EN": "Al-Mu’minun",
+  "SURAH_24_NAME_EN": "An-Nur",
+  "SURAH_25_NAME_EN": "Al-Furqan",
+  "SURAH_26_NAME_EN": "Ash-Shu’ara",
+  "SURAH_27_NAME_EN": "An-Naml",
+  "SURAH_28_NAME_EN": "Al-Qasas",
+  "SURAH_29_NAME_EN": "Al-‘Ankabut",
+  "SURAH_30_NAME_EN": "Ar-Rum",
+  "SURAH_31_NAME_EN": "Luqman",
+  "SURAH_32_NAME_EN": "As-Sajda",
+  "SURAH_33_NAME_EN": "Al-Ahzab",
+  "SURAH_34_NAME_EN": "Saba",
+  "SURAH_35_NAME_EN": "Fatir",
+  "SURAH_36_NAME_EN": "Ya-Sin",
+  "SURAH_37_NAME_EN": "As-Saffat",
+  "SURAH_38_NAME_EN": "Sad",
+  "SURAH_39_NAME_EN": "Az-Zumar",
+  "SURAH_40_NAME_EN": "Ghafir",
+  "SURAH_41_NAME_EN": "Fussilat",
+  "SURAH_42_NAME_EN": "Ash-Shura",
+  "SURAH_43_NAME_EN": "Az-Zukhruf",
+  "SURAH_44_NAME_EN": "Ad-Dukhan",
+  "SURAH_45_NAME_EN": "Al-Jathiya",
+  "SURAH_46_NAME_EN": "Al-Ahqaf",
+  "SURAH_47_NAME_EN": "Muhammad",
+  "SURAH_48_NAME_EN": "Al-Fath",
+  "SURAH_49_NAME_EN": "Al-Hujurat",
+  "SURAH_50_NAME_EN": "Qaf",
+  "SURAH_51_NAME_EN": "Adh-Dhariyat",
+  "SURAH_52_NAME_EN": "At-Tur",
+  "SURAH_53_NAME_EN": "An-Najm",
+  "SURAH_54_NAME_EN": "Al-Qamar",
+  "SURAH_55_NAME_EN": "Ar-Rahman",
+  "SURAH_56_NAME_EN": "Al-Waqi’a",
+  "SURAH_57_NAME_EN": "Al-Hadid",
+  "SURAH_58_NAME_EN": "Al-Mujadila",
+  "SURAH_59_NAME_EN": "Al-Hashr",
+  "SURAH_60_NAME_EN": "Al-Mumtahina",
+  "SURAH_61_NAME_EN": "As-Saff",
+  "SURAH_62_NAME_EN": "Al-Jumu’a",
+  "SURAH_63_NAME_EN": "Al-Munafiqun",
+  "SURAH_64_NAME_EN": "At-Taghabun",
+  "SURAH_65_NAME_EN": "At-Talaq",
+  "SURAH_66_NAME_EN": "At-Tahrim",
+  "SURAH_67_NAME_EN": "Al-Mulk",
+  "SURAH_68_NAME_EN": "Al-Qalam",
+  "SURAH_69_NAME_EN": "Al-Haqqa",
+  "SURAH_70_NAME_EN": "Al-Ma’arij",
+  "SURAH_71_NAME_EN": "Nuh",
+  "SURAH_72_NAME_EN": "Al-Jinn",
+  "SURAH_73_NAME_EN": "Al-Muzzammil",
+  "SURAH_74_NAME_EN": "Al-Muddaththir",
+  "SURAH_75_NAME_EN": "Al-Qiyama",
+  "SURAH_76_NAME_EN": "Al-Insan",
+  "SURAH_77_NAME_EN": "Al-Mursalat",
+  "SURAH_78_NAME_EN": "An-Naba",
+  "SURAH_79_NAME_EN": "An-Nazi’at",
+  "SURAH_80_NAME_EN": "Abasa",
+  "SURAH_81_NAME_EN": "At-Takwir",
+  "SURAH_82_NAME_EN": "Al-Infitar",
+  "SURAH_83_NAME_EN": "Al-Mutaffifin",
+  "SURAH_84_NAME_EN": "Al-Inshiqaq",
+  "SURAH_85_NAME_EN": "Al-Buruj",
+  "SURAH_86_NAME_EN": "At-Tariq",
+  "SURAH_87_NAME_EN": "Al-A’la",
+  "SURAH_88_NAME_EN": "Al-Ghashiya",
+  "SURAH_89_NAME_EN": "Al-Fajr",
+  "SURAH_90_NAME_EN": "Al-Balad",
+  "SURAH_91_NAME_EN": "Ash-Shams",
+  "SURAH_92_NAME_EN": "Al-Lail",
+  "SURAH_93_NAME_EN": "Ad-Duha",
+  "SURAH_94_NAME_EN": "Ash-Sharh",
+  "SURAH_95_NAME_EN": "At-Tin",
+  "SURAH_96_NAME_EN": "Al-Alaq",
+  "SURAH_97_NAME_EN": "Al-Qadr",
+  "SURAH_98_NAME_EN": "Al-Bayyina",
+  "SURAH_99_NAME_EN": "Az-Zalzalah",
+  "SURAH_100_NAME_EN": "Al-Adiyat",
+  "SURAH_101_NAME_EN": "Al-Qari’a",
+  "SURAH_102_NAME_EN": "At-Takathur",
+  "SURAH_103_NAME_EN": "Al-‘Asr",
+  "SURAH_104_NAME_EN": "Al-Humazah",
+  "SURAH_105_NAME_EN": "Al-Fil",
+  "SURAH_106_NAME_EN": "Quraish",
+  "SURAH_107_NAME_EN": "Al-Ma’un",
+  "SURAH_108_NAME_EN": "Al-Kawthar",
+  "SURAH_109_NAME_EN": "Al-Kafirun",
+  "SURAH_110_NAME_EN": "An-Nasr",
+  "SURAH_111_NAME_EN": "Al-Masad",
+  "SURAH_112_NAME_EN": "Al-Ikhlas",
+  "SURAH_113_NAME_EN": "Al-Falaq",
+  "SURAH_114_NAME_EN": "An-Nas",
+  "hisnAlMuslim": {
+    "Introducere": {
+      "text": [
+        "În numele lui Allah, Cel Prea Milostiv, Cel Milostiv",
+        "Într-adevăr, toată lauda se datorează lui Allah. Îl lăudăm, îi căutăm ajutorul și îi cerem iertare. Căutăm refugiu în Allah de relele propriilor noastre sine și de faptele noastre păcătoase. Pe cine îl călăuzește Allah, nimeni nu îl poate îndruma în eroare și pe cine îl îndrumă El, nimeni nu îl poate îndruma. Mărturisesc că nu există nicio zeitate demnă de închinare în afară de Allah, singur fără nici un partener, și mărturisesc că Muhammad este slujitorul Său și Mesagerul Său, fie ca pacea și binecuvântările lui Allah să fie asupra lui, asupra familiei sale, asupra tovarășilor săi și asupra celor care îi urmează cu dreptate până în Ziua Judecății, cu pace din belșug. În ceea ce urmează:",
+        "Acesta este un rezumat pe care l-am extras din cartea mea „Dhikr, Dua și Tratamentul cu Ruqyah din Coran și Sunnah”. Am rezumat secțiunea despre cereri (dhikr) pentru a fi ușor de purtat în timpul călătoriilor.",
+        "L-am limitat la textul cererii și m-am mulțumit să menționez una sau două surse din textul original pentru autentificarea lui. Cine dorește să cunoască însoțitorul care a povestit-o sau dorește mai multe detalii despre autentificarea sa, trebuie să consulte sursa originală.",
+        "Îl rog pe Allah, Cel Puternic și Maiestuos, prin numele Sale frumoase și atributele sale înalte, să facă această lucrare pur pentru chipul Său nobil, să mă folosească cu ea în viața mea și după moartea mea și să beneficieze oricui o citește, o tipărește sau este un motiv pentru răspândirea ei. Într-adevăr, El este Păzitorul și Cel care este capabil să facă acest lucru. Fie ca pacea și binecuvântările lui Allah să fie asupra profetului nostru Muhammad, asupra familiei sale, asupra tovarășilor săi și asupra celor care îi urmează în dreptate până în Ziua Judecății."
+      ],
+      "footnote": [
+        "Scrisă în luna Safar, 1409 AH",
+        "Autor: Sa'id bin Ali bin Wahf Al-Qahtani"
+      ]
+    },
+    "Virtutea amintirii (Dhikr)": {
+      "text": [
+        "Allah Cel Atotputernic spune: {De aceea adu-ți aminte de Mine, Îmi voi aduce aminte de tine și fii recunoscător Mie și nu Mă lepăda de Mine.}",
+        "{O, cei care ați crezut, amintiți-vă de Allah cu multă amintire.}",
+        "{Și bărbații care își amintesc adesea de Allah și femeile care își amintesc - pentru ei Allah le-a pregătit iertarea și o mare răsplată.}",
+        "{Și adu-ți aminte de Domnul tău înăuntrul tău cu smerenie și cu frică, fără a fi tare în vorbire - dimineața și seara. Și nu fi dintre cei neglijenți.}",
+        "Profetul (pacea fie asupra lui) a spus: „Asemănarea celui care își amintește de Domnul său și a celui care nu își amintește de Domnul său este cea a celor vii și a morților”.",
+        "Profetul (pacea fie asupra lui) a spus: „Nu te voi informa despre cele mai bune fapte ale tale, cele mai curate dintre ele cu Regele tău, cel mai înalt dintre ei în rândurile tale, mai bine pentru tine decât să cheltuiești aur și argint și mai bine pentru tine decât să-ți întâlnești dușmanul și să-i lovească gâtul și ei să-l lovească pe al tău?” Ei au spus: „Da”. El a spus: „Amintirea lui Allah Cel Atotputernic”.",
+        "Profetul (pacea fie asupra lui) a spus: „Allah Cel Atotputernic spune: Sunt așa cum crede servitorul Meu că sunt. Eu sunt cu el când el face pomenire despre Mine. Dacă el își face pomenire despre Mine, Eu îmi fac pomenire despre el; şi dacă se pomeneşte de Mine într-o adunare, eu îl pomenesc într-o adunare mai bine decât ea. Și dacă se apropie de Mine cu o palmă de mână, Eu mă apropii de el până la o lungime de un braț; iar dacă se apropie de Mine la o lungime de un braț, Eu mă apropii de el la o lungime de o braț. Iar dacă vine la Mine umblând, Mă duc la el în viteză.",
+        "Sub autoritatea lui Abdullah bin Busr (Allah să fie mulțumit de el), un bărbat a spus: „O, Mesager al lui Allah, legile Islamului au devenit multe pentru mine, așa că spune-mi ceva de care să mă pot agăța”. Profetul (pacea fie asupra lui) a spus: „Lasă-ți limba umedă cu amintirea lui Allah”.",
+        "Profetul (pacea fie asupra lui) a spus: „Oricine recită o scrisoare din Cartea lui Allah, i se va atribui o faptă bună, iar o faptă bună primește o răsplată de zece ori. Nu spun că Alif-Lam-Mim este o singură literă, dar Alif este o scrisoare, Lam este o scrisoare, iar Mim este o scrisoare.",
+        "Sub autoritatea lui ‘Uqbah bin ‘Amir (Allah să fie mulțumit de el), el a spus: „Trimisul lui Allah (pacea fie asupra lui) a ieșit în timp ce eram în Suffah și a spus: „Cine dintre voi ar dori să iasă în fiecare dimineață la Buthan sau la al-‘Aqiq și să aducă de acolo două cămile cu cocoașe mari, fără să comită vreun păcat sau să facă vreun păcat? Am spus: „O, Mesager al lui Allah, ne-ar plăcea asta”. El a spus: „Atunci n-ar merge vreunul dintre voi la moschee să învețe sau să recite două versete din Cartea lui Allah, Puternicul și Majestuosul? Aceasta este mai bună pentru el decât două cămile, și trei sunt mai bune pentru el decât trei, și patru sunt mai bune pentru el decât patru și așa mai departe pentru numărul lor în cămile.",
+        "Profetul (pacea fie asupra lui) a spus: „Oricine stă într-o adunare în care nu-și amintește de Allah, acesta va fi un motiv de regret pentru el din partea lui Allah. Și oricine se culcă într-un loc în care nu-și amintește de Allah, va fi un motiv de regret pentru el din partea lui Allah.'",
+        "Profetul (pacea fie asupra lui) a spus: „Nimeni nu stă într-o adunare în care să nu-și amintească de Allah și să nu trimită binecuvântări asupra Profetului lor, dar va fi un motiv de regret pentru ei. Dacă vrea, îi va pedepsi, iar dacă vrea, îi va ierta.",
+        "Profetul (pacea fie asupra lui) a spus: „Niciun popor nu se ridică dintr-o adunare în care nu și-a adus aminte de Allah, ci se ridică din ceea ce este ca cadavrul unui măgar și va fi un motiv de durere pentru ei”."
+      ],
+      "footnote": [
+        "Sura Al-Baqarah, Versetul: 152",
+        "Sura Al-Ahzab, Versetul: 41",
+        "Sura Al-Ahzab, Versetul: 35",
+        "Sura Al-A'raf, versul: 205",
+        "Al-Bukhari with Fath 11/208 and Muslim with the wording 'The likeness of the house in which Allah is remembered and the house in which Allah is not remembered is that of the living and the dead' 1/539",
+        "At-Tirmidhi 5/459 and Ibn Majah 2/1245. See Sahih Ibn Majah 2/316 and Sahih At-Tirmidhi 3/139",
+        "Al-Bukhari 8/171 and Muslim 4/2061, the wording is from Al-Bukhari",
+        "At-Tirmidhi 5/458 and Ibn Majah 2/1246. See Sahih At-Tirmidhi 3/139 and Sahih Ibn Majah 2/317",
+        "At-Tirmidhi 5/175. See Sahih At-Tirmidhi 3/9 and Sahih Al-Jami' As-Saghir 5/340",
+        "Muslim 1/553",
+        "Abu Dawud 4/264 and others. See Sahih Al-Jami' 5/342",
+        "At-Tirmidhi. See Sahih At-Tirmidhi 3/140",
+        "Abu Dawud 4/264. See Sahih Al-Jami' 5/176"
+      ]
+    },
+    "Cereri pentru Trezire": {
+      "text": [
+        "Toată lauda este pentru Allah, care ne-a dat viața după ce ne-a luat-o* și pentru El este învierea*.",
+        "Toată lauda este pentru Allah, care mi-a dat sănătate în trupul meu și mi-a returnat sufletul și mi-a permis să-mi amintesc de El.",
+        "Trimisul lui Allah (pacea fie asupra lui) a spus: „Oricine se trezește noaptea* și spune la trezire: „La ilaha illallah wahdahu la sharika lah, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadir. Subhanallah, walhamdulillah, wa la ilaha illallah, wallahu akbar, wa la hawla wa la quwwata illa billahil-'aliyyil-'azim' (Nu există nici un zeu în afară de Allah, singur, fără partener. Lui îi aparține stăpânirea și Lui este toată lauda, iar El este în stare să-l laude pe Allah. nu este zeu decât Allah, iar Allah este cel mai mare și nu există putere sau putere decât cu Allah, Cel Prea Înalt, Cel Prea Mare), apoi roagă: „Allahummaghfir li” (O Allah, iartă-mă), el va fi iertat”. Al-Walid a spus: „Sau a spus: „Dacă el imploră, i se va răspunde. Dacă apoi stă în picioare, face abluția și apoi se roagă, rugăciunea lui va fi acceptată.",
+        "{Într-adevăr, în crearea cerurilor și a pământului și alternanța nopții și a zilei sunt semne pentru cei ai înțelegerii. * Care își amintesc de Allah stând în picioare sau stând sau [întins] pe o parte și se gândesc la crearea cerurilor și a pământului, [spunând]: „Doamne, nu Tu ai creat aceasta fără scop; înălțat ești Tu [mai presus de așa ceva]; atunci ferește-ne de pedeapsa Focului. *Domnul nostru, într-adevăr pe oricine Îl dai în Foc - L-ai dezonorat, iar pentru cei nelegiuiți nu sunt ajutoare. *Domnul nostru, într-adevăr am auzit pe un chemând la credință, [spunând]: „Crede în Domnul tău”, și am crezut. Domnul nostru, iartă-ne păcatele noastre și îndepărtează de la noi greșelile noastre și fă-ne să murim împreună cu cei drepți. *Domnul nostru, și dăruiește-ne ceea ce ne-ai făgăduit prin solii Tăi și nu ne dezonora în Ziua Învierii. Într-adevăr, nu eșuezi în promisiunea [Tu]. *Și Domnul lor le-a răspuns: „Nu voi lăsa niciodată să se piardă lucrarea [niciun] lucrător dintre voi, fie bărbat sau femeie; sunteți unul de altul. Așadar, cei care au emigrat sau au fost evacuați din casele lor sau au fost vătămați în cauza Mea sau au luptat sau au fost uciși - cu siguranță îi voi îndepărta de la ei faptele lor și îi voi admite cu siguranță în grădini pe sub care curg râuri ca răsplată de la Allah, iar Allah are cu El cea mai bună răsplată.' *Nu vă lăsați înșelați de mișcarea [neinhibată] a necredincioșilor prin toată țara. *[Este doar] o mică plăcere; atunci refugiul lor [final] este Iadul, iar nenorocit este locul de odihnă. *Dar cei care s-au temut de Domnul lor vor avea grădini pe sub care curg râuri, rămânând veșnic acolo, ca adăpost de la Allah. Și ceea ce este cu Allah este cel mai bun pentru cei drepți. *Și într-adevăr, printre Oamenii Scripturii sunt cei care cred în Allah și în ceea ce ți-a fost descoperit și în ceea ce li s-a descoperit, [fiind] cu umilință supusă lui Allah. Ei nu schimbă versetele lui Allah pentru un preț mic. Aceștia vor avea răsplata lor cu Domnul lor. Într-adevăr, Allah este rapid la socoteală. *O, cei care ai crezut, perseverează și îndurați și rămâneți în poziție și temeți-vă de Allah ca să aveți succes.}'"
+      ],
+      "footnote": [
+        "* adică moartea metaforică, care este somnul. Se spune că somnul este moartea ușoară.",
+        "* Trezirea după moarte (Învierea).",
+        "Al-Bukhari with Fath 11/113 and Muslim 4/2083",
+        "At-Tirmidhi 5/473. See Sahih At-Tirmidhi 3/144",
+        "* „Ta’ar” înseamnă insomnie și răsturnarea și întoarcerea patului noaptea cu vorbire.",
+        "Narrated by Al-Bukhari with Fath 3/144 and others, the wording is from Ibn Majah. See Sahih Ibn Majah 2/335",
+        "The verses are from Surah Al-Imran, 190-200. Al-Bukhari with Fath 8/238 and Muslim 1/530"
+      ]
+    },
+    "Cerere pentru purtarea unei haine": {
+      "text": [
+        "Oricine poartă o haină și spune: „Toată lauda este pentru Allah, care m-a îmbrăcat cu această (veșmânt) și mi-a oferit-o fără nicio putere sau putere din partea mea”."
+      ],
+      "footnote": [
+        "Reported by the compilers of Sunan except An-Nasa'i. See Irwa' al-Ghalil 7/47"
+      ]
+    },
+    "Cerere pentru purtarea unei haine noi": {
+      "text": [
+        "O, Allah, Ție este toată lauda. M-ai îmbrăcat cu el. Îți cer binele ei și binele pentru care a fost făcută și mă adăpostesc în Tine de răul lui și de răul pentru care a fost făcută."
+      ],
+      "footnote": [
+        "Abu Dawud, At-Tirmidhi, and Al-Baghawi. See Mukhtasar Shama'il At-Tirmidhi by Al-Albani, p. 47"
+      ]
+    },
+    "Cerere pentru cineva care poartă o haină nouă": {
+      "text": [
+        "Poartă-l nou, trăiește o viață demnă de laudă și mori ca un martir.",
+        "Fie ca tu să-l uzezi și Allah cel Atotputernic să-l înlocuiască."
+      ],
+      "footnote": [
+        "Ibn Majah 2/1178 and Al-Baghawi 12/41. See Sahih Ibn Majah 2/275",
+        "Reported by Abu Dawud 4/41. See Sahih Abi Dawud 2/760"
+      ]
+    },
+    "Ce să spui când îți dai jos haina": {
+      "text": [
+        "Ecranul dintre ochii djinnului și părțile intime ale copiilor lui Adam, când unul dintre ei își scoate haina, trebuie să spună: „În numele lui Allah”."
+      ],
+      "footnote": [
+        "At-Tirmidhi 2/505 and others. See Al-Irwa' no. 49, Sahih Al-Jami' 3/203"
+      ]
+    },
+    "Cerere pentru intrarea la toaletă": {
+      "text": [
+        "{În numele lui Allah}, o, Allah, caut adăpost în Tine de spiritele rele masculine și feminine."
+      ],
+      "footnote": [
+        "Reported by Al-Bukhari 1/45 and Muslim 1/283. The addition of 'Bismillah' at the beginning is agreed upon, reported by Sa'id bin Mansur. See Fath Al-Bari 1/244"
+      ]
+    },
+    "Cerere pentru a părăsi toaleta": {
+      "text": [
+        "Îți cer iertarea."
+      ],
+      "footnote": [
+        "Reported by the compilers of Sunan except An-Nasa'i, who reported it in 'Amal Al-Yawm wa Al-Laylah. See Takhrij Zad Al-Ma'ad 2/387"
+      ]
+    },
+    "Pomenirea înainte de abluție": {
+      "text": [
+        "În numele lui Allah."
+      ],
+      "footnote": [
+        "Abu Dawud, Ibn Majah, and Ahmad. See Irwa' al-Ghalil 1/122"
+      ]
+    },
+    "Pomenirea după terminarea abluției": {
+      "text": [
+        "Mărturisesc că nu există zeu în afară de Allah, singur, fără partener, și mărturisesc că Muhammad este slujitorul Său și Mesagerul Său.",
+        "At-Tirmidhi added after mentioning the two testimonies: 'O Allah, make me among the repentant and make me among those who purify themselves.'",
+        "Slavă Ție, Allah, și slavă Ție. Mărturisesc că nu există alt dumnezeu în afară de Tine. Îți cer iertarea și mă pocăiesc de Tine."
+      ],
+      "footnote": [
+        "Narrated by Muslim 1/209",
+        "At-Tirmidhi 1/78. See Sahih At-Tirmidhi 1/18",
+        "An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah, p. 173. See Irwa' al-Ghalil 1/135 and 2/94"
+      ]
+    },
+    "Amintirea la ieșirea din casă": {
+      "text": [
+        "În numele lui Allah, mi-am pus încrederea în Allah și nu există putere sau putere decât în ​​Allah.",
+        "O, Allah, caut adăpost în Tine să nu rătăcesc sau să fiu dus în rătăcire, să alunec sau să fiu făcut să alunece, să asupresc sau să fiu asuprit, să acționezi cu ignoranță sau să fiu tratat cu ignoranță."
+      ],
+      "footnote": [
+        "Abu Dawud 4/325 and At-Tirmidhi 5/490. See Sahih At-Tirmidhi 3/151",
+        "The compilers of Sunan. See Sahih At-Tirmidhi 3/152 and Sahih Ibn Majah 2/336"
+      ]
+    },
+    "Amintirea la intrarea în casă": {
+      "text": [
+        "În numele lui Allah intrăm și în numele lui Allah plecăm și ne bazăm pe Domnul nostru. Atunci ar trebui să-și salute familia."
+      ],
+      "footnote": [
+        "Reported by Abu Dawud 4/325, and its chain was graded as hasan by Sheikh Ibn Baz in Tuhfat Al-Akhyar, p. 28. And in the Sahih: 'When a man enters his house and mentions Allah upon his entry and upon his food, Satan says: 'You have no place to spend the night and no supper.'' Muslim, no. 2018"
+      ]
+    },
+    "Cerere pentru a merge la moschee": {
+      "text": [
+        "O, Allah, pune lumină în inima mea, și pe limba mea lumină, și în auzul meu lumină, și în lumina mea în vedere, și deasupra mea lumină, și sub mine lumină, și la dreapta mea lumina și la stânga mea lumina, și înaintea mea lumină și în spatele meu lumină, și pune în sufletul meu lumină și mărește pentru mine lumina și fă-mi mare lumină și dă-mi lumină și fă-mi lumină. O, Allah, dă-mi lumină și pune în nervii mei lumină, și în carnea mea lumină, și în sângele meu, și în părul meu, și în pielea mea.",
+        "O, Allah, dă-mi lumină în mormântul meu... și lumină în oasele mele.",
+        "Și mă sporește în lumină, și mă sporește în lumină și mă sporește în lumină.",
+        "Și dă-mi lumină peste lumină."
+      ],
+      "footnote": [
+        "All these attributes are in Al-Bukhari 11/116, no. 6316, and Muslim 1/526, 529, 530, no. 763",
+        "At-Tirmidhi, no. 3419, 5/483",
+        "Reported by Al-Bukhari in Al-Adab Al-Mufrad, no. 695, p. 258, and its chain was authenticated by Al-Albani in Sahih Al-Adab Al-Mufrad, no. 536",
+        "Menționat de Ibn Hajar în Fath Al-Bari și atribuit-o lui Ibn Abi 'Asim în cartea Du'a. Vezi Fath 11/118. El a spus: „Deci, din diferitele narațiuni, au fost adunate douăzeci și cinci de atribute”."
+      ]
+    },
+    "Rugătorie pentru intrarea în moschee": {
+      "text": [
+        "Caut refugiu în Allah cel Mare și în Fața Sa nobilă și în autoritatea Sa veșnică, de Satana blestemat.",
+        "[În numele lui Allah și rugăciuni] [și pacea fie asupra Trimisului lui Allah], Allah, deschide-mi porțile milei Tale."
+      ],
+      "footnote": [
+        "Abu Dawud. See Sahih Al-Jami', no. 4591",
+        "Narrated by Ibn As-Sunni, no. 88, and graded as hasan by Al-Albani",
+        "Abu Dawud 1/126. See Sahih Al-Jami' 1/528",
+        "Narrated by Muslim 1/494. And in Sunan Ibn Majah from the hadith of Fatimah (may Allah be pleased with her): 'O Allah, forgive my sins and open for me the gates of Your mercy.' Authenticated by Al-Albani due to its supporting narrations. See Sahih Ibn Majah 1/128-129"
+      ]
+    },
+    "Cerere pentru părăsirea moscheii": {
+      "text": [
+        "În numele lui Allah, și rugăciunile și pacea fie asupra Trimisului lui Allah. O, Allah, Te cer din bunătatea Ta. O, Allah, ferește-mă de Satana blestemat."
+      ],
+      "footnote": [
+        "See the authentication of the narrations of the previous hadith, no. 20, and the addition 'O Allah, protect me from the accursed Satan' by Ibn Majah. See Sahih Ibn Majah 1/288"
+      ]
+    },
+    "Cereri pentru chemarea la rugăciune (Adhan)": {
+      "text": [
+        "Ar trebui să repeți ceea ce spune Mu'adhdhin, cu excepția „Hayya „alas-Salah” și „Hayya „alal-Falah”, pentru care ar trebui să spui „La hawla wa la quwwata illa billah” (Nu există putere sau putere decât cu Allah).",
+        "Unul spune: „Și mărturisesc că nu există niciun zeu în afară de Allah, singur, fără partener și că Muhammad este slujitorul Său și Mesagerul Său. Sunt mulțumit de Allah ca Domn, de Muhammad ca Mesager și de Islam ca religie. (Acest lucru se spune imediat după mărturia lui Mu'adhdhin).",
+        "Se trimite rugăciuni asupra Profetului (pacea fie asupra lui) după ce a terminat răspunsul la Mu'adhdhin.",
+        "O, Allah, Domn al acestei chemări desăvârșite și al acestei rugăciuni întemeiate, dă-i lui Mahomed poziția de apropiere și excelență și învie-l la locul demn de laudă pe care i-ai promis-o [Într-adevăr, nu eșuezi în promisiunea Ta].",
+        "Omul se roagă pentru sine între Adhan și Iqamah, pentru că cererea în acel moment nu este respinsă."
+      ],
+      "footnote": [
+        "Al-Bukhari 1/152 and Muslim 1/288",
+        "Muslim 1/290",
+        "Ibn Khuzaymah 1/220",
+        "Muslim 1/288",
+        "Al-Bukhari 1/152. What is between the brackets is from Al-Bayhaqi 1/410, and its chain was graded as hasan by Sheikh Abdul Aziz bin Baz in Tuhfat Al-Akhyar, p. 38",
+        "At-Tirmidhi, Abu Dawud, and Ahmad. See Irwa' al-Ghalil 1/262"
+      ]
+    },
+    "Cererea de deschidere pentru rugăciune": {
+      "text": [
+        "O, Allah, desparte-mă de păcatele mele, așa cum ai despărțit estul de apus. O, Allah, purifică-mă de păcatele mele, așa cum o haină albă este curățată de murdărie. O, Allah, spală-mă de păcatele mele cu apă, zăpadă și grindină.",
+        "Slavă Ție, Allah, și slavă Ție. Binecuvântat este numele Tău și înălțată este măreția Ta. Nu există alt dumnezeu decât Tine.",
+        "Mi-am întors fața către Cel care a creat cerurile și pământul, ca monoteist, și nu sunt dintre politeiști. Într-adevăr, rugăciunea mea, riturile mele de sacrificiu, viața mea și moartea mea sunt pentru Allah, Domnul lumilor, niciun partener nu are El. Și cu aceasta mi s-a poruncit și sunt dintre musulmani. O, Allah, Tu ești Regele, nu există alt zeu în afară de Tine. Tu ești Domnul meu și eu sunt robul Tău. Mi-am greșit însumi și mi-am mărturisit păcatul, așa că iartă-mi toate păcatele, căci într-adevăr, nimeni nu iartă păcatele în afară de Tine. Și călăuzește-mă spre cele mai bune moravuri; nimeni nu-i ghidează pe cei mai buni dintre ei, în afară de Tine. Și întoarce-te de la mine pe cei mai răi dintre ei; nimeni nu-l îndepărtează pe cel mai rău dintre ei în afară de Tine. Sunt la slujba Ta și la plăcerea Ta. Tot binele este în mâinile Tale și răul nu Ți este atribuit. Eu exist prin Tine și pentru Tine. Binecuvântat ești și înălțat. Îți cer iertarea și mă pocăiesc față de Tine.",
+        "O, Allah, Domn al lui Gavriil, al lui Mihail și al lui Israfil, Creatorul cerurilor și al pământului, Cunoscător al celor nevăzute și al celor văzute, Tu judeci între slujitorii Tăi în ceea ce obișnuiau să difere. Călăuzește-mă la adevărul în care ei diferă, cu permisiunea Ta. Într-adevăr, Tu călăuzi pe cine vrei pe o cale dreaptă.",
+        "Allah este cel mai mare, imens. Allah este cel mai mare, imens. Allah este cel mai mare, imens. Și toată lauda se datorează lui Allah, din belșug. Și toată lauda se datorează lui Allah, din belșug. Și toată lauda se datorează lui Allah, din belșug. Și slavă lui Allah, dimineața și seara - de trei ori. Caut refugiu în Allah de Satana blestemat: de aroganța, poezia și nebunia lui.",
+        "Când Profetul (pacea fie asupra lui) se ridica noaptea să se roage Tahajjud, el spunea: „O, Allah, Ție este toată lauda. Tu ești Lumina cerurilor și a pământului și a tot ceea ce este în ele. Pentru Tine este toată lauda. Tu ești Susținătorul cerurilor și al pământului și a tot ceea ce este în ele. [Și Ție este toată lauda. Tu ești Domnul cerurilor și pământului și a tot ce este în ele]. [Și Ție este toată lauda. A ta este stăpânirea cerurilor și a pământului și a tot ce este în ele]. [Și Ție este toată lauda. Tu ești Împăratul cerurilor și al pământului]. [Și Ție este toată lauda]. Tu ești Adevărul și promisiunea Ta este adevărul, iar cuvântul Tău este adevărul, iar întâlnirea cu Tine este adevărul, iar Paradisul este adevărul, iar Focul este adevărul, iar Profeții sunt adevărul, iar Muhammad (pacea fie asupra lui) este adevărul, iar Ora este adevărul]. [O, Allah, Ție m-am supus și în Tine am crezut, și pe Tine m-am bizuit și către Tine m-am întors în pocăință și cu ajutorul Tău m-am certat și la Tine am căutat judecata. Așa că iartă-mă pentru ceea ce am trimis și pentru ceea ce am lăsat în urmă, pentru ceea ce am ascuns și pentru ceea ce am declarat]. [Tu ești Primul și Tu ești Ultimul. Nu există zeu în afară de Tine]. [Tu ești Dumnezeul meu. Nu există nici un zeu în afară de Tine].'"
+      ],
+      "footnote": [
+        "Al-Bukhari 1/181 and Muslim 1/419",
+        "Reported by the four compilers of Sunan. See Sahih At-Tirmidhi 1/77 and Sahih Ibn Majah 1/135",
+        "Narrated by Muslim 1/534",
+        "Narrated by Muslim 1/534",
+        "Reported by Abu Dawud 1/203, Ibn Majah 1/265, and Ahmad 4/85. Muslim reported something similar from Ibn 'Umar (may Allah be pleased with them) with a story 1/420",
+        "Al-Bukhari with Fath 3/3, 11/116, and 13/371, 423, 465, and Muslim in a summarized, similar version 1/532"
+      ]
+    },
+    "Rugări în timpul plecării (Ruku')": {
+      "text": [
+        "Slavă Domnului meu, cel Mare. (de trei ori)",
+        "Slavă Ție, Allah, Domnul nostru, și slavă Ție. O, Allah, iartă-mă.",
+        "Desăvârșit, Sfânt, Domn al îngerilor și al Duhului.",
+        "O, Allah, Ție m-am închinat, în Tine am crezut și Ție m-am supus. Auzul meu, vederea, sângele meu, carnea mea, oasele și nervii mei s-au smerit față de Tine și față de ceea ce poartă picioarele mele.",
+        "Slavă fie Posesorului puterii, stăpânirii, măreției și măreției."
+      ],
+      "footnote": [
+        "Reported by the compilers of Sunan and Ahmad. See Sahih At-Tirmidhi 1/83",
+        "Al-Bukhari 1/199 and Muslim 1/350",
+        "Muslim 1/353 and Abu Dawud 1/230",
+        "Muslim 1/534 and the four except Ibn Majah",
+        "Abu Dawud 1/230, An-Nasa'i, and Ahmad, and its chain is hasan"
+      ]
+    },
+    "Rugări când te ridici din plecăciune (Ruku')": {
+      "text": [
+        "Allah îl aude pe cel care Îl laudă.",
+        "Domnul nostru și Ție este toată lauda, ​​o laudă din belșug, bună și binecuvântată.",
+        "... umplând cerurile și umplând pământul și ceea ce este între ele și umplând orice altceva doriți. Doamne al laudei și al slavei, cel mai vrednic de ceea ce a spus un slujitor, și noi toți suntem robii Tăi. O, Allah, nimeni nu poate reține ceea ce Tu ai dat și nimeni nu poate da ceea ce Tu ai reținut, iar puterea celor puternici nu-l va folosi împotriva Ta."
+      ],
+      "footnote": [
+        "Al-Bukhari with Fath 2/282",
+        "Al-Bukhari with Fath 2/282",
+        "Muslim 1/346"
+      ]
+    },
+    "Cererea în timpul prosternarii (Sujud)": {
+      "text": [
+        "Slavă Domnului meu, Cel Preaînalt. (de trei ori)",
+        "Slavă Ție, Allah, Domnul nostru, și slavă Ție. O, Allah, iartă-mă.",
+        "Desăvârșit, Sfânt, Domn al îngerilor și al Duhului.",
+        "O, Allah, Ție m-am prosternat, în Tine am crezut și Ție m-am supus. Fața mea s-a prosternat în fața Celui care l-a creat și l-a alcătuit și i-a adus auzul și vederea. Binecuvântat este Allah, cel mai bun dintre creatori.",
+        "Slavă fie Posesorului puterii, stăpânirii, măreției și măreției.",
+        "O, Allah, iartă-mi toate păcatele mele, cele mici și cele mari, primele și ultimele, publice și private.",
+        "O, Allah, caut adăpost în plăcerea Ta de mânia Ta și în iertarea Ta de pedeapsa Ta. Și caut adăpost în Tine de Tine. Nu pot număra laudele Tale. Ești așa cum Te-ai lăudat pe Tine Însuți."
+      ],
+      "footnote": [
+        "Reported by the compilers of Sunan and Ahmad. See Sahih At-Tirmidhi 1/83",
+        "Al-Bukhari and Muslim. Its authentication was mentioned earlier under no. 34",
+        "Muslim 1/533. Mentioned earlier under no. 35",
+        "Muslim 1/534 and others",
+        "Abu Dawud 1/230, An-Nasa'i, and Ahmad. Its chain was authenticated by Al-Albani in Sahih Abi Dawud 166",
+        "Muslim 1/350",
+        "Muslim 1/352"
+      ]
+    },
+    "Rugăciunea pentru a ședea între cele două prosternari": {
+      "text": [
+        "Doamne, iartă-mă. Doamne, iartă-mă.",
+        "O, Allah, iartă-mă, ai milă de mine, călăuzește-mă, sprijină-mă, protejează-mă, asigură-mă și înalță-mă."
+      ],
+      "footnote": [
+        "Abu Dawud 1/231. See Sahih Ibn Majah 1/148",
+        "Reported by the compilers of Sunan except An-Nasa'i. See Sahih At-Tirmidhi 1/90 and Sahih Ibn Majah 1/148"
+      ]
+    },
+    "Cererea pentru prosternare de recitare": {
+      "text": [
+        "Fața mea s-a prosternat în fața Celui care a creat-o și și-a adus auzul și vederea prin puterea și puterea Lui. {Atât de binecuvântat este Allah, cel mai bun dintre creatori}.",
+        "O, Allah, înregistrează-mi o răsplată cu Tine pentru asta și îndepărtează de la mine un păcat prin el și fă din el o comoară pentru mine împreună cu Tine și primește-o de la mine așa cum ai primit-o de la robul Tău David."
+      ],
+      "footnote": [
+        "At-Tirmidhi 2/474, Ahmad 6/30, and Al-Hakim who authenticated it and Adh-Dhahabi agreed 1/220. The addition is his.",
+        "At-Tirmidhi 2/473 and Al-Hakim who authenticated it and Adh-Dhahabi agreed 1/219"
+      ]
+    },
+    "Tashahhud-ul": {
+      "text": [
+        "Toate salutările, rugăciunile și lucrurile bune sunt pentru Allah. Pacea fie asupra ta, o, Profete, și mila lui Allah și binecuvântările Lui. Pacea fie asupra noastră și asupra slujitorilor drepți ai lui Allah. Mărturisesc că nu există alt zeu în afară de Allah și mărturisesc că Muhammad este slujitorul Său și Mesagerul Său."
+      ],
+      "footnote": [
+        "Al-Bukhari with Fath 1/13 and Muslim 1/301"
+      ]
+    },
+    "Trimiterea de rugăciuni asupra profetului după Tashahhud": {
+      "text": [
+        "O, Allah, trimite rugăciuni asupra lui Muhammad și asupra familiei lui Muhammad, așa cum Tu ai trimis rugăciuni asupra lui Ibrahim și asupra familiei lui Ibrahim. Într-adevăr, ești vrednic de lăudat și glorios. O, Allah, binecuvântează-l pe Mahomed și familia lui Muhammad, așa cum l-ai binecuvântat pe Ibrahim și familia lui Ibrahim. Într-adevăr, ești vrednic de lăudat și glorios.",
+        "O, Allah, trimite rugăciuni asupra lui Mahomed și asupra soțiilor lui și asupra urmașilor lui, așa cum Tu ai trimis rugăciuni asupra familiei lui Ibrahim. Și binecuvântează-l pe Mahomed și soțiile lui și urmașii lui, așa cum ai binecuvântat familia lui Ibrahim. Într-adevăr, ești vrednic de lăudat și glorios."
+      ],
+      "footnote": [
+        "Al-Bukhari with Fath 6/408",
+        "Al-Bukhari with Fath 6/407 and Muslim 1/306, the wording is his"
+      ],
+      "Cererea după Tashahhud final și înainte de Salam": {
+        "text": [
+          "O, Allah, caut adăpost în Tine de pedeapsa mormântului și de pedeapsa focului iadului și de încercările vieții și morții și de răul încercării lui Antihrist.",
+          "O, Allah, caut adăpost în Tine de pedeapsa mormântului și caut adăpost în Tine de încercarea lui Antihrist și caut adăpost în Tine de încercările vieții și morții. O, Allah, caut adăpost în Tine de păcat și de datorii.",
+          "O, Allah, m-am greșit foarte mult și nimeni nu iartă păcatele decât Tu, așa că dă-mi iertare de la Tine însuți și ai milă de mine. Într-adevăr, Tu ești Cel Iertător, Cel Milostiv.",
+          "O, Allah, iartă-mă pentru ceea ce am trimis și pentru ceea ce am lăsat în urmă, pentru ceea ce am ascuns și pentru ceea ce am declarat, pentru ceea ce am călcat și pentru ceea ce știi Tu mai bine decât mine. Tu ești Primul și Tu ești Ultimul. Nu există zeu în afară de Tine.",
+          "O, Allah, ajută-mă să-mi amintesc de Tine, să-ți mulțumesc și să mă închin în cele mai bune maniere.",
+          "O, Allah, mă adăpostesc în Tine împotriva zgârceniei, și caut adăpost în Tine împotriva lașității și caut adăpost în Tine pentru a nu fi întors în veacuri cele mai decrepite, și caut adăpost în Tine de încercările acestei lumi și caut adăpost în Tine de pedeapsa mormântului.",
+          "O, Allah, Îți cer Paradisul și caut adăpost în Tine de Foc.",
+          "O, Allah, prin cunoștința Ta asupra nevăzutului și prin puterea Ta asupra creației, ține-mă în viață atâta timp cât știi că viața este bună pentru mine și fă-mă să mor când știi că moartea este bună pentru mine. O, Allah, Îți cer frica în cele nevăzute și în cele văzute și Îți cer cuvântul adevărului în mulțumire și mânie și Îți cer cumpătare în bogăție și sărăcie, și Îți cer binecuvântări care nu încetează, și Îți cer răceala ochiului care nu se termină și Îți cer mulțumire, după ce îți cer liniște, după viață. moarte și Îți cer plăcerea de a-ți privi Fața și dorul de a te întâlni fără nicio suferință vătămătoare sau încercare înșelătoare. O, Allah, împodobește-ne cu podoaba credinței și fă-ne călăuzitori călăuziți.",
+          "O, Allah, Te rog, o, Allah, întrucât Tu ești Unul, Singurul, Stăpânul Autosuficient, care nu s-a născut și nu a născut și căruia nimeni nu este egal, să-mi ierți păcatele. Într-adevăr, Tu ești Cel Iertător, Cel Milostiv.",
+          "O, Allah, Te rog, pentru că Ți se cuvine toată lauda, ​​nu există nici un dumnezeu în afară de Tine, singur fără partener, Dăruitor de favoruri, O, Creatorul cerurilor și al pământului, O, Posesor al măreției și cinstei, O, Veșnic Viu, O, Auto-susținut, Îți cer Paradisul și caut refugiu în Tine de Foc.",
+          "O, Allah, Te rog, pe măsură ce mărturisesc că Tu ești Allah, nu există nici un dumnezeu în afară de Tu, Unul, Stăpânul Autosuficient, care nu s-a născut și nu a născut și cu care nimeni nu este egal."
+        ],
+        "footnote": [
+          "Al-Bukhari 2/102 and Muslim 1/412, the wording is from Muslim",
+          "Al-Buhkari 1/202 and Muslim 1/412",
+          "Al-Bukhari 8/168 and Muslim 4/2078",
+          "Muslim 1/534",
+          "Abu Dawud 2/86 and An-Nasa'i 3/53, authenticated by Al-Albani in Sahih Abi Dawud 1/284",
+          "Al-Bukhari 6/35",
+          "Abu Dawud. See Sahih Ibn Majah 2/328",
+          "An-Nasa'i 4/54, 55 and Ahmad 4/364, authenticated by Al-Albani in Sahih An-Nasa'i 1/281",
+          "Reported by An-Nasa'i with this wording 3/52 and Ahmad 4/338, authenticated by Al-Albani in Sahih An-Nasa'i 1/280",
+          "Narrated by the compilers of Sunan. See Sahih Ibn Majah 2/329",
+          "Abu Dawud 2/62, At-Tirmidhi 5/515, Ibn Majah 2/1267, and Ahmad 5/360. See Sahih Ibn Majah 2/329 and Sahih At-Tirmidhi 3/163"
+        ]
+      },
+      "Amintiri după Salamul Rugăciunii": {
+        "text": [
+          "Cer iertarea lui Allah (de trei ori). O, Allah, Tu ești pace și de la Tine vine pacea. Binecuvântat ești Tu, O, Posesor de măreție și onoare.",
+          "Nu există zeu în afară de Allah, singur, fără partener. Lui Îi aparține stăpânirea și Lui este toată lauda și El este în stare să facă toate lucrurile. O, Allah, nimeni nu poate reține ceea ce Tu ai dat și nimeni nu poate da ceea ce Tu ai reținut, iar puterea celor puternici nu-l va folosi împotriva Ta.",
+          "Nu există zeu în afară de Allah, singur, fără partener. Lui Îi aparține stăpânirea și Lui este toată lauda și El este în stare să facă toate lucrurile. Nu există putere sau putere decât cu Allah. Nu există alt zeu în afară de Allah și nu ne închinăm nimănui în afară de El. Lui îi aparține favoarea și Lui îi aparține harul și Lui îi aparține cea mai bună laudă. Nu există alt zeu în afară de Allah, sincer în religie față de El, chiar dacă necredincioșilor nu le place.",
+          "Slavă lui Allah și laudă lui Allah, iar Allah este cel mai mare (de treizeci și trei de ori). Nu există zeu în afară de Allah, singur, fără partener. Lui Îi aparține stăpânirea și Lui este toată lauda și El este în stare să facă toate lucrurile.",
+          "În numele lui Allah, Cel Prea Milostiv, Cel Milostiv {Spune: „El este Allah, [care este] Unul, * Allah, Adăpostul Etern. * Nici nu naște, nici nu se naște, * Nici nu are echivalent pentru El.'} În numele lui Allah, Cel Prea Milostiv, Cel Milostiv {Spune: „Că adăpostesc în Domnul zorii * De răul pe care El l-a creat * Și de răul întunericului, când se așează * Și de răul suflătorilor în noduri* și de invidii în numele răului. lui Allah, Cel Prea Milostiv, Cel Prea Milostiv {Spune: „Că adăpostesc în Domnul omenirii, * Suveranul omenirii. * Dumnezeul omenirii. * Din răutatea șoptitorului care se retrage - * Care șoptește [răul] în sânii omenirii - * Dintre djini și oameni.'} (O dată după fiecare rugăciune și de trei ori după rugăciunile Maghrib și Fajr).",
+          "{Allah - nu există nicio zeitate în afară de El, Cel Veșnic Viu, Susținătorul [toate] existenței. Nici somnolența nu-L prinde și nici somnul. Lui îi aparține tot ce este în ceruri și tot ce este pe pământ. Cine poate mijloci la El decât cu permisiunea Lui? El știe ce este [în prezent] înaintea lor și ce va fi după ei, iar ei nu cuprind nimic din cunoștințele Sale decât ceea ce dorește El. Kursi-ul lui se întinde peste ceruri și pământ, iar păstrarea lor nu-L obosește. Și El este Cel Prea Înalt, Cel Prea Mare.} (După fiecare rugăciune).",
+          "Nu există zeu în afară de Allah, singur, fără partener. Lui îi aparține stăpânirea și Lui este toată lauda. El dă viață și provoacă moartea și El este capabil să facă toate lucrurile. (De zece ori după rugăciunile Maghrib și Subh).",
+          "O, Allah, Îți cer cunoștințe benefice, provizii bune și fapte acceptate. (După rugăciunea Salam al Fajrului)."
+        ],
+        "footnote": [
+          "Muslim 1/414",
+          "Al-Bukhari 1/255 and Muslim 1/414",
+          "Muslim 1/415",
+          "Musulman 1/418. Oricine spune asta după fiecare rugăciune, păcatele îi vor fi iertate chiar dacă sunt ca spuma mării. Musulman 1/418",
+          "Abu Dawud 2/86 and An-Nasa'i 3/68. See Sahih At-Tirmidhi 2/8. The three Surahs are called Al-Mu'awwidhat. See Fath Al-Bari 9/62",
+          "Whoever recites it after every prayer, nothing will prevent him from entering Paradise except death. An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah, no. 100, and Ibn As-Sunni, no. 121. Authenticated in Al-Jami' 5/339 and Silsilat Al-Ahadith As-Sahiha 2/697, no. 972",
+          "Narrated by At-Tirmidhi 5/515 and Ahmad 4/227. See its authentication in Zad Al-Ma'ad 1/300",
+          "Ibn Majah and others. See Sahih Ibn Majah 1/152 and Majma' Az-Zawa'id 10/111"
+        ]
+      },
+      "Rugăciunea pentru Istikhara": {
+        "text": [
+          "Jabir bin Abdullah (Allah să fie mulțumit de ei) a spus: „Trimisul lui Allah (pacea fie asupra lui) obișnuia să ne învețe Istikhara (căutând îndrumare) în toate chestiunile, așa cum ne-ar învăța o sură din Coran. El ar spune: „Dacă vreunul dintre voi este preocupat de o problemă, să se roage alte două rak'ah-uri decât rugăciunea obligatorie, apoi să spună: „O, Allah, caut călăuzirea Ta prin cunoștințele Tale și caut puterea Ta prin puterea Ta și Te cer marea Ta bunătate. Căci Tu ai putere, iar eu nu am. Tu știi, iar eu nu știu, și Tu ești Cunoscătorul nevăzutului. O, Allah, dacă Tu știi că această chestiune - (și ar trebui să-și numească nevoia) - este bună pentru mine în religia mea, în traiul meu și în rezultatul treburilor mele\", sau el a spus: \"în treburile mele imediate și viitoare, atunci hotărăște-mi pentru mine, fă-mi-o ușor și apoi binecuvântează-mă în ea\". Și dacă știi că această chestiune este rău pentru mine în religia mea, în traiul meu și în rezultatul treburilor mele”, sau el a spus: „în treburile mele imediate și viitoare, atunci îndepărtează-o de la mine și îndepărtează-mă de ea și hotărăște-mi ceea ce este bun oriunde ar fi și apoi mulțumește-mă cu asta”.",
+          "Iar cel care caută călăuzire de la Creator, consultă creația credincioasă și este ferm în afacerea sa nu va regreta, pentru că Allah Înălțatul a spus: {și consultați-i în această problemă. Și când te-ai hotărât, atunci te bazezi pe Allah.}"
+        ],
+        "footnote": [
+          "Al-Bukhari 7/162",
+          "Sura Al-Imran, Versetul: 159"
+        ]
+      },
+      "Amintiri de dimineață și de seară": {
+        "text": [
+          "Toată lauda se datorează numai lui Allah, iar pacea și binecuvântările fie asupra celui după care nu există nici un profet.",
+          "Caut refugiu în Allah de Satana blestemat. {Allah - nu există nicio zeitate în afară de El, Cel Veșnic Viu, Susținătorul [toate] existenței. Nici somnolența nu-L prinde și nici somnul. Lui îi aparține tot ce este în ceruri și tot ce este pe pământ. Cine poate mijloci la El decât cu permisiunea Lui? El știe ce este [în prezent] înaintea lor și ce va fi după ei, iar ei nu cuprind nimic din cunoștințele Sale decât ceea ce dorește El. Kursi-ul lui se întinde peste ceruri și pământ, iar păstrarea lor nu-L obosește. Și El este Cel Prea Înalt, Cel Prea Mare.}",
+          "În numele lui Allah, Cel Prea Milostiv, Cel Milostiv {Spune: „El este Allah, [care este] Unul, * Allah, Adăpostul Etern. * Nici nu naște, nici nu se naște, * Nici nu are echivalent pentru El.'} În numele lui Allah, Cel Prea Milostiv, Cel Milostiv {Spune: „Că adăpostesc în Domnul zorii * De răul pe care El l-a creat * Și de răul întunericului, când se așează * Și de răul suflătorilor în noduri* și de invidii în numele răului. lui Allah, Cel Prea Milostiv, Cel Prea Milostiv {Spune: „Că adăpostesc în Domnul omenirii, * Suveranul omenirii. * Dumnezeul omenirii. * Din răutatea șoptitorului care se retrage - * Care șoptește [rău] în sânii omenirii - * Dintre djini și omenire.'} (De trei ori)",
+          "Am ajuns dimineața și chiar la această oră lui Allah îi aparține toată suveranitatea și toată lauda este pentru Allah. Nu există zeu în afară de Allah, singur, fără partener. Lui Îi aparține stăpânirea și Lui este toată lauda și El este în stare să facă toate lucrurile. Doamne, Îți cer binele acestei zile și binele a ceea ce îi urmează și mă adăpostesc în Tine de răul acestei zile și de răul ce urmează. Doamne, mă adăpostesc în Tine de lenea și de răutățile bătrâneții. Domnul meu, caut adăpost în Tine de pedeapsa în Foc și pedeapsa în mormânt. Și când vine seara, ar trebui să spună și: „Am ajuns la seară și chiar în acest moment lui Allah îi aparține toată suveranitatea”.",
+          "O, Allah, prin Tine am ajuns dimineața și prin Tine am ajuns seara, prin Tine trăim și prin Tine murim și Ție este învierea. Iar când vine seara, el ar trebui să spună: „O, Allah, prin Tine am ajuns la seară, și prin Tine am ajuns la dimineață, prin Tine trăim și prin Tine murim și către Tine este întoarcerea finală”.",
+          "O, Allah, Tu ești Domnul meu, nu există alt zeu în afară de Tine. Tu m-ai creat și eu sunt robul Tău și sunt în legământul Tău și făgăduința Ta, cât pot. Caut adăpost în Tine de răul a ceea ce am făcut. Recunosc favoarea Ta asupra mea și recunosc păcatul meu, așa că iartă-mă, căci într-adevăr, nimeni nu iartă păcatele în afară de Tine.",
+          "O, Allah, am ajuns dimineața și chem pe Tine și pe purtătorii tronului Tău, pe îngerii Tăi și pe toată creația Ta să mărturisească că Tu ești Allah, că nu există nici un zeu în afară de Tine, singur, fără partener și că Muhammad este slujitorul Tău și Mesagerul Tău. (de patru ori)",
+          "O, Allah, orice binecuvântare a venit la mine sau la oricare dintre creațiile Tale în această dimineață este numai de la Tine, fără niciun partener. Deci Ție este toată lauda și Ție toată mulțumirea.",
+          "O, Allah, dă-mi sănătate în trupul meu. O, Allah, dă-mi sănătate în auzul meu. O, Allah, dă-mi sănătate înaintea mea. Nu există zeu în afară de Tine. O, Allah, caut adăpost în Tine de necredință și sărăcie. O, Allah, caut adăpost în Tine de pedeapsa mormântului. Nu există zeu în afară de Tine. (de trei ori)",
+          "Allah îmi este suficient. Nu există Dumnezeu decât El. În El mi-am pus încrederea, iar El este Domnul Tronului Puternic. (de șapte ori)",
+          "O, Allah, Îți cer iertare și bunăstare în această lume și în cea de Apoi. O, Allah, Îți cer iertare și bunăstare în religia mea, treburile mele lumești, familia mea și averea mea. O, Allah, ascunde-mi greșelile și potolește-mi temerile. O, Allah, ferește-mă de înaintea mea și din spatele meu, din dreapta și din stânga mea și de deasupra mea, și caut adăpost în măreția Ta de a fi lovit de sub mine.",
+          "O, Allah, Cunoscător al celor nevăzute și al celor văzute, Creatorul cerurilor și al pământului, Doamne și Suveran al tuturor lucrurilor, mărturisesc că nu există nici un dumnezeu în afară de Tine. Caut refugiu în Tine de răul meu, de răul lui Satan și de incitarea lui și de a comite răul împotriva mea sau de a-l aduce asupra unui musulman.",
+          "În numele lui Allah, cu numele căruia nimic pe pământ sau în cer nu poate cauza rău, și El este Atot-auzitorul, Atotștiutorul. (de trei ori)",
+          "Sunt mulțumit de Allah ca Domn, de Islam ca religie și de Muhammad (pacea fie asupra lui) ca Profet. (de trei ori)",
+          "O, Veșnic Viu, O, Auto-susținător, prin mila Ta caut ajutor. Îndreptă-mi toate treburile și nu mă încredința mie pentru o clipă.",
+          "Am ajuns dimineața și chiar în acest moment toată suveranitatea îi aparține lui Allah, Domnul lumilor. O, Allah, Îți cer binele acestei zile: victoria, ajutorul, lumina, binecuvântările și călăuzirea. Și caut adăpost în Tine de răul care este în ea și de răul care îl urmează.",
+          "Am ajuns de dimineață la religia naturală a islamului, la cuvântul sincerității, la religia profetului nostru Muhammad (pacea fie asupra lui) și la crezul tatălui nostru Ibrahim, un monoteist, un musulman și el nu era dintre politeiști.",
+          "Oricine spune: „Slavă lui Allah și laudă Lui” (de o sută de ori).",
+          "Nu există zeu în afară de Allah, singur, fără partener. Lui Îi aparține stăpânirea și Lui este toată lauda și El este în stare să facă toate lucrurile. (De zece ori) (sau o dată când leneș).",
+          "Nu există zeu în afară de Allah, singur, fără partener. Lui Îi aparține stăpânirea și Lui este toată lauda și El este în stare să facă toate lucrurile. (De o sută de ori dimineața).",
+          "Slavă lui Allah și slavă Lui, după numărul creației Sale, plăcerea Lui, greutatea tronului Său și cerneala cuvintelor Sale. (De trei ori dimineața).",
+          "O, Allah, Îți cer cunoștințe benefice, provizii bune și fapte acceptate. (Dimineaţa).",
+          "Cer iertarea lui Allah și mă pocăiesc de El. (De o sută de ori pe zi).",
+          "Caut refugiu în cuvintele perfecte ale lui Allah de răul a ceea ce El a creat. (De trei ori seara).",
+          "O, Allah, trimite rugăciuni și pace asupra profetului nostru Muhammad. (De zece ori)."
+        ],
+        "footnote": [
+          "From Anas, who attributed it to the Prophet: 'For me to sit with people remembering Allah the Almighty from the morning prayer until the sun rises is more beloved to me than freeing four of the descendants of Ishmael. And for me to sit with people remembering Allah from the afternoon prayer until the sun sets is more beloved to me than freeing four.' Abu Dawud, no. 3667, graded as hasan by Al-Albani, Sahih Abi Dawud 2/698",
+          "Surah Al-Baqarah, Verse 255. Whoever says it in the evening will be protected from them until the morning. Reported by Al-Hakim 1/562 and authenticated by Al-Albani in Sahih At-Targhib wa At-Tarhib 1/273, attributed to An-Nasa'i and At-Tabarani, and he said: 'The chain of At-Tabarani is good.'",
+          "Whoever says it three times in the morning and evening, it will suffice him against everything. Abu Dawud 4/322 and At-Tirmidhi 5/567. See Sahih At-Tirmidhi 3/182",
+          "Și când vine seara, el spune: „Am ajuns la seară și chiar în acest moment toată suveranitatea îi aparține lui Allah”.",
+          "Iar când vine seara, zice: „Doamne, Îți cer binele acestei nopți și binele a ceea ce o urmează și mă adăpostesc în Tine de răul acestei nopți și de răul a ceea ce o urmează”.",
+          "Muslim 4/2088",
+          "Iar când vine seara, el zice: „O, Allah, prin Tine am ajuns la seară, și prin Tine am ajuns la dimineață, prin Tine trăim și prin Tine murim și către Tine este întoarcerea finală”.",
+          "At-Tirmidhi 5/466. See Sahih At-Tirmidhi 3/142",
+          "Recunosc și mărturisesc.",
+          "Whoever says it with certainty in the evening and dies that night will enter Paradise, and likewise in the morning. Reported by Al-Bukhari 7/150",
+          "Iar când vine seara, el spune: „O, Allah, am ajuns la seară”.",
+          "Whoever says it in the morning and evening four times, Allah will free him from the Fire. Reported by Abu Dawud 4/317, Al-Bukhari in Al-Adab Al-Mufrad no. 1201, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 9, and Ibn As-Sunni no. 70. Sheikh Ibn Baz graded the chain of An-Nasa'i and Abu Dawud as hasan in Tuhfat Al-Akhyar, p. 23",
+          "Iar când vine seara, el spune: „O, Allah, orice binecuvântare mi-a venit în această seară”.",
+          "Whoever says it in the morning has fulfilled the thanks of his day, and whoever says it in the evening has fulfilled the thanks of his night. Reported by Abu Dawud 4/318, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 7, Ibn As-Sunni no. 41, and Ibn Hibban (Mawarid) no. 2361. Ibn Baz graded its chain as hasan in Tuhfat Al-Akhyar, p. 24",
+          "Abu Dawud 4/324, Ahmad 5/42, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 22, Ibn As-Sunni no. 69, and Al-Bukhari in Al-Adab Al-Mufrad. Sheikh Ibn Baz graded it as hasan in Tuhfat Al-Akhyar, p. 26",
+          "Whoever says it in the morning and evening seven times, Allah will suffice him in his concerns of this world and the Hereafter. Reported by Ibn As-Sunni no. 71 as a marfu' hadith, and Abu Dawud as mawquf 4/321. Its chain was authenticated by Shu'ayb and 'Abd al-Qadir al-Arna'ut. See Zad Al-Ma'ad 2/376",
+          "Abu Dawud and Ibn Majah. See Sahih Ibn Majah 2/332",
+          "At-Tirmidhi and Abu Dawud. See: Sahih At-Tirmidhi 3/142",
+          "Whoever says it three times in the morning and three times in the evening, nothing will harm him. Reported by Abu Dawud 4/323, At-Tirmidhi 5/465, Ibn Majah, and Ahmad. See: Sahih Ibn Majah 2/332. Sheikh Ibn Baz graded its chain as hasan in Tuhfat Al-Akhyar, p. 39",
+          "Whoever says it three times in the morning and evening, it will be a right upon Allah to please him on the Day of Resurrection. Ahmad 4/337, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 4, Ibn As-Sunni no. 68, Abu Dawud 4/418, and At-Tirmidhi 5/465. Ibn Baz graded it as hasan in Tuhfat Al-Akhyar, p. 39",
+          "Al-Hakim, care l-a autentificat și Adh-Dhahabi au fost de acord cu 1/545. Vezi Sahih At-Targhib wa At-Tarhib 1/273",
+          "Iar când vine seara, el spune: „Am ajuns la seară și chiar în acest moment toată suveranitatea îi aparține lui Allah, Domnul lumilor”.",
+          "Iar când vine seara, el spune: „O, Allah, Îți cer binele acestei nopți: victoria ei, ajutorul ei, lumina, binecuvântările și călăuzirea ei. Și mă adăpostesc în Tine de răul care este în ea și de răul care îl urmează.",
+          "Abu Dawud 4/322. Shu'ayb and 'Abd al-Qadir al-Arna'ut graded its chain as hasan in their verification of Zad Al-Ma'ad 2/273",
+          "Iar când vine seara, el spune: „Am ajuns la seara la religia naturală a islamului”.",
+          "Ahmad 3/406 and 407, and Ibn As-Sunni in 'Amal Al-Yawm wa Al-Laylah no. 34. See: Sahih Al-Jami' 4/209",
+          "Cine o spune de o sută de ori dimineața și seara, nimeni nu va veni în Ziua Învierii cu ceva mai bun decât ceea ce a adus, în afară de cineva care a spus la fel ca el sau mai mult. Povestit de Muslim 4/2071",
+          "An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 24. See: Sahih At-Targhib wa At-Tarhib 1/272, and Tuhfat Al-Akhyar by Ibn Baz, p. 44. See its virtue on p. 146, hadith no. 255",
+          "Abu Dawud 4/319, Ibn Majah, and Ahmad 4/60. See: Sahih At-Targhib wa At-Tarhib 1/270, Sahih Abi Dawud 3/957, Sahih Ibn Majah 2/331, and Zad Al-Ma'ad 2/377",
+          "Whoever says it one hundred times in a day, it will be for him the equivalent of freeing ten slaves, and one hundred good deeds will be written for him, and one hundred bad deeds will be erased from him, and it will be a protection for him from Satan for that day until evening, and no one will bring anything better than what he has brought except for someone who has done more than that. Al-Bukhari 4/95, and Muslim 4/2071",
+          "Muslim 4/2090",
+          "Reported by Ibn As-Sunni in 'Amal Al-Yawm wa Al-Laylah no. 54 and Ibn Majah no. 925. 'Abd al-Qadir and Shu'ayb al-Arna'ut graded its chain as hasan in their verification of Zad Al-Ma'ad 2/375",
+          "Al-Bukhari with Fath 11/101, and Muslim 4/2075",
+          "Whoever says it in the evening three times, the sting of that night will not harm him. Reported by Ahmad 2/290, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 590, and Ibn As-Sunni no. 68. See: Sahih At-Tirmidhi 3/187, Sahih Ibn Majah 2/266, and Tuhfat Al-Akhyar, p. 45",
+          "Cine trimite rugăciuni asupra mea de zece ori dimineața și de zece ori seara, mijlocirea mea va ajunge la el în Ziua Învierii... Povestită de At-Tabarani cu două lanțuri, dintre care unul bun. Vezi Al-Zawa'id 10/120 și Sahih At-Targhib wa At-Tarhib 1/273"
+        ]
+      },
+      "Amintiri pentru somn": {
+        "text": [
+          "Ar trebui să-și pună mâinile împreună, apoi să sufle în ele și să recite: În numele lui Allah, Cel Prea Milostiv, Cel Milostiv {Spune: „El este Allah, [care este] Unul, * Allah, Adăpostul Etern. * Nici nu naște, nici nu se naște, * Nici nu are echivalent pentru El.'} În numele lui Allah, Cel Prea Milostiv, Cel Milostiv {Spune: „Că adăpostesc în Domnul zorii * De răul pe care El l-a creat * Și de răul întunericului, când se așează * Și de răul suflătorilor în noduri* și de invidii în numele răului. lui Allah, Cel Prea Milostiv, Cel Prea Milostiv {Spune: „Că adăpostesc în Domnul omenirii, * Suveranul omenirii. * Dumnezeul omenirii. * Din răutatea șoptitorului care se retrage - * Care șoptește [răul] în sânii omenirii - * Din mijlocul djinilor și al omenirii.'} Apoi ar trebui să ștergă cu ei tot ce poate din trupul său, începând cu capul, fața și partea din față a corpului. (Ar trebui să facă asta de trei ori).",
+          "{Allah - nu există nicio zeitate în afară de El, Cel Veșnic Viu, Susținătorul [toate] existenței. Nici somnolența nu-L prinde și nici somnul. Lui îi aparține tot ce este în ceruri și tot ce este pe pământ. Cine poate mijloci la El decât cu permisiunea Lui? El știe ce este [în prezent] înaintea lor și ce va fi după ei, iar ei nu cuprind nimic din cunoștințele Sale decât ceea ce dorește El. Kursi-ul lui se întinde peste ceruri și pământ, iar păstrarea lor nu-L obosește. Și El este Cel Prea Înalt, Cel Prea Mare.}",
+          "{Trimisul a crezut în ceea ce i s-a descoperit de la Domnul său, și [la fel] credincioșii. Toți au crezut în Allah și în îngerii Săi, în cărțile Lui și în solii Săi, [spunând]: „Nu facem nicio deosebire între niciunul dintre solii Săi”. Și ei spun: „Auzim și ne supunem. [Căutăm] iertarea Ta, Domnul nostru, iar pentru Tine este destinația [finală].' * Allah nu acuză un suflet decât [cu acela în limitele] capacității sale. Va avea [consecința] a ceea ce [bine] a câștigat și va suporta [consecința] a ceea ce [răul] a câștigat. „Doamne, nu ne învinovăți dacă am uitat sau am greșit. Domnul nostru, și nu pune peste noi o povară ca aceea pe care ai pus-o asupra celor dinaintea noastră. Domnul nostru, și nu ne împovărați cu ceea ce nu avem capacitatea de a suporta. Și iartă-ne; și iartă-ne; și ai milă de noi. Tu ești protectorul nostru, așa că dă-ne victoria asupra oamenilor necredincioși.'}",
+          "În numele Tău, Domnul meu, îmi pun partea mea și prin Tine o ridic. Dacă îmi iei sufletul, atunci ai milă de el, iar dacă-l trimiți înapoi, protejează-l cu ceea ce îi protejezi pe slujitorii Tăi drepți.",
+          "O, Allah, Tu mi-ai creat sufletul și Tu l-ai luat. Ție îți aparține moartea și viața ei. Dacă îi dai viață, atunci protejează-l, iar dacă îi faci să moară, atunci iartă-l. O, Allah, Îți cer bunăstare.",
+          "O, Allah, ferește-mă de pedeapsa Ta în ziua în care vei învia slujitorii Tăi. (de trei ori)",
+          "În numele Tău, Allah, mor și trăiesc.",
+          "Slavă lui Allah (de treizeci și trei de ori) și laudă lui Allah (de treizeci și trei de ori), iar Allah este cel mai mare (de treizeci și patru de ori).",
+          "O, Allah, Domnul celor șapte ceruri și Domn al Tronului Puternic, Domnul nostru și Domn al tuturor lucrurilor, Despărțitor de grâne și de curmal, Dezvăluitor al Torei, al Evangheliei și al Furqanului, caut să mă adăpostesc în Tine de răul a tot ceea ce ține de frum. O, Allah, Tu ești Cel dintâi, deci nu este nimic înaintea Ta și Tu ești Ultimul, deci nu este nimic după Tine și Tu ești Manifestul, deci nu este nimic deasupra Ta, iar Tu ești Cel Ascuns, deci nu este nimic dincolo de Tine. Achită-ne datoria și îmbogățiește-ne din sărăcie.",
+          "Toată lauda este pentru Allah, care ne-a hrănit și ne-a dat de băut și ne-a săturat și ne-a dat adăpost, căci câți nu au cu cine să le fie suficient sau să le adăpostească.",
+          "O, Allah, Cunoscător al celor nevăzute și al celor văzute, Creatorul cerurilor și al pământului, Doamne și Suveran al tuturor lucrurilor, mărturisesc că nu există nici un dumnezeu în afară de Tine. Caut refugiu în Tine de răul meu, de răul lui Satan și de incitarea lui și de a comite răul împotriva mea sau de a-l aduce asupra unui musulman.",
+          "Recitați {Alif, Lam, Meem} Tanzil (Sura As-Sajdah) și {Tabarakalladhi biyadihil-mulk} (Sura Al-Mulk).",
+          "O, Allah, m-am supus Ție și Ți-am încredințat afacerea mea și Ți-am întors spatele cu speranța și frica de Tine. Nu există refugiu și nicio scăpare de la Tine decât la Tine. Am crezut în cartea Ta pe care ai descoperit-o și în Profetul Tău pe care l-ai trimis."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 9/62 and Muslim 4/1723",
+          "Whoever recites it when he goes to his bed, a guardian from Allah will remain with him, and no devil will approach him until he wakes up. Al-Bukhari with Fath 4/487",
+          "Whoever recites them in a night, they will suffice him. Al-Bukhari with Fath 9/94 and Muslim 1/554. The two verses are from Surah Al-Baqarah, 285-286.",
+          "Dacă unul dintre voi se ridică din pat și apoi se întoarce în el, ar trebui să-l prafească cu marginea hainei de trei ori și să rostească numele lui Allah, pentru că nu știe ce a urmat pe el. Și când se întinde, ar trebui să spună... hadith-ul.",
+          "Al-Bukhari 11/126 and Muslim 4/2084",
+          "Narrated by Muslim 4/2083 and Ahmad with his wording 2/79",
+          "Când Trimisul lui Allah (pacea fie asupra lui) voia să doarmă, își punea mâna dreaptă sub obraz și apoi spunea... hadith-ul.",
+          "Abu Dawud with his wording 4/311. See Sahih At-Tirmidhi 3/143",
+          "Al-Bukhari with Fath 11/113 and Muslim 4/2083",
+          "Whoever said that when he goes to his bed, it would be better for him than a servant. Al-Bukhari with Fath 7/71 and Muslim 4/2091",
+          "Muslim 4/2084",
+          "Muslim 4/2085",
+          "Abu Dawud 4/317. See Sahih Sunan At-Tirmidhi 3/142",
+          "At-Tirmidhi and An-Nasa'i. See Sahih Al-Jami' 4/255",
+          "Când te duci în pat, fă abluția așa cum ai face pentru rugăciune, apoi întinde-te pe partea dreaptă și spune... hadith-ul.",
+          "The Prophet (peace be upon him) said to the one who said that: 'If you die, you will die on the Fitrah (natural disposition).' Al-Bukhari with Fath 11/113 and Muslim 4/2081"
+        ]
+      },
+      "Cererea la întoarcerea noaptea": {
+        "text": [
+          "Nu există alt zeu în afară de Allah, Unul, Prevalătorul, Stăpânul cerurilor și al pământului și ceea ce este între ei, Înălțat în Putere, Iertătorul Veșnic."
+        ],
+        "footnote": [
+          "One says this if he turns from side to side during the night. Reported by Al-Hakim, who authenticated it and Adh-Dhahabi agreed 1/540, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah', and Ibn As-Sunni. See Sahih Al-Jami' 4/213"
+        ]
+      },
+      "Cerere pentru anxietate și spaimă în timpul somnului și pentru cel afectat de singurătate": {
+        "text": [
+          "Caut refugiu în cuvintele desăvârșite ale lui Allah de mânia și pedeapsa Sa, de răul slujitorilor Săi și de îndemnurile diavolilor și ca ei să fie prezenți."
+        ],
+        "footnote": [
+          "Abu Dawud 4/12. See Sahih At-Tirmidhi 3/171"
+        ]
+      },
+      "Ce să faci când vezi un vis sau un coșmar": {
+        "text": [
+          "Scuipă ușor în stânga lui (de trei ori).",
+          "Căutați refugiu în Allah de Satan și de răul a ceea ce a văzut (de trei ori).",
+          "Nu spune nimănui despre asta.",
+          "Întoarce-te pe cealaltă parte.",
+          "Ridică-te și roagă-te dacă dorește să facă asta."
+        ],
+        "footnote": [
+          "Muslim 4/1772",
+          "Muslim 4/1773",
+          "Muslim 4/1772",
+          "Muslim 4/1773",
+          "Muslim 4/1773"
+        ]
+      },
+      "Rugăciunea pentru Qunut în Witr": {
+        "text": [
+          "O, Allah, călăuzește-mă printre cei pe care i-ai călăuzit și dă-mi bunăstare printre cei pe care Tu i-ai dat bunăstare și ia-mă în sarcina Ta printre cei pe care i-ai luat în sarcina Ta și binecuvântează-mă în ceea ce ai dat și protejează-mă de răul a ceea ce ai hotărât. Căci Tu hotărăști și nimeni nu poate hotărî asupra Ta. Într-adevăr, cel pe care Tu îl iei ca aliat nu este smerit [iar cel pe care Tu îl iei drept dușman nu este cinstit]. Binecuvântat ești, Domnul nostru, și înălțat.",
+          "O, Allah, caut adăpost în plăcerea Ta de mânia Ta și caut adăpost în iertarea Ta de pedeapsa Ta și caut adăpost în Tine de la Tine. Nu pot enumera lauda Ta. Ești așa cum Te-ai lăudat pe Tine Însuți.",
+          "O, Allah, numai Tu ne închinăm și Ție ne rugăm și ne închinăm și Ție ne străduim și ne grăbim. Sperăm în mila Ta și ne temem de pedeapsa Ta. Într-adevăr, pedeapsa Ta îi va depăși pe cei necredincioși. O, Allah, căutăm ajutorul Tău și Îți cerem iertare și Te lăudăm cu bunătate și nu ne necredem în Tine și credem în Tine și ne supunem Ție și părăsim pe cei care nu cred în Tine."
+        ],
+        "footnote": [
+          "Reported by the four compilers of Sunan, Ahmad, Ad-Darimi, Al-Hakim, and Al-Bayhaqi. What is between the brackets is from Al-Bayhaqi. See Sahih At-Tirmidhi 1/144, Sahih Ibn Majah 1/194, and Irwa' al-Ghalil by Al-Albani 2/172",
+          "Reported by the four compilers of Sunan and Ahmad. See Sahih At-Tirmidhi 3/180, Sahih Ibn Majah 1/194, and Al-Irwa' 2/175",
+          "Raportat de Al-Bayhaqi în As-Sunan Al-Kubra și a autentificat lanțul său 2/211. Sheikh Al-Albani a spus în Irwa' al-Ghalil: „Acesta este un lanț autentic” 2/170. Este o declarație a lui „Umar."
+        ]
+      },
+      "Pomenirea după Salam of Witr Rugăciunea": {
+        "text": [
+          "Trimisul lui Allah (pacea fie asupra lui) obișnuia să recite în rugăciunea Witr: (Slăviți numele Domnului vostru, Cel Preaînalt) și (Spuneți, necredincioșilor) și (Spuneți, El este Allah, Unul). Când dădea Salamul, spunea: „Slavă împăratului, Preasfântului” [Domnul îngerilor și al Duhului] de trei ori, iar a treia oară, ridica glasul și îl prelungea."
+        ],
+        "footnote": [
+          "Narrated by An-Nasa'i 3/244, Ad-Daraqutni, and others. What is between the brackets is an addition by Ad-Daraqutni 2/31 and its chain is authentic. See Zad Al-Ma'ad with the verification of Shu'ayb Al-Arna'ut and 'Abd al-Qadir Al-Arna'ut 1/337"
+        ]
+      },
+      "Cerere pentru îngrijorare și durere": {
+        "text": [
+          "O, Allah, eu sunt slujitorul Tău, fiul slujitorului Tău, fiul servitorului Tău. Puful meu este în mâna Ta. Porunca Ta asupra mea este împlinită pentru totdeauna și hotărârea Ta asupra mea este dreaptă. Îți cer cu fiecare nume care Ți aparține cu care Te-ai numit sau pe care l-ai dezvăluit în Cartea Ta, sau l-ai învățat oricărei creații tale, sau păstrat în cunoașterea nevăzutului împreună cu Tine, să faci din Coran viața inimii mele și lumina sânului meu și o plecare pentru întristarea mea și o eliberare pentru neliniștea mea.",
+          "O, Allah, caut adăpost în Tine de îngrijorare și durere, de incapacitate și lene, de zgârcenie și lașitate și de a fi biruit de datorii și învins de oameni."
+        ],
+        "footnote": [
+          "Ahmad 1/391, authenticated by Al-Albani",
+          "Al-Bukhari 7/158. The Messenger of Allah (peace be upon him) used to say this supplication frequently."
+        ]
+      },
+      "Cerere pentru suferință": {
+        "text": [
+          "Nu există alt zeu în afară de Allah, cel Mare, Îngăduitor. Nu există zeu în afară de Allah, Domnul Tronului Puternic. Nu există nici un zeu în afară de Allah, Domnul cerurilor și Domnul Nobilului Tron.",
+          "O, Allah, sper în mila Ta, așa că nu mă încredința mie pentru a clipi din ochi și îndreptă-mi toate treburile mele. Nu există zeu în afară de Tine.",
+          "Nu există zeu în afară de Tine; înălțat ești Tu. Într-adevăr, am fost dintre cei nelegiuiți.",
+          "Allah, Allah este Domnul meu. Eu nu asociez nimic cu El."
+        ],
+        "footnote": [
+          "Al-Bukhari 7/154 and Muslim 4/2092",
+          "Abu Dawud 4/324 and Ahmad 5/42. Graded as hasan by Al-Albani in Sahih Abi Dawud 3/959",
+          "At-Tirmidhi 5/529 and Al-Hakim, who authenticated it and Adh-Dhahabi agreed 1/505. See Sahih At-Tirmidhi 3/168",
+          "Reported by Abu Dawud 2/87. See Sahih Ibn Majah 2/335"
+        ]
+      },
+      "Rugătorie pentru Întâmpinarea Dușmanului și a celor care dețin autoritate": {
+        "text": [
+          "O, Allah, Te punem în gâtlejele lor și căutăm refugiu în Tine de relele lor.",
+          "O, Allah, Tu ești puterea mea și Tu ești susținătorul meu. Prin Tine mă mișc, prin Tine atac și prin Tine lupt.",
+          "Allah este suficient pentru noi și El este cel mai bun Stăpânitor al treburilor."
+        ],
+        "footnote": [
+          "Abu Dawud 2/89, authenticated by Al-Hakim and Adh-Dhahabi agreed 2/142",
+          "Abu Dawud 3/42 and At-Tirmidhi 5/572. See Sahih At-Tirmidhi 3/183",
+          "Al-Bukhari 5/172"
+        ]
+      },
+      "Rugăciunea celui care se teme de asuprirea unui conducător": {
+        "text": [
+          "O, Allah, Domn al celor șapte ceruri și Domn al Tronului Puternic, fii pentru mine un ocrotitor de cutare și cutare, fiul lui și de partizanii săi de la creația Ta; ca nu cumva vreunul dintre ei să păcălească împotriva mea sau să mă asuprească. Puternică este protecția Ta și glorioasă este lauda Ta. Nu există zeu în afară de Tine.",
+          "Allah este cel mai mare, Allah este mai puternic decât toată creația Sa. Allah este mai puternic decât ceea ce mă tem și de ce mă feresc. Caut refugiu în Allah, în afară de care nu există nici un dumnezeu, Cel care ține cele șapte ceruri să nu cadă pe pământ decât cu permisiunea Lui, de răul robului Tău cutare și cutare și de soldații și adepții săi și susținătorii săi, dintre djini și omenire. O, Allah, fii un protector pentru mine de răul lor. Slăvită este lauda Ta și puternică este ocrotirea Ta și binecuvântat este numele Tău. Nu există alt dumnezeu decât Tine. (de trei ori)"
+        ],
+        "footnote": [
+          "Al-Bukhari in Al-Adab Al-Mufrad, no. 707, authenticated by Al-Albani in Sahih Al-Adab Al-Mufrad, no. 545",
+          "Al-Bukhari in Al-Adab Al-Mufrad, no. 708, authenticated by Al-Albani in Sahih Al-Adab Al-Mufrad, no. 546"
+        ]
+      },
+      "Cererea împotriva inamicului": {
+        "text": [
+          "O, Allah, Descoperitorul Cărții, iute la socoteală, învinge-i pe confederați. O, Allah, învinge-i și scutură-i."
+        ],
+        "footnote": [
+          "Muslim 3/1362"
+        ]
+      },
+      "Ce să spui când te temi de un grup de oameni": {
+        "text": [
+          "O, Allah, ajunge-mi împotriva lor oricum vrei Tu."
+        ],
+        "footnote": [
+          "Muslim 4/2300"
+        ]
+      },
+      "Cererea pentru Cel afectat de îndoială în credință": {
+        "text": [
+          "El ar trebui să caute refugiu în Allah.",
+          "Ar trebui să renunțe la ceea ce se îndoiește.",
+          "El ar trebui să spună: „Cred în Allah și în mesagerii Săi”.",
+          "El ar trebui să recite cuvântul lui Allah Atotputernicul: {El este Primul și Ultimul, Ascendentul și Intimul și El este, dintre toate, Cunoscătorul.}"
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 6/336 and Muslim 1/120",
+          "Al-Bukhari with Fath 6/336 and Muslim 1/120",
+          "Muslim 1/120",
+          "Surah Al-Hadid, Verse: 3. Abu Dawud 4/329, graded as hasan by Al-Albani in Sahih Abi Dawud 3/962"
+        ]
+      },
+      "Cerere pentru stingerea unei datorii": {
+        "text": [
+          "O, Allah, îndeajuns-mi cu ceea ce ai permis împotriva a ceea ce ai interzis și fă-mă independent de toți ceilalți în afară de Tine.",
+          "O, Allah, caut adăpost în Tine de îngrijorare și durere, de incapacitate și lene, de zgârcenie și lașitate și de a fi biruit de datorii și învins de oameni."
+        ],
+        "footnote": [
+          "At-Tirmidhi 5/560. See Sahih At-Tirmidhi 3/180",
+          "Al-Bukhari 7/158"
+        ]
+      },
+      "Cerere pentru Waswasah (Șoapte) în rugăciune și recitare": {
+        "text": [
+          "Caut refugiu în Allah de Satana blestemat și scuipă ușor în stânga ta (de trei ori)."
+        ],
+        "footnote": [
+          "Muslim 4/1729, din hadith-ul lui 'Uthman bin Al-'As (Allah să fie mulţumit de el), în care spunea: 'Am făcut asta, iar Allah mi-a luat-o.'"
+        ]
+      },
+      "Rugăciunea pentru cel care găsește o chestiune dificilă": {
+        "text": [
+          "O, Allah, nu există uşurinţă decât în ​​ceea ce Tu faci uşor şi Tu faci dificilul, dacă vrei, uşor."
+        ],
+        "footnote": [
+          "Narrated by Ibn Hibban in his Sahih, no. 2427 (Mawarid) and Ibn As-Sunni, no. 351. Al-Hafiz said this hadith is authentic, and 'Abd al-Qadir al-Arna'ut authenticated it in his verification of Al-Adhkar by An-Nawawi, p. 106"
+        ]
+      },
+      "Ce spune și face cel care comite un păcat": {
+        "text": [
+          "Nu există niciun slujitor care săvârșește un păcat, apoi se purifică bine, apoi stă în picioare și se roagă două rak'ah, apoi caută iertarea lui Allah, dar Allah îl va ierta."
+        ],
+        "footnote": [
+          "Abu Dawud 2/86 and At-Tirmidhi 2/257, authenticated by Al-Albani in Sahih Abi Dawud 1/283"
+        ]
+      },
+      "Cerere pentru alungarea lui Satana și șoaptele Lui": {
+        "text": [
+          "Căutând refugiu în Allah de el.",
+          "Adhan (chemarea la rugăciune).",
+          "Amintiri și recitarea Coranului."
+        ],
+        "footnote": [
+          "Abu Dawud 1/206 and At-Tirmidhi. See Sahih At-Tirmidhi 1/77. See Surah Al-Mu'minun, verses 98-99",
+          "Muslim 1/291 and Al-Bukhari 1/151",
+          "„Nu vă transformați casele în morminte. Într-adevăr, Satana fuge din casa în care se recită Sura Al-Baqarah.' Povestit de Muslim 1/539. Printre ceea ce respinge Satana se numără amintirile de dimineață și de seară, amintirile pentru somn și trezire, amintirile pentru intrarea și ieșirea din casă, amintirile pentru intrarea și ieșirea din moschee și alte amintiri prescrise, cum ar fi recitarea Ayat al-Kursi înainte de culcare, ultimele două versete ale Surei Al-Baqarah și oricine spune: „În partenerul lui Allah nu este singurul.” Lui Îi aparține stăpânirea și Lui este toată lauda și El este capabil să facă toate lucrurile de o sută de ori, va fi o protecție pentru el de Satana pentru toată ziua. La fel, Adhan-ul respinge Satana."
+        ]
+      },
+      "Cererea când se întâmplă ceva neplăcut sau când cineva este învins de o chestiune": {
+        "text": [
+          "Allah a hotărât și ceea ce vrea El face.",
+          "Dacă o problemă te învinge, spune: „Allah îmi este suficient și El este cel mai bun Stăpânitor al treburilor”."
+        ],
+        "footnote": [
+          "„Credinnicul puternic este mai bun și mai iubit de Allah decât credinciosul slab și în ambele există bine. Fiți atenți la ceea ce vă avantajează, căutați ajutor de la Allah și nu fiți neputincioși. Dacă ți se întâmplă ceva, nu spune: „Dacă aș fi făcut așa și așa”, ci spuneți: „Allah a hotărât și ceea ce dorește, El face”, pentru că „dacă” deschide ușa lucrării lui Satana”. Musulman 4/2052",
+          "Spune Taakrix All-Adhkar de All-Arna tu, p. 106"
+        ]
+      },
+      "Felicitând un nou părinte și răspunsul": {
+        "text": [
+          "Fie ca Allah să vă binecuvânteze în ceea ce vi s-a dat și să fiți recunoscător Dătătorului, iar el (copilul) să-și atingă puterea deplină și să fiți binecuvântat cu dreptatea Lui. Cel felicitat răspunde spunând: „Fie ca Allah să vă binecuvânteze și să vă dea binecuvântările Sale, iar Allah să vă răsplătească cu bine, și Allah să vă acorde asemenea și să vă înmulțească răsplata”."
+        ],
+        "footnote": [
+          "See Al-Adhkar by An-Nawawi, p. 349, and Sahih Al-Adhkar by An-Nawawi, by Salim Al-Hilali 2/713"
+        ]
+      },
+      "Cum să protejăm copiii": {
+        "text": [
+          "Trimisul lui Allah (pacea fie asupra lui) obișnuia să caute protecție pentru Al-Hasan și Al-Husayn, spunând: „Vă caut protecție amândoi în cuvintele perfecte ale lui Allah, împotriva oricărui diavol și a oricărui dăunător otrăvitor și împotriva oricărui ochi rău”."
+        ],
+        "footnote": [
+          "Al-Bukhari 4/119, from the hadith of Ibn 'Abbas (may Allah be pleased with them)"
+        ]
+      },
+      "Cererea pentru bolnavi când îi vizitează": {
+        "text": [
+          "Niciun rău, este o purificare, dacă Allah vrea.",
+          "Îl rog pe Allah cel Mare, Domnul Tronului Puternic, să te vindece. (de șapte ori)"
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 10/118",
+          "There is no Muslim servant who visits a sick person whose time has not yet come and says seven times... the hadith, but he will be cured. Reported by At-Tirmidhi and Abu Dawud. See Sahih At-Tirmidhi 2/210 and Sahih Al-Jami' 5/180"
+        ]
+      },
+      "Virtutea de a vizita bolnavii": {
+        "text": [
+          "Profetul (pacea fie asupra lui) a spus: „Când un om își vizitează fratele musulman, el merge în recolta Paradisului până când stă. Când stă, mila îl învăluie. Dacă este dimineața, șaptezeci de mii de îngeri se roagă pentru el până seara, iar dacă este seara, șaptezeci de mii de îngeri se roagă pentru el până dimineața."
+        ],
+        "footnote": [
+          "Narrated by At-Tirmidhi, Ibn Majah, and Ahmad. See Sahih Ibn Majah 1/244 and Sahih At-Tirmidhi 1/286. It was also authenticated by Ahmad Shakir."
+        ]
+      },
+      "Rugăciunea unei persoane bolnave care a renunțat la speranța în viață": {
+        "text": [
+          "O, Allah, iartă-mă, ai milă de mine și alătură-te cu cel mai înalt tovarăș.",
+          "Profetul (pacea fie asupra lui) își punea mâinile în apă și își ștergea fața cu ele, spunând: „Nu există niciun zeu în afară de Allah. Într-adevăr, moartea are agonia ei.",
+          "Nu există zeu în afară de Allah, iar Allah este cel mai mare. Nu există zeu în afară de Allah, singur. Nu există zeu în afară de Allah, singur, fără partener. Nu există zeu în afară de Allah; Lui îi aparține stăpânirea și Lui este toată lauda. Nu există zeu în afară de Allah și nu există putere sau putere decât cu Allah."
+        ],
+        "footnote": [
+          "Al-Bukhari 7/10 and Muslim 4/1893",
+          "Al-Bukhari with Fath 8/144. The hadith mentions the Siwak (tooth-stick).",
+          "Reported by At-Tirmidhi and Ibn Majah, authenticated by Al-Albani. See Sahih At-Tirmidhi 3/152 and Sahih Ibn Majah 2/317"
+        ]
+      },
+      "Îndemnarea celor pe moarte": {
+        "text": [
+          "Ultimele cuvinte ale oricui sunt „La ilaha illallah” (Nu există nici un zeu în afară de Allah) va intra în Paradis."
+        ],
+        "footnote": [
+          "Abu Dawud 3/190. See Sahih Al-Jami' 5/432"
+        ]
+      },
+      "Cererea pentru Cel afectat de o calamitate": {
+        "text": [
+          "Într-adevăr, lui Allah îi aparținem și Lui ne vom întoarce. O, Allah, răsplătește-mă pentru nenorocirea mea și înlocuiește-o cu ceva mai bun."
+        ],
+        "footnote": [
+          "Muslim 2/632"
+        ]
+      },
+      "Supplicare la închiderea ochilor defunctului": {
+        "text": [
+          "O, Allah, iartă-i pe așa și așa (pe numele lui) și ridică-i rangul printre cei călăuziți și ia-i locul în urmașii lui printre cei care au rămas în urmă. Și iartă-ne pe noi și pe el, Doamne al lumilor, și fă-i spațios mormântul și luminează-l pentru el."
+        ],
+        "footnote": [
+          "Muslim 2/634"
+        ]
+      },
+      "Rugăciunea pentru decedat în rugăciunea de înmormântare": {
+        "text": [
+          "O, Allah, iartă-l și ai milă de el, dă-i bunăstare și iertă-l, fă-i locul de odihnă onorabil și lărgește-i intrarea și spală-l cu apă, zăpadă și grindină și curăță-l de păcate precum haina albă este curățată de murdărie și dă-i o casă mai bună decât casa lui și o familie mai bună decât familia lui, și-l protejează mai bine de soț, soț și soț și-l protejează mai bine de soț, soț și soț, și protejează-l mai bine de soțul său. pedeapsa mormântului (și din pedeapsa Focului).",
+          "O, Allah, iartă-ne pe vii și pe morții noștri, prezentul și absentul nostru, tinerii și bătrânii noștri, bărbații și femeile noastre. O, Allah, pe oricine Tu ții în viață printre noi, păstrează-l în viață în Islam și pe oricine îl faci să moară printre noi, fă-l să moară prin credință. O, Allah, nu ne lipsi de răsplata lui și nu ne lăsa să ne rătăcim după el.",
+          "O, Allah, într-adevăr, unul și așa fiul lui cutare și cutare se află sub protecția Ta și în funia siguranței Tale, așa că protejează-l de încercarea mormântului și de pedeapsa Focului. Tu ești Cel credincios și adevărat. Așa că iartă-l și ai milă de el. Într-adevăr, Tu ești Cel Iertător, Cel Milostiv.",
+          "O, Allah, slujitorul Tău, fiul slujitorului Tău și fiul robii Tale, are nevoie de mila Ta și Tu nu ai nevoie de pedeapsa lui. Dacă a fost un făcător de bine, atunci sporește-i faptele bune, iar dacă a fost un răufăcător, atunci treci cu vederea greșelile lui."
+        ],
+        "footnote": [
+          "Muslim 2/663",
+          "Ibn Majah 1/480 and Ahmad 2/368. See Sahih Ibn Majah 1/251",
+          "Reported by Ibn Majah. See Sahih Ibn Majah 1/251. Narrated by Abu Dawud 3/211",
+          "Reported by Al-Hakim, who authenticated it and Adh-Dhahabi agreed 1/359. See Ahkam Al-Jana'iz by Al-Albani, p. 125"
+        ]
+      },
+      "Rugăciunea de înmormântare pentru un copil": {
+        "text": [
+          "O, Allah, ferește-l de pedeapsa mormântului.",
+          "Dacă a spus: „O, Allah, fă din el o răsplată anterioară și o comoară depozitată pentru părinții săi și un mijlocitor la care să răspundă. O, Allah, îngreunează cântarul părinților săi cu el și mărește răsplata lor cu el și alătură-te cu credincioșii drepți și pune-l sub grija lui Ibrahim și protejează-l prin mila Ta de pedeapsa Focului Iadului și dă-i o casă mai bună decât casa lui și o familie mai bună decât familia lui. O, Allah, iartă-i pe predecesorii noștri, pe copiii noștri precedați și pe cei care ne-au precedat în credință, este bine.",
+          "O, Allah, fă din el pentru noi o răsplată anterioară, un predecesor și o răsplată."
+        ],
+        "footnote": [
+          "Sa'id bin Al-Musayyib said: 'I prayed behind Abu Hurayrah over a child who had never committed a sin, and I heard him say...' the hadith. Reported by Malik in Al-Muwatta' 1/288, Ibn Abi Shaybah in Al-Musannaf 3/217, and Al-Bayhaqi 4/9. Shu'ayb Al-Arna'ut authenticated its chain in his verification of Sharh As-Sunnah by Al-Baghawi 5/357",
+          "Vezi: Al-Mughni de Ibn Qudamah 3/416 și Ad-Durus Al-Muhimmah li-'Ammat Al-Ummah de Sheikh 'Abd al-'Aziz bin 'Abdullah bin Baz, fie ca Allah să-l păstreze, p. 15",
+          "Al-Hasan used to recite Surah Al-Fatihah over the child and say... the hadith. Reported by Al-Baghawi in Sharh As-Sunnah 5/357 and 'Abd ar-Razzaq, no. 6588. Al-Bukhari mentioned it as a ta'liq in the Book of Funerals, chapter 65: Reciting Surah Al-Fatihah over the deceased 2/113"
+        ]
+      },
+      "Cerere de condoleanțe": {
+        "text": [
+          "Într-adevăr, lui Allah îi aparține ceea ce El a luat și Lui îi aparține ceea ce El a dat. Și totul cu El are un termen stabilit... așa că las-o să aibă răbdare și să caute răsplată.",
+          "Iar dacă spune: „Fie ca Allah să-ți mărească răsplata și să-ți facă doliul bun și să-ți ierte răposatul”, este bine."
+        ],
+        "footnote": [
+          "Al-Bukhari 2/80 and Muslim 2/636",
+          "Al-Adhkar by An-Nawawi, p. 126"
+        ]
+      },
+      "Rugăciunea la plasarea defunctului în mormânt": {
+        "text": [
+          "În numele lui Allah și pe Sunnah a Mesagerului lui Allah."
+        ],
+        "footnote": [
+          "Abu Dawud 3/314 with an authentic chain, and Ahmad with the wording 'In the name of Allah and upon the religion of the Messenger of Allah' and its chain is authentic."
+        ]
+      },
+      "Cererea după îngroparea defunctului": {
+        "text": [
+          "O, Allah, iartă-l. O, Allah, fă-l ferm."
+        ],
+        "footnote": [
+          "When the Prophet (peace be upon him) finished burying the deceased, he would stand over him and say: 'Ask for forgiveness for your brother and ask for him to be made firm, for he is now being questioned.' Abu Dawud 3/315 and Al-Hakim, who authenticated it and Adh-Dhahabi agreed 1/370"
+        ]
+      },
+      "Cerere pentru vizitarea mormintelor": {
+        "text": [
+          "Pacea fie asupra voastră, o, locuitori ai sălașurilor, dintre credincioși și musulmani. Și noi, dacă vrea Allah, vă vom urma. [Fie ca Allah să aibă milă de cei care au mers înaintea noastră și de cei care vor veni mai târziu.] Îi cer lui Allah bunăstare pentru noi și pentru tine."
+        ],
+        "footnote": [
+          "Muslim 2/671, and Ibn Majah, the wording is his 1/494 from Buraydah (may Allah be pleased with him). What is between the brackets is from the hadith of 'A'ishah (may Allah be pleased with her) in Muslim 2/671"
+        ]
+      },
+      "Cererea pentru vânt": {
+        "text": [
+          "O, Allah, Îți cer binele lui și mă adăpostesc în Tine de răul lui.",
+          "O, Allah, Îți cer binele lui, binele care este în el și binele cu care a fost trimis. Și caut în Tine scăpare de răul lui, de răul care este în el și de răul cu care a fost trimis."
+        ],
+        "footnote": [
+          "Reported by Abu Dawud 4/326 and Ibn Majah 2/1228. See Sahih Ibn Majah 2/305",
+          "Muslim 2/616 and Al-Bukhari 4/76"
+        ]
+      },
+      "Cerere pentru Tunete": {
+        "text": [
+          "Slavă Celui pe care tunetul îl preamărește cu lauda Lui și îngerilor, cu frica de El."
+        ],
+        "footnote": [
+          "When 'Abdullah bin Az-Zubayr (may Allah be pleased with them) heard thunder, he would stop talking and say... Al-Muwatta' 2/992. Al-Albani said its chain is authentic as a mawquf narration."
+        ]
+      },
+      "Cereri pentru ploaie": {
+        "text": [
+          "O, Allah, dă-ne o ploaie mântuitoare, benefică, sănătoasă și fertilă, care nu este dăunătoare, imediată și nu întârziată.",
+          "O, Allah, dă-ne ploaie. O, Allah, dă-ne ploaie. O, Allah, dă-ne ploaie.",
+          "O, Allah, dă apă slujitorilor Tăi și turmelor Tăi, răspândește mila Ta și reînvie țara Ta moartă."
+        ],
+        "footnote": [
+          "Abu Dawud 1/303, authenticated by Al-Albani in Sahih Abi Dawud 1/216",
+          "Al-Bukhari 1/224, Muslim 2/613",
+          "Abu Dawud 1/305, graded as hasan by Al-Albani in Sahih Abi Dawud 1/218"
+        ]
+      },
+      "Cerere Când plouă": {
+        "text": [
+          "O, Allah, să fie o ploaie benefică."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 2/518"
+        ]
+      },
+      "Amintire După ce plouă": {
+        "text": [
+          "Ni s-a dat ploaie prin harul și mila lui Allah."
+        ],
+        "footnote": [
+          "Al-Bukhari 1/205, Muslim 1/83"
+        ]
+      },
+      "Cereri pentru limpezirea cerului": {
+        "text": [
+          "O, Allah, în jurul nostru și nu asupra noastră. O, Allah, pe dealuri, munți, văi și locurile în care cresc copacii."
+        ],
+        "footnote": [
+          "Al-Bukhari 1/224, Muslim 2/614"
+        ]
+      },
+      "Cerere pentru observarea Lunii Noi": {
+        "text": [
+          "Allah este cel mai mare. O, Allah, adu-l peste noi cu siguranță și credință, cu pace și islam și cu călăuzire către ceea ce iubește și este mulțumit Domnului nostru. Domnul nostru și Domnul vostru este Allah."
+        ],
+        "footnote": [
+          "At-Tirmidhi 5/504 and Ad-Darimi with his wording 1/336. See Sahih At-Tirmidhi 3/157"
+        ]
+      },
+      "Rugăciunea la ruperea postului": {
+        "text": [
+          "Setea a dispărut, venele sunt umezite și răsplata este confirmată, dacă Allah vrea.",
+          "O, Allah, prin mila Ta care cuprinde toate lucrurile, te rog să mă ierți."
+        ],
+        "footnote": [
+          "Reported by Abu Dawud 2/306 and others. See Sahih Al-Jami' 4/209",
+          "Reported by Ibn Majah 1/557 from the supplication of 'Abdullah bin 'Amr (may Allah be pleased with them). Al-Hafiz graded it as hasan in his verification of Al-Adhkar. See Sharh Al-Adhkar 4/342"
+        ]
+      },
+      "Cerere înainte de a mânca": {
+        "text": [
+          "Când unul dintre voi mănâncă, să spună: „În numele lui Allah”. Dacă uită la început, să spună: „În numele lui Allah la începutul și la sfârșitul lui”.",
+          "Oricine îl hrănește Allah cu mâncare, să spună: „O, Allah, binecuvântează-ne în ea și hrănește-ne cu ceva mai bun decât el”. Și oricui Allah dă lapte de băut, să zică: „O, Allah, binecuvântează-ne în el și înmulțește-ne din el”."
+        ],
+        "footnote": [
+          "Reported by Abu Dawud 3/347 and At-Tirmidhi 4/288. See Sahih At-Tirmidhi 2/167",
+          "At-Tirmidhi 5/506. See Sahih At-Tirmidhi 3/1"
+        ]
+      },
+      "Cererea după terminarea mesei": {
+        "text": [
+          "Toată lauda este pentru Allah care mi-a hrănit asta și mi l-a oferit fără nicio putere sau putere din partea mea.",
+          "Toată lauda se datorează lui Allah, o laudă abundentă, bună și binecuvântată, [să nu fie luată de la sine înțeles, nici să fie abandonată, nici să fie lăsată fără nevoie, Domnul nostru."
+        ],
+        "footnote": [
+          "Reported by the compilers of Sunan except An-Nasa'i. See Sahih At-Tirmidhi 3/159",
+          "Al-Bukhari 6/214 and At-Tirmidhi with his wording 5/507"
+        ]
+      },
+      "Rugăciunea oaspeților pentru gazdă": {
+        "text": [
+          "O, Allah, binecuvântează pentru ei ceea ce le-ai oferit, iartă-i și ai milă de ei."
+        ],
+        "footnote": [
+          "Muslim 3/1626"
+        ]
+      },
+      "Cerere pentru Cel care dă de băut sau intenționează să o facă": {
+        "text": [
+          "O, Allah, hrănește pe cel care m-a hrănit și dă să bea celui care mi-a dat de băut."
+        ],
+        "footnote": [
+          "Muslim 3/26"
+        ]
+      },
+      "Rugări când se rupe postul la casa cuiva": {
+        "text": [
+          "Fie ca cei care postesc să-și rupă postul cu tine și cei drepți să-ți mănânce hrana și îngerii să trimită rugăciuni asupra ta."
+        ],
+        "footnote": [
+          "Sunan Abi Dawud 3/367, Ibn Majah 1/556, and An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 298. It is stated that the Prophet (peace be upon him) would say this when breaking his fast at someone's house. Authenticated by Al-Albani in Sahih Abi Dawud 2/730"
+        ]
+      },
+      "Rugăciunea unei persoane care postește atunci când este prezentată mâncarea și nu își întrerup postul": {
+        "text": [
+          "Dacă unul dintre voi este invitat, ar trebui să accepte. Dacă postește, să se roage, iar dacă nu postește, să mănânce. Sensul „el ar trebui să se roage” este că el ar trebui să implore."
+        ],
+        "footnote": [
+          "Muslim 2/1054"
+        ]
+      },
+      "Ce spune o persoană care postește dacă cineva îl insultă": {
+        "text": [
+          "Postesc, postesc."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 4/103, and Muslim 2/806"
+        ]
+      },
+      "Rugăciunea La Vederea Primelor Fructe ale Anotimpului": {
+        "text": [
+          "O, Allah, binecuvântează pentru noi roadele noastre și binecuvântează pentru noi orașul nostru și binecuvântează pentru noi sa' (o unitate de măsură) și binecuvântează pentru noi mudd (o unitate de măsură)."
+        ],
+        "footnote": [
+          "Muslim 2/1000"
+        ]
+      },
+      "Cerere pentru strănut": {
+        "text": [
+          "Dacă unul dintre voi strănută, ar trebui să spună: „Alhamdulillah” (Toată lauda este pentru Allah). Și fratele sau tovarășul său ar trebui să-i spună: „Yarhamukallah” (Allah să aibă milă de tine). Dacă îi spune „Yarhamukallah”, ar trebui să spună: „Yahdeekumullah wa yuslih baalakum” (Fie ca Allah să te călăuzească și să-ți pună ordine în treburile)."
+        ],
+        "footnote": [
+          "Al-Bukhari 7/125"
+        ]
+      },
+      "Ce să-i spui unui necredincios care strănută și îl laudă pe Allah": {
+        "text": [
+          "Allah să vă călăuzească și să vă pună ordine în treburile."
+        ],
+        "footnote": [
+          "At-Tirmidhi 5/82, Ahmad 4/400, and Abu Dawud 4/308. See Sahih At-Tirmidhi 2/354"
+        ]
+      },
+      "Cererea pentru cei proaspăt căsătoriți": {
+        "text": [
+          "Allah să vă binecuvânteze și să vă dea binecuvântările Sale și să vă aducă împreună în bunătate."
+        ],
+        "footnote": [
+          "Reported by the compilers of Sunan except An-Nasa'i. See Sahih At-Tirmidhi 1/316"
+        ]
+      },
+      "Rugăciunea Mirelui pentru Sine și pentru Cumpărarea unui Mont": {
+        "text": [
+          "Când unul dintre voi se căsătorește cu o femeie sau dacă cumpără un servitor, ar trebui să spună: „O, Allah, Îți cer binele ei și binele pe care ai creat-o și mă adăpostesc în Tine de răul ei și de răul pe care Tu ai creat-o”. Și dacă cumpără o cămilă, ar trebui să se apuce de vârful cocoașei ei și să spună același lucru."
+        ],
+        "footnote": [
+          "Abu Dawud 2/248 and Ibn Majah 1/617. See Sahih Ibn Majah 1/324"
+        ]
+      },
+      "Cererea înainte de actul sexual": {
+        "text": [
+          "În numele lui Allah. O, Allah, ține-l pe Satana departe de noi și ține-l pe Satana departe de ceea ce ne oferi Tu."
+        ],
+        "footnote": [
+          "Al-Bukhari 6/141 and Muslim 2/1028"
+        ]
+      },
+      "Cerere pentru mânie": {
+        "text": [
+          "Caut refugiu în Allah de Satana blestemat."
+        ],
+        "footnote": [
+          "Al-Bukhari 6/99 and Muslim 4/2015"
+        ]
+      },
+      "Rugări când văd pe cineva în suferință": {
+        "text": [
+          "Toată lauda este pentru Allah, care m-a scutit de ceea ce El v-a chinuit și m-a favorizat față de mulți dintre cei pe care i-a creat."
+        ],
+        "footnote": [
+          "At-Tirmidhi 5/494 and 5/493. See Sahih At-Tirmidhi 3/153"
+        ]
+      },
+      "Ce se spune într-o adunare": {
+        "text": [
+          "Ibn 'Umar a spus: „A fost numărat pentru Trimisul lui Allah (pacea fie asupra lui) într-o singură adunare, de o sută de ori înainte ca el să se ridice: „Doamne, iartă-mă și acceptă pocăința mea. Într-adevăr, Tu ești Cel care acceptă pocăința, Cel Iertător’’."
+        ],
+        "footnote": [
+          "At-Tirmidhi and others. See Sahih At-Tirmidhi 3/153 and Sahih Ibn Majah 2/321. The wording is from At-Tirmidhi."
+        ]
+      },
+      "Expiarea pentru o adunare și cu ce să închei adunările": {
+        "text": [
+          "Slavă Ție, Allah, și slavă Ție. Mărturisesc că nu există alt dumnezeu în afară de Tine. Îți cer iertarea și mă pocăiesc de Tine."
+        ],
+        "footnote": [
+          "Reported by the compilers of Sunan. See Sahih At-Tirmidhi 3/153. It is authentically reported from 'A'ishah (may Allah be pleased with her) that she said: 'The Messenger of Allah (peace be upon him) never sat in a gathering, nor recited Quran, nor prayed, but he concluded that with these words...' The hadith was reported by An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 308, and Ahmad 6/77. Dr. Faruq Hamadah authenticated it in his verification of 'Amal Al-Yawm wa Al-Laylah by An-Nasa'i, p. 273"
+        ]
+      },
+      "Cerere pentru Cel care spune „Ghafarallahu lak” (Allah să te ierte)": {
+        "text": [
+          "Și pentru tine."
+        ],
+        "footnote": [
+          "Ahmad 5/28 and An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah, p. 218, no. 421, verification by Dr. Faruq Hamadah"
+        ]
+      },
+      "Cerere pentru Cel care îți face o favoare": {
+        "text": [
+          "Jazakallahu khairan (Fie ca Allah să vă răsplătească cu bine)."
+        ],
+        "footnote": [
+          "Reported by At-Tirmidhi no. 2035. See Sahih Al-Jami' 6244 and Sahih At-Tirmidhi 2/200"
+        ]
+      },
+      "Ce protejează de Dajjal (Antihrist)": {
+        "text": [
+          "Cine memorează zece versete de la începutul Surei Al-Kahf va fi protejat de Dajjal. Și căutând refugiu în Allah din procesul său după Tashahhud final al fiecărei rugăciuni."
+        ],
+        "footnote": [
+          "Musulman 1/555. Într-o altă narațiune, „de la sfârșitul lui Al-Kahf” 1/556",
+          "See hadith no. 55 and hadith 56"
+        ]
+      },
+      "Cerere pentru Cel care spune „Te iubesc de dragul lui Allah”": {
+        "text": [
+          "Fie ca Cel de dragul căruia mă iubești, să te iubească."
+        ],
+        "footnote": [
+          "Reported by Abu Dawud 4/333, and graded as hasan by Al-Albani in Sahih Sunan Abi Dawud 3/965"
+        ]
+      },
+      "Rugăciunea pentru Cel care îți oferă averea lor": {
+        "text": [
+          "Allah să vă binecuvânteze în familia și averea voastră."
+        ],
+        "footnote": [
+          "Al-Bukhari, Al-Fath 4/88"
+        ]
+      },
+      "Solicitare pentru Creditor la rambursare": {
+        "text": [
+          "Allah să vă binecuvânteze în familia și averea voastră. Singura recompensă pentru un împrumut este lauda și rambursarea."
+        ],
+        "footnote": [
+          "Reported by An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah, p. 300, and Ibn Majah 2/809. See Sahih Ibn Majah 2/55"
+        ]
+      },
+      "Cerere pentru frica de Shirk (politeism)": {
+        "text": [
+          "O, Allah, caut adăpost în Tine să nu asociez ceva cu Tine cu bună știință și caut iertarea Ta pentru ceea ce nu știu."
+        ],
+        "footnote": [
+          "Ahmad 4/403 and others. See Sahih Al-Jami' 3/333 and Sahih At-Targhib wa At-Tarhib by Al-Albani"
+        ]
+      },
+      "Cerere pentru Cel care spune „Barakallahu feek” (Allah să vă binecuvânteze)": {
+        "text": [
+          "Wa feeka barakallah (Și Allah să te binecuvânteze și pe tine)."
+        ],
+        "footnote": [
+          "Reported by Ibn As-Sunni, p. 138, no. 278. See Al-Wabil As-Sayyib by Ibn Al-Qayyim, p. 304, verification by Bashir Muhammad 'Uyun"
+        ]
+      },
+      "Cerere pentru că nu-ți place un prevestire": {
+        "text": [
+          "O, Allah, nu există nici un semn în afară de semnul Tău, nici un bine în afară de binele Tău și niciun alt dumnezeu decât Tine."
+        ],
+        "footnote": [
+          "Ahmad 2/220 and Ibn As-Sunni no. 292. Authenticated by Al-Albani in Al-Ahadith As-Sahiha 3/54, no. 1065. As for good omens (fa'l), the Prophet (peace be upon him) used to like them; for this reason, he heard a good word from a man and it pleased him, so he said: 'We have taken your good omen from your mouth.' Abu Dawud and Ahmad, authenticated by Al-Albani in As-Sahiha 2/363 from Abu Ash-Shaykh in 'Akhlaq An-Nabi'"
+        ]
+      },
+      "Rugătorie pentru călare pe un montură": {
+        "text": [
+          "În numele lui Allah. Toată lauda este pentru Allah. {Înălțat este Cel care ne-a supus aceasta și noi nu am fi putut să o supunem [altfel]. * Și într-adevăr, la Domnul nostru ne vom întoarce cu siguranță.} Toată lauda este pentru Allah, toată lauda este pentru Allah, toată lauda este pentru Allah. Allah este cel mai mare, Allah este cel mai mare, Allah este cel mai mare. Slavă Ție, Allah. Mi-am greșit, așa că iartă-mă, căci, într-adevăr, nimeni nu iartă păcatele decât Tine."
+        ],
+        "footnote": [
+          "Abu Dawud 3/34 and At-Tirmidhi 5/501. See Sahih At-Tirmidhi 3/156"
+        ]
+      },
+      "Cerere pentru călătorie": {
+        "text": [
+          "Allah este cel mai mare, Allah este cel mai mare, Allah este cel mai mare. {Înălțat este Cel care ne-a supus aceasta și noi nu am fi putut să o supunem [altfel]. * Și într-adevăr, la Domnul nostru ne vom întoarce cu siguranță.} O, Allah, Îți cerem în această călătorie a noastră dreptate și evlavie și fapte care Ție sunt pe plac. O, Allah, fă această călătorie a noastră ușoară pentru noi și scurtează-i distanța pentru noi. O, Allah, Tu ești Însoțitorul de călătorie și Gardianul familiei. O, Allah, caut adăpost în Tine de greutățile călătoriei, de întunericul priveliștilor și de un rezultat prost în avere și familie. Iar când se întoarce, zice la fel și le adaugă: „Întoarcerea, pocăința, închinarea și lauda Domnului nostru”."
+        ],
+        "footnote": [
+          "Narrated by Muslim 2/978"
+        ]
+      },
+      "Cerere pentru a intra într-un sat sau într-un oraș": {
+        "text": [
+          "O, Allah, Doamne al celor șapte ceruri și al celor umbrite, și Doamne al celor șapte pământuri și al celor care au purtat, și Doamne al diavolilor și al celor rătăciți, și Doamne al vânturilor și al celor împrăștiate. Îți cer binele acestui sat, binele oamenilor lui și binele care este în el. Și mă adăpostesc în Tine de răul lui, de răul poporului său și de răul care este în el."
+        ],
+        "footnote": [
+          "Al-Hakim, who authenticated it and Adh-Dhahabi agreed 2/100, and Ibn As-Sunni no. 524. Al-Hafiz graded it as hasan in Takhrij Al-Adhkar 5/154. Ibn Baz said: 'Narrated by An-Nasa'i with a good chain.' See Tuhfat Al-Akhyar, p. 37"
+        ]
+      },
+      "Rugătorie pentru intrarea pe piață": {
+        "text": [
+          "Nu există zeu în afară de Allah, singur, fără partener. Lui îi aparține stăpânirea și Lui este toată lauda. El dă viață și provoacă moartea și El este Cel Veșnic Viu care nu moare. În mâna Lui este totul bun și El este în stare să facă toate lucrurile."
+        ],
+        "footnote": [
+          "At-Tirmidhi 5/491 and Al-Hakim 1/538. Graded as hasan by Al-Albani in Sahih Ibn Majah 2/21 and in Sahih At-Tirmidhi 3/152"
+        ]
+      },
+      "Cerere dacă Muntele se împiedică": {
+        "text": [
+          "În numele lui Allah."
+        ],
+        "footnote": [
+          "Abu Dawud 4/296, authenticated by Al-Albani in Sahih Abi Dawud 3/941"
+        ]
+      },
+      "Rugăciunea Călătorului pentru Rezident": {
+        "text": [
+          "Vă încredințez lui Allah, ale cărui încredere nu se pierd niciodată."
+        ],
+        "footnote": [
+          "Ahmad 2/403 and Ibn Majah 2/943. See Sahih Ibn Majah 2/133"
+        ]
+      },
+      "Rugăciunea rezidentului pentru călător": {
+        "text": [
+          "Îi încredințez lui Allah religia ta, încrederile tale și ultima dintre faptele tale.",
+          "Allah să vă ofere evlavie, să vă ierte păcatul și să vă ușureze bunătatea oriunde v-ați afla."
+        ],
+        "footnote": [
+          "Ahmad 2/7, At-Tirmidhi 5/499. See Sahih At-Tirmidhi 3/155",
+          "At-Tirmidhi. See Sahih At-Tirmidhi 3/155"
+        ]
+      },
+      "Takbir și Tasbih în timpul călătoriei": {
+        "text": [
+          "Jabir (Allah să fie mulțumit de el) a spus: „Când urcam, spuneam „Allahu Akbar”, iar când coboram, spuneam „Subhanallah”."
+        ],
+        "footnote": [
+          "Al-Bukhari, Al-Fath 6/135"
+        ]
+      },
+      "Rugăciunea Călătorului în zori": {
+        "text": [
+          "Un ascultător a auzit lauda noastră lui Allah și încercarea Lui bună asupra noastră. Domnul nostru, însoțește-ne și dă harul Tău asupra noastră, căutând refugiu în Allah de Foc."
+        ],
+        "footnote": [
+          "Musulman 4/2086. Sensul „un ascultător a auzit” este: un martor a fost martor la lauda noastră lui Allah pentru binecuvântările Sale și încercarea bună. Iar sensul „un ascultător a auzit” este: un ascultător să transmită altora această afirmație a mea și să spună ceva asemănător, ca o amintire pentru amintirea în zori și rugăciune. Iar spusele lui: „Doamne, însoțește-ne și dăruiește-ne harul Tău asupra noastră” înseamnă: ocrotește-ne, înconjoară-ne, păzește-ne și dăruiește-ne binecuvântările Tale din belșug și îndepărtează-ne de la noi orice rău. Sharh An-Nawawi 17/39"
+        ]
+      },
+      "Supplicare atunci când vă opriți într-un loc în timpul călătoriei sau altfel": {
+        "text": [
+          "Caut refugiu în cuvintele perfecte ale lui Allah de răul a ceea ce El a creat."
+        ],
+        "footnote": [
+          "Narrated by Muslim 4/2080"
+        ]
+      },
+      "Amintire la întoarcerea din călătorie": {
+        "text": [
+          "El spune „Allahu Akbar” de trei ori pe fiecare loc înalt, apoi spune: „Nu există niciun zeu în afară de Allah, singur, fără partener. Lui Îi aparține stăpânirea și Lui este toată lauda și El este în stare să facă toate lucrurile. Întoarcerea, pocăința, închinarea și lauda Domnului nostru. Allah și-a împlinit făgăduința și L-a ajutat pe slujitorul Său și i-a învins singur pe confederați.'"
+        ],
+        "footnote": [
+          "The Prophet (peace be upon him) used to say it when returning from a battle or Hajj. Al-Bukhari 7/163 and Muslim 2/980"
+        ]
+      },
+      "Ce să spui și să faci când se întâmplă ceva plăcut sau neplăcut": {
+        "text": [
+          "Când ceva plăcut îi venea Profetului (pacea fie asupra lui), el spunea: „Toată lauda este pentru Allah, prin harul căruia faptele bune sunt îndeplinite”. Și dacă îi venea ceva neplăcut, el spunea: „Toată lauda este pentru Allah în toate împrejurările”."
+        ],
+        "footnote": [
+          "Raportat de Ibn As-Sunni în 'Amal Al-Yawm wa Al-Laylah și Al-Hakim, care l-au autentificat 1/499. Autentificat de Al-Albani în Sahih Al-Jami' 4/201"
+        ]
+      },
+      "Virtutea de a trimite rugăciuni asupra profetului (pacea fie asupra lui)": {
+        "text": [
+          "Profetul (pacea fie asupra lui) a spus: „Cine va trimite o singură rugăciune asupra mea, Allah va trimite zece rugăciuni asupra lui”.",
+          "Și Profetul (pacea fie asupra lui) a spus: „Nu face din mormântul meu un loc de sărbătoare, ci trimite rugăciuni asupra mea, căci rugăciunile tale vor ajunge la mine oriunde te-ai afla”.",
+          "Și Profetul (pacea fie asupra lui) a spus: „Avarul este cel în prezența căruia sunt menționat și nu trimite rugăciuni asupra mea”.",
+          "Iar Profetul (pacea fie asupra lui) a spus: „Într-adevăr, Allah are îngeri care călătoresc pe tot pământul, transmitându-mi salutările păcii de la Ummah-ul meu”.",
+          "Și Profetul (pacea fie asupra lui) a spus: „Nimeni nu-mi trimite salutări de pace, dar Allah îmi întoarce sufletul, ca să-mi întorc salutul păcii”."
+        ],
+        "footnote": [
+          "Reported by Muslim 1/288",
+          "Abu Dawud 2/218 and Ahmad 2/367. Authenticated by Al-Albani in Sahih Abi Dawud 2/383",
+          "At-Tirmidhi 5/551 and others. See Sahih Al-Jami' 3/25 and Sahih At-Tirmidhi 3/177",
+          "An-Nasa'i, and Al-Hakim 2/421. Authenticated by Al-Albani in Sahih An-Nasa'i 1/274",
+          "Abu Dawud no. 2041, graded as hasan by Al-Albani in Sahih Abi Dawud 1/383"
+        ]
+      },
+      "Spreading Salam (Salutări de pace)": {
+        "text": [
+          "Trimisul lui Allah (pacea fie asupra lui) a spus: „Nu veți intra în Paradis până când nu veți crede și nu veți crede până când vă veți iubi unii pe alții. Nu vă voi ghida către ceva care, dacă o faceți, vă veți iubi unul pe altul? Răspândiți Salam între voi.",
+          "Trei lucruri, oricine le combină a combinat credința: corectitudinea din partea ta, oferirea de Salam lumii și cheltuirea din ceea ce este puțin.",
+          "Pe autoritatea lui 'Abdullah bin 'Umar (Allah să fie mulțumit de ei): Un bărbat l-a întrebat pe Profet (pacea fie asupra lui): „Care este cel mai bun islam?” El a spus: „Să hrănești pe cei săraci și să-i saluti cu Salam pe cei pe care îi cunoști și pe cei pe care nu îi cunoști”."
+        ],
+        "footnote": [
+          "Muslim 1/74 and others",
+          "Al-Bukhari with Fath 1/82 from 'Ammar (may Allah be pleased with him), as a mawquf, mu'allaq narration",
+          "Al-Bukhari with Fath 1/55 and Muslim 1/65"
+        ]
+      },
+      "Cum să returnați salam unui necredincios dacă îl salută": {
+        "text": [
+          "Dacă Oamenii Cărții vă salută, atunci spuneți: „Wa ‘alaykum” (Și asupra voastră)."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 11/42, and Muslim 4/1705"
+        ]
+      },
+      "Rugăciunea pentru cântatul unui cocoș și gânjitul unui măgar": {
+        "text": [
+          "Când auzi cântatul cocoșilor, cere-i lui Allah darul Lui, căci au văzut un înger. Iar când auziți gîierea unui măgar, căutați refugiu în Allah de Satana, căci a văzut un diavol."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 6/350, and Muslim 4/2092"
+        ]
+      },
+      "Cerere pentru lătratul câinilor noaptea": {
+        "text": [
+          "Când auziți lătratul câinilor și lătratul măgarilor noaptea, căutați refugiu în Allah de ei, căci ei văd ceea ce voi nu vedeți."
+        ],
+        "footnote": [
+          "Abu Dawud 4/327 and Ahmad 3/306. Authenticated by Al-Albani in Sahih Abi Dawud 3/961"
+        ]
+      },
+      "Cerere pentru cineva pe care l-ai blestemat": {
+        "text": [
+          "Profetul (pacea fie asupra lui) a spus: „O, Allah, pe oricare credincios pe care l-am blestemat, fă din acesta un mijloc de apropiere de Tine pentru el în Ziua Învierii”."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 11/171 and Muslim 4/2007, whose wording is 'make it for him a purification and a mercy.'"
+        ]
+      },
+      "Ce spune un musulman când laudă un alt musulman": {
+        "text": [
+          "Profetul (pacea fie asupra lui) a spus: „Dacă unul dintre voi trebuie să-l laude pe tovarășul său, să spună: „Consider că așa și cutare sunt așa și cutare, iar Allah este socotitorul lui și nu sfințesc pe nimeni înaintea lui Allah. Eu îl consider a fi - dacă știe asta - cutare și cutare.''"
+        ],
+        "footnote": [
+          "Narrated by Muslim 4/2296"
+        ]
+      },
+      "Ce spune un musulman când este lăudat": {
+        "text": [
+          "O, Allah, nu mă trage la răspundere pentru ceea ce spun ei și iartă-mă pentru ceea ce ei nu știu, [și fă-mă mai bun decât cred ei]."
+        ],
+        "footnote": [
+          "Al-Bukhari in Al-Adab Al-Mufrad, no. 761. Al-Albani authenticated its chain in Sahih Al-Adab Al-Mufrad, no. 585. What is between the brackets is an addition by Al-Bayhaqi in Shu'ab Al-Iman 4/228 from another route."
+        ]
+      },
+      "Cum spune un pelerin în Hajj sau 'Umrah Talbiyah": {
+        "text": [
+          "Labbyka Allahumma Labbyk, Labbyka a fost curățată. Nu există nicio cale de a merge la wal-mulk, dar el este curat. (Iată-mă, o, Allah, sunt. Iată-mă, Iu are numele meu. Într-adevăr, cu adevărat, Lroed, Har și stăpânire față de unul."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 3/408, and Muslim 2/841"
+        ]
+      },
+      "Takbirul când ajunge la Piatra Neagră": {
+        "text": [
+          "Profetul (pacea fie asupra lui) a înconjurat Casa pe o cămilă. De fiecare dată când venea la Colț, arăta spre el cu ceva ce avea și spunea „Allahu Akbar”."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 3/476. The 'something' refers to a crooked staff. See: Al-Bukhari with Fath 3/472"
+        ]
+      },
+      "Cerere între colțul yemenit și piatra neagră": {
+        "text": [
+          "{Doamne, dă-ne în această lume [ceea ce este] bun și în cea de Apoi [ceea ce este] bun și ferește-ne de pedeapsa Focului.}"
+        ],
+        "footnote": [
+          "Abu Dawud 2/179, Ahmad 3/411, and Al-Baghawi in Sharh As-Sunnah 7/128. Graded as hasan by Al-Albani in Sahih Abi Dawud 1/354. The verse is from Surah Al-Baqarah, 201."
+        ]
+      },
+      "Supplicare când stai pe As-Safa și Al-Marwah": {
+        "text": [
+          "Când Profetul (pacea fie asupra lui) sa apropiat de As-Safa, el a recitat: {Într-adevăr, As-Safa și Al-Marwah sunt printre simbolurile lui Allah.} „Încep cu ceea ce Allah a început”. Așa că a început cu As-Safa, urcând-o până când a putut vedea Ka'bah. El s-a confruntat cu Qiblah, a declarat Unitatea și măreția lui Allah și a spus: „Nu există niciun zeu în afară de Allah, singur, fără partener. Lui Îi aparține stăpânirea și Lui este toată lauda și El este în stare să facă toate lucrurile. Nu există zeu în afară de Allah, singur. El și-a împlinit făgăduința și l-a ajutat pe slujitorul Său și i-a învins singur pe confederați.' Apoi a implorat între acestea. A spus asta de trei ori. Hadith-ul continuă: „A făcut în Al-Marwah așa cum a făcut și în As-Safa”."
+        ],
+        "footnote": [
+          "Muslim 2/888"
+        ]
+      },
+      "Cererea în ziua lui 'Arafah": {
+        "text": [
+          "Cea mai bună dintre cereri este cererea din Ziua lui 'Arafah, iar cea mai bună din ceea ce am spus eu și profeții dinaintea mea este: „Nu există niciun zeu în afară de Allah, singur, fără partener. Lui Îi aparține stăpânirea și Lui este toată lauda și El este în stare să facă toate lucrurile'."
+        ],
+        "footnote": [
+          "At-Tirmidhi, graded as hasan by Al-Albani in Sahih At-Tirmidhi 3/184, and in As-Silsilah As-Sahiha 4/6"
+        ]
+      },
+      "Pomenirea la Al-Mash'ar Al-Haram": {
+        "text": [
+          "Profetul (pacea fie asupra lui) a călărit pe Al-Qaswa' până a ajuns la Al-Mash'ar Al-Haram. El s-a confruntat cu Qiblah (I-a rugat, a spus „Allahu Akbar”, „La ilaha illallah” și și-a declarat Unitatea Sa) și a rămas în picioare până când a fost foarte luminos. Apoi a plecat înainte de a răsări soarele."
+        ],
+        "footnote": [
+          "Muslim 2/891"
+        ]
+      },
+      "Takbir-ul când uciderea cu pietre a Jamaratului cu fiecare pietricică": {
+        "text": [
+          "El spune „Allahu Akbar” de fiecare dată când aruncă o pietricică în cei trei Jamarat. Apoi înaintează, se ridică și roagă cu fața la Qiblah, ridicând mâinile după primul și al doilea Jamrah. În ceea ce îl privește pe Jamrat Al-'Aqabah, îl ucide cu pietre și spune „Allahu Akbar” cu fiecare pietricică, apoi pleacă fără să stea acolo."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 3/583 and 3/584, see its wording there. And Al-Bukhari with Fath 3/581, also narrated by Muslim."
+        ]
+      },
+      "Ce să spun în cazul uimire sau asupra unei chestiuni plăcute": {
+        "text": [
+          "Subhanallah (Slavă lui Allah)",
+          "Allahu Akbar (Allah este cel mai mare)"
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 1/210, 390, 414 and Muslim 4/1857",
+          "Al-Bukhari, Al-Fath 8/441. See Sahih At-Tirmidhi 2/103 and 2/235, and Musnad Ahmad 5/218"
+        ]
+      },
+      "Ce să faci când se întâmplă ceva plăcut": {
+        "text": [
+          "Când ceva plăcut sau încântător venea la Profet (pacea fie asupra lui), el se prosterna în semn de recunoștință față de Allah, Cel Binecuvântat și Înălțat."
+        ],
+        "footnote": [
+          "Narrated by the compilers of Sunan except An-Nasa'i. See Sahih Ibn Majah 1/233 and Irwa' al-Ghalil 2/226"
+        ]
+      },
+      "Ce să spuneți când simțiți durere în corp": {
+        "text": [
+          "Pune mâna pe partea corpului care te doare și spune de trei ori: „Bismillah” (În numele lui Allah). Și spuneți de șapte ori: „A'udhu billahi wa qudratihi min sharri ma ajidu wa uhadhir” (Căut refugiu în Allah și în puterea Lui de răul a ceea ce simt și a ceea ce mă tem)."
+        ],
+        "footnote": [
+          "Muslim 4/1728"
+        ]
+      },
+      "Rugăciunea celui care se teme să afecteze ceva cu ochiul rău": {
+        "text": [
+          "Dacă unul dintre voi vede ceva de la fratele său, sau de la el însuși, sau din averea lui care îi place, [să se roage pentru binecuvântare pentru asta], căci ochiul rău este real."
+        ],
+        "footnote": [
+          "Musnad Ahmad 4/447, Ibn Majah, and Malik. Authenticated by Al-Albani in Sahih Al-Jami' 1/212. See the verification of Zad Al-Ma'ad by Al-Arna'ut 4/170"
+        ]
+      },
+      "Ce să spui când ești speriat": {
+        "text": [
+          "La ilaha illallah (Nu există nici un zeu în afară de Allah)."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 6/181, and Muslim 4/2208"
+        ]
+      },
+      "Ce să spuneți când sacrificați sau sacrificați": {
+        "text": [
+          "Bismillah, Allahu Akbar. [O, Allah, de la Tine și pentru Tine.] O, Allah, acceptă de la mine."
+        ],
+        "footnote": [
+          "Muslim 3/1557 și Al-Bayhaqi 9/287. Ceea ce este între paranteze este de la Al-Bayhaqi 9/287 și altele. Ultima propoziție este transmisă în sensul narațiunii lui Muslim."
+        ]
+      },
+      "Ce să spui pentru a respinge răul unui diavol rebel": {
+        "text": [
+          "Caut refugiu în cuvintele desăvârșite ale lui Allah, pe care niciun om drept sau rău nu le poate călca, din răul a ceea ce El a creat, a adus la existență și a răspândi, din răul a ceea ce coboară din cer, din răul a ceea ce urcă acolo, de răul a ceea ce este creat pe pământ, de răul a ceea ce iese din el, de la răul a ceea ce iese din el, de la răul de la fiecare noapte și de la răul zilei și de la răul fiecărei zile și a răului. vizitator care vine cu bine, O, Prea Milostiv."
+        ],
+        "footnote": [
+          "Ahmad 3/419 with an authentic chain, and Ibn As-Sunni no. 637. Al-Arna'ut authenticated its chain in his verification of At-Tahawiyyah, p. 133. See Majma' Az-Zawa'id 10/127."
+        ]
+      },
+      "Căutând iertare și pocăință": {
+        "text": [
+          "Trimisul lui Allah (pacea fie asupra lui) a spus: „Pentru Allah, caut iertarea lui Allah și mă pocăiesc de El de mai mult de șaptezeci de ori pe zi”.",
+          "Și el (pacea fie asupra lui) a spus: „O, oameni buni, pocăiți-vă lui Allah, căci mă pocăiesc față de El de o sută de ori pe zi”.",
+          "Și el (pacea fie asupra lui) a spus: „Oricine spune: „Cer iertarea lui Allah cel Mare, în afară de care nu există nici un zeu, Cel Veșnic viu, Cel care se întreține pe sine, și mă pocăiesc de El”, Allah îl va ierta, chiar dacă a fugit de pe câmpul de luptă”.",
+          "Și el (pacea fie asupra lui) a spus: „Ce mai aproape că este Domnul de un slujitor este în ultima parte a nopții, așa că dacă poți fi printre cei care își amintesc de Allah la acea oră, atunci fă-o”.",
+          "Și el (pacea fie asupra lui) a spus: „Ce mai aproape este un slujitor de Domnul său este atunci când se prosternează, așa că sporește-ți cererile.”",
+          "Și el (pacea fie asupra lui) a spus: „Cu adevărat, uneori, inima mea este acoperită și caut iertarea lui Allah de o sută de ori pe zi”."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 11/101",
+          "Muslim 4/2076",
+          "Reported by Abu Dawud 2/85, At-Tirmidhi 5/569, and Al-Hakim who authenticated it and Adh-Dhahabi agreed 1/511. Authenticated by Al-Albani. See Sahih At-Tirmidhi 3/182 and Jami' Al-Usul li-Ahadith Ar-Rasul (peace be upon him) 4/389-390 with the verification of Al-Arna'ut.",
+          "Reported by At-Tirmidhi, An-Nasa'i 1/279, and Al-Hakim. See Sahih At-Tirmidhi 3/183 and Jami' Al-Usul with the verification of Al-Arna'ut 4/144.",
+          "Muslim 1/350",
+          "Raportat de Muslim 4/2075. Ibn Al-Athir a spus: „(O acoperire peste inima mea)” înseamnă că este acoperită sau acoperită. Ceea ce se înțelege este uitare; pentru că el (pacea fie asupra lui) era mereu într-o stare de amintire din ce în ce mai mare, de apropiere și de veghere constantă, așa că, dacă uita ceva din asta uneori, sau era uitător, îl socotea un păcat asupra lui și se grăbea să-și ceară iertare. Vezi Jami' Al-Usul 4/386."
+        ]
+      },
+      "The Virtue of Tasbih, Tahmid, Tahlil, and Takbir": {
+        "text": [
+          "Profetul (pacea fie asupra lui) a spus: „Oricine spune „Subhanallahi wa bihamdihi” (Slavă lui Allah și lauda fie Lui) de o sută de ori pe zi, păcatele lui vor fi șterse, chiar dacă sunt ca spuma mării”.",
+          "Iar el (pacea fie asupra lui) a spus: „Cine spune „La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu, wa huwa „ala kulli shay'in qadir” (Nu există nici un zeu în afară de Allah, singur, fără partener. Lui îi aparține stăpânirea și toate lucrurile vor fi lăudate, El va fi de zece ori, toate lucrurile sunt de lăudat. de parcă ar fi eliberat patru suflete din urmaşii lui Ismael.'",
+          "Și el (pacea fie asupra lui) a spus: „Două cuvinte care sunt ușoare pe limbă, grele în cumpănă și iubite de Cel Milostiv: „Subhanallahi wa bihamdihi, Subhanallahil-‘Azim” (Slavă lui Allah și slavă să-I fie, Slavă lui Allah cel Mare).'",
+          "Și el (pacea fie asupra lui) a spus: „Pentru ca să spun „Subhanallah, walhamdulillah, wa la ilaha illallah, wallahu akbar” (Slavă lui Allah și laudă lui Allah, și nu există nici un zeu în afară de Allah, iar Allah este cel mai mare) îmi este mai iubit decât tot ce a răsărit soarele”.",
+          "Și el (pacea fie asupra lui) a spus: „Este unul dintre voi incapabil să câștige o mie de fapte bune în fiecare zi?” Un interlocutor dintre tovarășii săi a întrebat: „Cum poate unul dintre noi să câștige o mie de fapte bune?” El a spus: „El spune „Subhanallah” de o sută de ori și o mie de fapte bune vor fi scrise pentru el, sau o mie de păcate vor fi șterse de la el”.",
+          "Oricine spune „Subhanallahil-‘Azim wa bihamdihi” (Slavă lui Allah cel Mare și lauda Lui), i se va planta un palmier în Paradis.",
+          "Și el (pacea fie asupra lui) a spus: „O, 'Abdullah bin Qais, nu te voi ghida către o comoară din comorile Paradisului?' Am spus: „Da, Mesager al lui Allah”. El a spus: „Spune „La hawla wa la quwwata illa billah” (Nu există putere sau putere decât cu Allah).",
+          "Și el (pacea fie asupra lui) a spus: „Cele mai iubite cuvinte pentru Allah sunt patru: „Subhanallah, walhamdulillah, wa la ilaha illallah, wallahu akbar”. Nu contează cu care dintre ele începi.",
+          "Un beduin a venit la Trimisul lui Allah (pacea fie asupra lui) și i-a spus: „Învață-mă câteva cuvinte de spus”. El a spus: „Spune: „La ilaha illallahu wahdahu la sharika lah, Allahu Akbaru kabira, walhamdulillahi kathira, Subhanallahi Rabbil-'alamin, la hawla wa la quwwata illa billahil-'Azizil-Hakim' (Nu există nici un zeu în afară de Allah, numai Allah nu este partenerul cel mai mare. Allah, slavă lui Allah, Domnul lumilor. Nu există putere sau putere decât cu Allah, Cel Puternic, Înțeleptul). El a spus: 'Acestea sunt pentru Domnul meu, dar ce este pentru mine?' El a spus: „Spune: „Allahummaghfir li, warhamni, wahdini, warzuqni” (O Allah, iartă-mă, ai milă de mine, călăuzește-mă și asigură-mă).",
+          "Când un om îmbrățișa Islamul, Profetul (pacea fie asupra lui) îl învăța rugăciunea, apoi îi poruncea să implore cu aceste cuvinte: „Allahummaghfir li, warhamni, wahdini, wa „afini, warzuqni” (O Allah, iartă-mă, ai milă de mine, călăuzește-mă, dă-mi bunăstare și asigură-mi).",
+          "Într-adevăr, cea mai bună amintire este „La ilaha illallah”.",
+          "Sfârșitul faptelor bune sunt: ​​„Subhanallah, walhamdulillah, wa la ilaha illallah, wallahu akbar, wa la hawla wa la quwwata illa billah”."
+        ],
+        "footnote": [
+          "Al-Bukhari 7/168 and Muslim 4/2071. See: the virtue of one who says it one hundred times in the morning and evening.",
+          "Al-Bukhari 7/67 and Muslim with his wording 4/2071. See the virtue of one who says it one hundred times a day.",
+          "Al-Bukhari 7/167 and Muslim 4/2072",
+          "Muslim 4/2072",
+          "Muslim 4/2073",
+          "Reported by At-Tirmidhi 5/511 and Al-Hakim 1/501, who authenticated it and Adh-Dhahabi agreed. See Sahih Al-Jami' 5/531 and Sahih At-Tirmidhi 3/160.",
+          "Al-Bukhari with Fath 11/213 and Muslim 4/2076",
+          "Muslim 3/1685",
+          "Muslim 4/2072. Abu Dawud added: 'When the Bedouin turned to leave, the Prophet (peace be upon him) said: 'He has filled his hands with goodness.'' 1/220",
+          "Musulman 4/2073. Într-o narațiune a lui Muslim: „Căci acestea vor aduna pentru tine viața ta lumească și Viața ta de Apoi”.",
+          "At-Tirmidhi 5/462, Ibn Majah 2/1249, and Al-Hakim 1/503, who authenticated it and Adh-Dhahabi agreed. See Sahih Al-Jami' 1/362.",
+          "Ahmad, no. 513, arranged by Ahmad Shakir, and its chain is authentic. See Majma' Az-Zawa'id 1/297. Ibn Hajar attributed it in Bulugh Al-Maram from the narration of Abu Sa'id to An-Nasa'i and said: 'Ibn Hibban and Al-Hakim authenticated it.'"
+        ]
+      },
+      "How Did the Prophet (peace be upon him) Make Tasbih?": {
+        "text": [
+          "De la 'Abdullah bin 'Amr (Allah să fie mulţumit de ei), care a spus: 'L-am văzut pe Profet (pacea fie asupra lui) numărând Tasbih-ul de pe mâna sa dreaptă'."
+        ],
+        "footnote": [
+          "Reported by Abu Dawud with his wording 2/81 and At-Tirmidhi 5/521. See Sahih Al-Jami' 4/271, no. 4865."
+        ]
+      },
+      "Diverse fapte bune și maniere cuprinzătoare": {
+        "text": [
+          "Când aripile nopții se desfășoară – sau când ajungi la seară – ține-ți copiii înăuntru, căci dracii s-au întins la vremea aceea. Apoi, când a trecut o oră din noapte, dă-i drumul. Și închideți ușile și menționați numele lui Allah, căci Satana nu deschide ușa închisă. Și legați-vă burdufurile și menționați numele lui Allah, acoperiți-vă vasele și menționați numele lui Allah, chiar dacă puneți ceva peste el și stingeți lămpile voastre."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 10/88 and Muslim 3/1595"
+        ]
+      }
+    }
+  }
+}

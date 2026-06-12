@@ -1,0 +1,73 @@
+{
+    "surahInfo": {
+        "number": 1,
+        "nameArabic": "الفاتحة",
+        "nameEnglish": "Al-Fātiḥah",
+        "meaning": "The Opening",
+        "totalVerses": 7,
+        "revelationType": "Meccan",
+        "recitedIn": [
+            "Every unit (rak'ah) of prayer",
+            "At least 17 times daily in obligatory prayers",
+            "Opening of the Quran"
+        ],
+        "significance": "Al-Fātiḥah is the greatest Surah in the Quran. The Prophet ﷺ said: 'The prayer is not valid for one who does not recite the Opening of the Book (Al-Fātiḥah).'"
+    },
+    "basmalah": {
+        "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "transliteration": "Bis-mil-lā-hir-Raḥ-mā-nir-Ra-ḥīm",
+        "meaning": "In the name of Allah, the Most Gracious, the Most Merciful",
+        "note": "Recited before starting the Surah"
+    },
+    "verses": [
+        {
+            "number": 1,
+            "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+            "transliteration": "Al-ḥam-du lil-lā-hi Rab-bil-ʿā-la-mīn",
+            "meaning": "All praise is due to Allah, Lord of all the worlds",
+            "explanation": "We begin by praising Allah, who is the Creator and Sustainer of everything in existence."
+        },
+        {
+            "number": 2,
+            "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
+            "transliteration": "Ar-Raḥ-mā-nir-Ra-ḥīm",
+            "meaning": "The Most Gracious, the Most Merciful",
+            "explanation": "Allah's mercy encompasses all of creation. Ar-Raḥmān refers to His vast mercy, Ar-Raḥīm to His special mercy for believers."
+        },
+        {
+            "number": 3,
+            "arabic": "مَالِكِ يَوْمِ الدِّينِ",
+            "transliteration": "Mā-li-ki yaw-mid-dīn",
+            "meaning": "Master of the Day of Judgment",
+            "explanation": "Allah alone owns and controls the Day when all people will be judged for their deeds."
+        },
+        {
+            "number": 4,
+            "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+            "transliteration": "Iy-yā-ka naʿ-bu-du wa iy-yā-ka nas-ta-ʿīn",
+            "meaning": "You alone we worship, and You alone we ask for help",
+            "explanation": "This is the core of Tawheed: directing all worship and seeking help only from Allah."
+        },
+        {
+            "number": 5,
+            "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+            "transliteration": "Ih-di-naṣ-ṣi-rā-ṭal-mus-ta-qīm",
+            "meaning": "Guide us to the straight path",
+            "explanation": "We ask Allah to keep us on the path of Islam, the path that leads to Paradise."
+        },
+        {
+            "number": 6,
+            "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
+            "transliteration": "Ṣi-rā-ṭal-la-dhī-na an-ʿam-ta ʿa-lay-him",
+            "meaning": "The path of those whom You have blessed",
+            "explanation": "The path of the prophets, truthful ones, martyrs, and righteous people."
+        },
+        {
+            "number": 7,
+            "arabic": "غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+            "transliteration": "Ghay-ril-magh-ḍū-bi ʿa-lay-him wa laḍ-ḍāl-līn",
+            "meaning": "Not of those who have earned Your anger, nor of those who have gone astray",
+            "explanation": "We seek refuge from the path of those who knew the truth but rejected it, and those who went astray through ignorance."
+        }
+    ]
+}

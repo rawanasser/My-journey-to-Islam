@@ -1,0 +1,1636 @@
+{
+  "COMMON_LOADING": "Cargando...",
+  "COMMON_BACK": "Atrás",
+  "COMMON_CONTINUE": "Continuar",
+  "COMMON_SUCCESS": "Éxito",
+  "COMMON_ERROR": "Error",
+  "COMMON_FEATURE_COMING_SOON": "Función próximamente.",
+  "COMMON_SAVE": "Guardar configuración",
+  "WELCOME_TEXT": "Hola mi hermano musulmán, ¡bienvenido! ✨ Comencemos juntos un viaje significativo para explorar los conceptos básicos del Islam de una manera sencilla e inspiradora. Que este viaje ilumine tu camino.",
+  "WHAT_IS_ISLAM_TEXT": "El Islam es una religión monoteísta que enseña que solo hay un Dios (Allah) y que Muhammad es Su mensajero.",
+  "ISLAM_PILLARS_DESC": "El Islam se basa en cinco pilares: los dos testimonios de fe, la oración, el zakat, el ayuno y el Hajj.",
+  "SHAHADA_TEXT": "Primero: Los dos testimonios son: \"Atestiguo que no hay más dios que Allah, y atestiguo que Muhammad es el Mensajero de Dios.\"",
+  "PRAYER_NAME_FAJR": "Fajr (Amanecer)",
+  "PRAYER_NAME_DHUHR": "Dhuhr (Mediodía)",
+  "PRAYER_NAME_ASR": "Asr (Tarde)",
+  "PRAYER_NAME_MAGHRIB": "Maghrib (Atardecer)",
+  "PRAYER_NAME_ISHA": "Isha (Noche)",
+  "PRAYER_NAME_IMSAK": "Imsak (Ayuno)",
+  "PRAYER_NAME_DHUHA": "Dhuha (Mañana)",
+  "PRAYER_TITLE": "Segundo: La Oración",
+  "PRAYER_INTRO": "En el Islam, la oración (Salah) es un acto de adoración que se realiza cinco veces al día en horarios específicos. Estas oraciones son:",
+  "PRAYER_FAJR_DESC": "Fajr (Oración del Amanecer): Se realiza antes del amanecer y consta de 2 Rak'ahs (unidades).",
+  "PRAYER_DHUHR_DESC": "Dhuhr (Oración del Mediodía): Se realiza después de que el sol pasa su cenit y consta de 4 Rak'ahs.",
+  "PRAYER_ASR_DESC": "Asr (Oración de la Tarde): Se realiza por la tarde antes del atardecer y consta de 4 Rak'ahs.",
+  "PRAYER_MAGHRIB_DESC": "Maghrib (Oración del Atardecer): Se realiza justo después del atardecer y consta de 3 Rak'ahs.",
+  "PRAYER_ISHA_DESC": "Isha (Oración de la Noche): Se realiza después de que ha desaparecido el crepúsculo y consta de 4 Rak'ahs.",
+  "ZAKAT_TEXT": "En tercer lugar, Zakat Zakat ayuda a los necesitados. Los musulmanes deben dar un porcentaje de su riqueza.",
+  "FASTING_TEXT": "Cuarto, el ayuno. El ayuno significa abstenerse de comida y bebida desde el amanecer hasta el atardecer durante el mes de Ramadán.",
+  "HAJJ_TEXT": "Quinto Hajj El Hajj es una obligación que todo musulmán capaz debe realizar una vez en la vida. Descubre los diferentes rituales.",
+  "START_JOURNEY": "Comencemos nuestro viaje para comprender mejor el Islam.",
+  "HOME_NEXT_PRAYER_IN": "en",
+  "HOME_PERMISSION_DENIED": "Permiso denegado",
+  "HOME_DEFAULT_LOCATION": "Ubicación predeterminada: La Meca",
+  "HOME_YOUR_LOCATION": "Tu ubicación: ",
+  "HOME_LOADING_PRAYERS": "Cargando horarios de oración...",
+  "HOME_NO_PRAYERS": "No se encontraron horarios de oración.",
+  "HOME_CHECK_CONNECTION": "Por favor verifica tu conexión a Internet y los permisos de ubicación.",
+  "HOME_NOTIFICATION_TITLE": "Es hora de la oración %{name}",
+  "HOME_NOTIFICATION_BODY": "Allah es el más grande",
+  "HOME_NOTIFICATION_CHANNEL": "Recordatorios de oración",
+  "HOME_PRAYER_NO_UPCOMING": "No hay oraciones próximas",
+  "HIJRI_AH": "Ah",
+  "HIJRI_MONTH_1": "Muharram",
+  "HIJRI_MONTH_2": "Safar",
+  "HIJRI_MONTH_3": "Rabi al-Awwal",
+  "HIJRI_MONTH_4": "Rabi al-Thani",
+  "HIJRI_MONTH_5": "Jumada al-Awwal",
+  "HIJRI_MONTH_6": "Jumada al-Thani",
+  "HIJRI_MONTH_7": "Rajab",
+  "HIJRI_MONTH_8": "shaaban",
+  "HIJRI_MONTH_9": "Ramadán",
+  "HIJRI_MONTH_10": "shawwal",
+  "HIJRI_MONTH_11": "Dhu al-Qidah",
+  "HIJRI_MONTH_12": "Dhu al-Hijjah",
+  "QUOTE_0": "En verdad, Allah está con los pacientes. (Corán 2:153)",
+  "QUOTE_1": "Y te encontró perdido y te guió. (Corán 93:7)",
+  "QUOTE_2": "Ciertamente, con la dificultad viene la facilidad. (Corán 94:6)",
+  "QUOTE_3": "Los mejores de ustedes son aquellos que tienen los mejores modales y carácter. (Profeta Muhammad ﷺ)",
+  "QUOTE_4": "No pierdan la esperanza ni estén tristes. (Corán 3:139)",
+  "QUOTE_5": "Quien ponga su confianza en Allah, Él le será suficiente. (Corán 65:3)",
+  "QUOTE_6": "Allah no impone a ninguna alma una carga mayor de la que puede soportar. (Corán 2:286)",
+  "FOOTER_LIBRARY": "Biblioteca",
+  "FOOTER_LEARN": "Aprender",
+  "FOOTER_QURAN": "Corán",
+  "FOOTER_ADHAKAR": "mi adkar",
+  "FOOTER_QIBLA": "Quibla",
+  "QURAN_TITLE": "El Sagrado Corán",
+  "QURAN_LOAD_FAILED": "No se pudieron cargar las suras. Por favor verifique su conexión.",
+  "SURAH_LOAD_FAILED": "No se pudieron cargar los detalles de Sura. Por favor verifique su conexión.",
+  "SURAH_NO_DATA": "No se encontraron detalles",
+  "SURAH_BOOKMARKED": "¡Aleya marcada!",
+  "SURAH_TAFSIR_TITLE": "tafsir",
+  "SURAH_NOTES_TITLE": "Notas",
+  "SURAH_JUZ": "Ya",
+  "ADHAKAR_LOAD_FAILED": "No se pudo cargar Adhkar.",
+  "ADHAKAR_TITLE_NOT_FOUND": "Título no encontrado",
+  "ADHAKAR_DETAILS_ERROR": "Ocurrió un error al cargar los detalles de los Adhkar.",
+  "ADHAKAR_REPEAT": "Repetir",
+  "ADHAKAR_TIMES": "veces",
+  "QIBLA_TITLE": "Dirección de la Qibla",
+  "QIBLA_INSTRUCTION": "Alinea la flecha para encontrar la Qibla.",
+  "SETTINGS_TITLE": "Configuración",
+  "SETTINGS_LANGUAGE": "Idioma",
+  "SETTINGS_APP_LANGUAGE": "Idioma de la aplicación",
+  "SETTINGS_SELECT_LANGUAGE": "Seleccionar idioma",
+  "SETTINGS_NOTIFICATIONS": "Notificaciones",
+  "LIBRARY_TITLE": "Biblioteca Islámica",
+  "LIBRARY_WEBVIEW_TITLE": "Casa Islámica",
+  "BOOK_1_TITLE": "El Néctar Sellado",
+  "BOOK_1_AUTHOR": "Safiur Rahman Al-Mubarakpuri",
+  "BOOK_2_TITLE": "Riyad as-Salihin",
+  "BOOK_2_AUTHOR": "Imam an-Nawawi",
+  "BOOK_3_TITLE": "Cuarenta hadices",
+  "BOOK_3_AUTHOR": "Imam an-Nawawi",
+  "LESSONS_TITLE": "Lecciones en vídeo",
+  "LESSONS_PREFIX": "Lección",
+  "LESSONS_DEFAULT_TEXT": "En esta lección, exploraremos aspectos importantes de la comprensión y práctica del Islam de manera simple y paso a paso. Por favor mira el video de arriba para más detalles.",
+  "ERROR_BOUNDARY_TITLE": "¡Ups! Algo salió mal",
+  "ERROR_BOUNDARY_MESSAGE": "La aplicación encontró un error inesperado. Por favor intenta de nuevo.",
+  "ERROR_BOUNDARY_TRY_AGAIN": "Intentar otra vez",
+  "SELECT_LANGUAGE": "Seleccione su idioma",
+  "SELECT_LANGUAGE_SUBTITLE": "Elige tu idioma",
+  "SURAH_1_NAME_EN": "Al-Fatiha",
+  "SURAH_2_NAME_EN": "Al-Baqarah",
+  "SURAH_3_NAME_EN": "Aal-E-Imran",
+  "SURAH_4_NAME_EN": "An-Nisa",
+  "SURAH_5_NAME_EN": "Al-Ma’idah",
+  "SURAH_6_NAME_EN": "Al-An’am",
+  "SURAH_7_NAME_EN": "Al-A’raf",
+  "SURAH_8_NAME_EN": "Al-Anfal",
+  "SURAH_9_NAME_EN": "At-Tawbah",
+  "SURAH_10_NAME_EN": "Yunus",
+  "SURAH_11_NAME_EN": "Hud",
+  "SURAH_12_NAME_EN": "Yusuf",
+  "SURAH_13_NAME_EN": "Ar-Ra’d",
+  "SURAH_14_NAME_EN": "Ibrahim",
+  "SURAH_15_NAME_EN": "Al-Hijr",
+  "SURAH_16_NAME_EN": "An-Nahl",
+  "SURAH_17_NAME_EN": "Al-Isra",
+  "SURAH_18_NAME_EN": "Al-Kahf",
+  "SURAH_19_NAME_EN": "Maryam",
+  "SURAH_20_NAME_EN": "Taha",
+  "SURAH_21_NAME_EN": "Al-Anbiya",
+  "SURAH_22_NAME_EN": "Al-Hajj",
+  "SURAH_23_NAME_EN": "Al-Mu’minun",
+  "SURAH_24_NAME_EN": "An-Nur",
+  "SURAH_25_NAME_EN": "Al-Furqan",
+  "SURAH_26_NAME_EN": "Ash-Shu’ara",
+  "SURAH_27_NAME_EN": "An-Naml",
+  "SURAH_28_NAME_EN": "Al-Qasas",
+  "SURAH_29_NAME_EN": "Al-‘Ankabut",
+  "SURAH_30_NAME_EN": "Ar-Rum",
+  "SURAH_31_NAME_EN": "Luqman",
+  "SURAH_32_NAME_EN": "As-Sajda",
+  "SURAH_33_NAME_EN": "Al-Ahzab",
+  "SURAH_34_NAME_EN": "Saba",
+  "SURAH_35_NAME_EN": "Fatir",
+  "SURAH_36_NAME_EN": "Ya-Sin",
+  "SURAH_37_NAME_EN": "As-Saffat",
+  "SURAH_38_NAME_EN": "Sad",
+  "SURAH_39_NAME_EN": "Az-Zumar",
+  "SURAH_40_NAME_EN": "Ghafir",
+  "SURAH_41_NAME_EN": "Fussilat",
+  "SURAH_42_NAME_EN": "Ash-Shura",
+  "SURAH_43_NAME_EN": "Az-Zukhruf",
+  "SURAH_44_NAME_EN": "Ad-Dukhan",
+  "SURAH_45_NAME_EN": "Al-Jathiya",
+  "SURAH_46_NAME_EN": "Al-Ahqaf",
+  "SURAH_47_NAME_EN": "Muhammad",
+  "SURAH_48_NAME_EN": "Al-Fath",
+  "SURAH_49_NAME_EN": "Al-Hujurat",
+  "SURAH_50_NAME_EN": "Qaf",
+  "SURAH_51_NAME_EN": "Adh-Dhariyat",
+  "SURAH_52_NAME_EN": "At-Tur",
+  "SURAH_53_NAME_EN": "An-Najm",
+  "SURAH_54_NAME_EN": "Al-Qamar",
+  "SURAH_55_NAME_EN": "Ar-Rahman",
+  "SURAH_56_NAME_EN": "Al-Waqi’a",
+  "SURAH_57_NAME_EN": "Al-Hadid",
+  "SURAH_58_NAME_EN": "Al-Mujadila",
+  "SURAH_59_NAME_EN": "Al-Hashr",
+  "SURAH_60_NAME_EN": "Al-Mumtahina",
+  "SURAH_61_NAME_EN": "As-Saff",
+  "SURAH_62_NAME_EN": "Al-Jumu’a",
+  "SURAH_63_NAME_EN": "Al-Munafiqun",
+  "SURAH_64_NAME_EN": "At-Taghabun",
+  "SURAH_65_NAME_EN": "At-Talaq",
+  "SURAH_66_NAME_EN": "At-Tahrim",
+  "SURAH_67_NAME_EN": "Al-Mulk",
+  "SURAH_68_NAME_EN": "Al-Qalam",
+  "SURAH_69_NAME_EN": "Al-Haqqa",
+  "SURAH_70_NAME_EN": "Al-Ma’arij",
+  "SURAH_71_NAME_EN": "Nuh",
+  "SURAH_72_NAME_EN": "Al-Jinn",
+  "SURAH_73_NAME_EN": "Al-Muzzammil",
+  "SURAH_74_NAME_EN": "Al-Muddaththir",
+  "SURAH_75_NAME_EN": "Al-Qiyama",
+  "SURAH_76_NAME_EN": "Al-Insan",
+  "SURAH_77_NAME_EN": "Al-Mursalat",
+  "SURAH_78_NAME_EN": "An-Naba",
+  "SURAH_79_NAME_EN": "An-Nazi’at",
+  "SURAH_80_NAME_EN": "Abasa",
+  "SURAH_81_NAME_EN": "At-Takwir",
+  "SURAH_82_NAME_EN": "Al-Infitar",
+  "SURAH_83_NAME_EN": "Al-Mutaffifin",
+  "SURAH_84_NAME_EN": "Al-Inshiqaq",
+  "SURAH_85_NAME_EN": "Al-Buruj",
+  "SURAH_86_NAME_EN": "At-Tariq",
+  "SURAH_87_NAME_EN": "Al-A’la",
+  "SURAH_88_NAME_EN": "Al-Ghashiya",
+  "SURAH_89_NAME_EN": "Al-Fajr",
+  "SURAH_90_NAME_EN": "Al-Balad",
+  "SURAH_91_NAME_EN": "Ash-Shams",
+  "SURAH_92_NAME_EN": "Al-Lail",
+  "SURAH_93_NAME_EN": "Ad-Duha",
+  "SURAH_94_NAME_EN": "Ash-Sharh",
+  "SURAH_95_NAME_EN": "At-Tin",
+  "SURAH_96_NAME_EN": "Al-Alaq",
+  "SURAH_97_NAME_EN": "Al-Qadr",
+  "SURAH_98_NAME_EN": "Al-Bayyina",
+  "SURAH_99_NAME_EN": "Az-Zalzalah",
+  "SURAH_100_NAME_EN": "Al-Adiyat",
+  "SURAH_101_NAME_EN": "Al-Qari’a",
+  "SURAH_102_NAME_EN": "At-Takathur",
+  "SURAH_103_NAME_EN": "Al-‘Asr",
+  "SURAH_104_NAME_EN": "Al-Humazah",
+  "SURAH_105_NAME_EN": "Al-Fil",
+  "SURAH_106_NAME_EN": "Quraish",
+  "SURAH_107_NAME_EN": "Al-Ma’un",
+  "SURAH_108_NAME_EN": "Al-Kawthar",
+  "SURAH_109_NAME_EN": "Al-Kafirun",
+  "SURAH_110_NAME_EN": "An-Nasr",
+  "SURAH_111_NAME_EN": "Al-Masad",
+  "SURAH_112_NAME_EN": "Al-Ikhlas",
+  "SURAH_113_NAME_EN": "Al-Falaq",
+  "SURAH_114_NAME_EN": "An-Nas",
+  "hisnAlMuslim": {
+    "Introducción": {
+      "text": [
+        "En el nombre de Alá, la más misericordiosa, la más misericordiosa",
+        "De hecho, toda alabanza se debe a Allah. Lo alabamos, buscamos Su ayuda y pedimos Su perdón. Buscamos refugio en Allah de nuestros males y de nuestras acciones pecaminosas. A quien Allah guía, nadie puede desviarlo, y a quien Él desvía, nadie puede guiarlo. Doy testimonio de que no hay deidad digna de adoración excepto Allah, solo y sin ningún compañero, y doy testimonio de que Muhammad es Su siervo y Su Mensajero, que la paz y las bendiciones de Allah sean con él, su familia, sus compañeros y aquellos que los sigan en rectitud hasta el Día del Juicio, con abundante paz. En cuanto a lo que sigue:",
+        "Este es un resumen que extraje de mi libro 'Dhikr, Dua y tratamiento con Ruqyah del Corán y la Sunnah'. He resumido la sección sobre súplicas (dhikr) para que sea más ligera de llevar durante los viajes.",
+        "Me he limitado al texto de la súplica y me he contentado con mencionar una o dos fuentes del texto original para su autenticación. Quien desee conocer al compañero que lo narró o desee más detalles sobre su autenticidad deberá consultar la fuente original.",
+        "Pido a Allah, el Poderoso y Majestuoso, por Sus hermosos nombres y elevados atributos, que haga esta obra exclusivamente para Su noble rostro, que me beneficie con ella en mi vida y después de mi muerte, y que beneficie a quien la lea, la imprima o sea causa de su difusión. De hecho, Él es el Guardián y el que puede hacerlo. Que la paz y las bendiciones de Allah sean con nuestro Profeta Muhammad, su familia, sus compañeros y aquellos que los sigan con rectitud hasta el Día del Juicio."
+      ],
+      "footnote": [
+        "Escrita en el mes de Safar, 1409 AH",
+        "Autor: Sa'id bin Ali bin Wahf Al-Qahtani"
+      ]
+    },
+    "La virtud del recuerdo (Dhikr)": {
+      "text": [
+        "Allah Todopoderoso dice: {Por tanto, recordadme, Yo os recordaré, sed agradecidos conmigo y no me nieguéis.}",
+        "{Oh vosotros que habéis creído, recordad a Allah con mucha memoria.}",
+        "{Y a los hombres que recuerdan a Allah con frecuencia y a las mujeres que recuerdan, Allah ha preparado para ellos el perdón y una gran recompensa.}",
+        "{Y recuerda a tu Señor dentro de ti con humildad y temor, sin hablar en voz alta, por la mañana y por la tarde. Y no seas de los negligentes.}",
+        "El Profeta (la paz sea con él) dijo: 'La semejanza del que recuerda a su Señor y del que no recuerda a su Señor es la de los vivos y los muertos'.",
+        "El Profeta (la paz sea con él) dijo: '¿No te informaré de tus mejores acciones, las más puras con tu Rey, las más altas en tus filas, mejores para ti que gastar oro y plata, y mejores para ti que enfrentarte a tu enemigo y golpear sus cuellos y ellos golpear el tuyo?' Dijeron: 'Sí'. Él dijo: \"El recuerdo de Allah Todopoderoso\".",
+        "El Profeta (la paz sea con él) dijo: 'Allah el Todopoderoso dice: Soy como Mi siervo piensa que soy. Yo estoy con él cuando hace mención de Mí. Si él hace mención de Mí a sí mismo, Yo me hago mención de él a Mí mismo; y si él hace mención de Mí en una asamblea, Yo lo hago en una asamblea mejor que ella. Y si él se acerca a mí un palmo, yo me acerco a él un brazo; y si él se acerca a mí a un brazo, yo me acerco a él a una braza. Y si viene a Mí caminando, Yo voy hacia él rápidamente.'",
+        "Bajo la autoridad de Abdullah bin Busr (que Allah esté complacido con él), un hombre dijo: 'Oh Mensajero de Allah, las leyes del Islam se han vuelto muchas para mí, así que dime algo a lo que pueda aferrarme'. El Profeta (la paz sea con él) dijo: 'Deja que tu lengua permanezca húmeda con el recuerdo de Allah'.",
+        "El Profeta (la paz sea con él) dijo: 'Quien recite una letra del Libro de Allah, se le acreditará una buena acción, y una buena acción recibirá una recompensa diez veces mayor. No digo que Alif-Lam-Mim sea una letra, pero Alif es una letra, Lam es una letra y Mim es una letra.'",
+        "Bajo la autoridad de 'Uqbah bin 'Amir (que Allah esté complacido con él), dijo: 'El Mensajero de Allah (la paz sea con él) salió mientras estábamos en Suffah y dijo: '¿A quién de ustedes le gustaría salir todas las mañanas a Buthan o a al-'Aqiq y traer de allí dos camellas de grandes jorobas sin cometer ningún pecado ni romper ningún vínculo de parentesco?' Dijimos: 'Oh Mensajero de Allah, eso nos encantaría'. Él dijo: 'Entonces, ¿uno de ustedes no iría a la mezquita y aprendería o recitaría dos versos del Libro de Allah, el Poderoso y Majestuoso? Eso es mejor para él que dos camellas, y tres son mejores para él que tres, y cuatro son mejores para él que cuatro, y así sucesivamente según el número de camellos.'",
+        "El Profeta (la paz sea con él) dijo: 'Quien se siente en una reunión en la que no recuerda a Allah, será motivo de arrepentimiento por parte de Allah. Y quien se acueste en un lugar donde no recuerda a Allah, será motivo de arrepentimiento por parte de Allah.'",
+        "El Profeta (la paz sea con él) dijo: 'Nadie se sienta en una reunión sin recordar a Allah ni enviar bendiciones a su Profeta, sin que sea motivo de arrepentimiento para ellos. Si quiere, los castigará, y si quiere, los perdonará.'",
+        "El Profeta (la paz sea con él) dijo: 'Nadie se levanta de una reunión en la que no recuerda a Allah, sino que se levanta de lo que es como el cadáver de un asno, y será motivo de dolor para ellos'."
+      ],
+      "footnote": [
+        "Sura Al-Baqarah, versículo: 152",
+        "Sura Al-Ahzab, versículo: 41",
+        "Sura Al-Ahzab, versículo: 35",
+        "Surah Al-A'raf, Verse: 205",
+        "Al-Bukhari with Fath 11/208 and Muslim with the wording 'The likeness of the house in which Allah is remembered and the house in which Allah is not remembered is that of the living and the dead' 1/539",
+        "At-Tirmidhi 5/459 and Ibn Majah 2/1245. See Sahih Ibn Majah 2/316 and Sahih At-Tirmidhi 3/139",
+        "Al-Bukhari 8/171 and Muslim 4/2061, the wording is from Al-Bukhari",
+        "At-Tirmidhi 5/458 and Ibn Majah 2/1246. See Sahih At-Tirmidhi 3/139 and Sahih Ibn Majah 2/317",
+        "At-Tirmidhi 5/175. See Sahih At-Tirmidhi 3/9 and Sahih Al-Jami' As-Saghir 5/340",
+        "Muslim 1/553",
+        "Abu Dawud 4/264 and others. See Sahih Al-Jami' 5/342",
+        "At-Tirmidhi. See Sahih At-Tirmidhi 3/140",
+        "Abu Dawud 4/264. See Sahih Al-Jami' 5/176"
+      ]
+    },
+    "Súplicas para despertar": {
+      "text": [
+        "Toda alabanza es para Allah, que nos dio la vida después de habérnosla quitado* y a Él es la resurrección*.",
+        "Toda alabanza es para Allah quien me ha dado salud en mi cuerpo y me ha devuelto mi alma y me ha permitido recordarlo.",
+        "El Mensajero de Allah (la paz sea con él) dijo: 'Quien se despierte durante la noche* y diga al despertar: 'La ilaha illallah wahdahu la sharika lah, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadir'. Subhanallah, walhamdulillah, wa la ilaha illallah, wallahu akbar, wa la hawla wa la quwwata illa billahil-'aliyyil-'azim' (No hay más dios que Allah, solo, sin compañero. A Él pertenece el dominio y a Él es toda alabanza, y Él es capaz de hacer todas las cosas. Gloria a Allah, y toda alabanza es para Allah, y no hay más dios que Allah, y Allah es el más grande, y no hay fuerza ni poder excepto con Allah, el Más Alto, el Más Grande), luego suplica: 'Allahummaghfir li' (Oh Allah, perdóname), será perdonado.' Al-Walid dijo: 'O dijo: 'Si suplica, será respondido. Si luego se pone de pie, realiza la ablución y luego reza, su oración será aceptada.'",
+        "{De hecho, en la creación de los cielos y de la tierra y en la alternancia de la noche y el día hay señales para los que tienen entendimiento. *Que recuerdan a Allah mientras están de pie, sentados o [acostados] de costado y piensan en la creación de los cielos y la tierra, [diciendo]: 'Señor nuestro, Tú no creaste esto sin propósito; exaltado eres Tú [por encima de tal cosa]; entonces protégenos del castigo del Fuego. *Señor nuestro, a quienquiera que admitas en el Fuego, lo has deshonrado, y para los malhechores no hay ayudantes. *Señor nuestro, en verdad hemos oído a alguien que llamaba a la fe, [diciendo]: 'Cree en tu Señor', y hemos creído. Señor nuestro, perdónanos nuestros pecados y quita de nosotros nuestras malas acciones y haznos morir con los justos. *Señor nuestro, y concédenos lo que nos prometiste a través de Tus mensajeros y no nos deshonres en el Día de la Resurrección. De hecho, no faltas a [tu] promesa. *Y su Señor les respondió: 'Nunca permitiré que se pierda el trabajo de [ningún] trabajador entre vosotros, sea hombre o mujer; sois el uno del otro. Así que aquellos que emigraron o fueron desalojados de sus hogares o fueron perjudicados por Mi causa o lucharon o fueron asesinados, ciertamente les quitaré sus malas acciones y ciertamente los admitiré en jardines bajo los cuales fluyen ríos como recompensa de Allah, y Allah tiene consigo la mejor recompensa.' *No os dejéis engañar por el movimiento [desinhibido] de los incrédulos por toda la tierra. *[No es más que] un pequeño disfrute; entonces su refugio [final] es el infierno, y miserable el lugar de descanso. *Pero aquellos que temieron a su Señor tendrán jardines bajo los cuales correrán ríos, y permanecerán en ellos eternamente, como alojamiento de Allah. Y lo que está con Allah es lo mejor para los justos. *Y en verdad, entre la Gente de las Escrituras están aquellos que creen en Allah y en lo que os ha sido revelado y en lo que les ha sido revelado, [siendo] humildemente sumisos a Allah. No cambian los versos de Allah por un precio pequeño. Éstos tendrán su recompensa junto a su Señor. En verdad, Alá es rápido en las cuentas. *Oh ustedes que han creído, perseveren y aguanten y permanezcan estacionados y teman a Allah para que puedan tener éxito.}'"
+      ],
+      "footnote": [
+        "* es decir, muerte metafórica, que es sueño. Se dice que el sueño es la muerte ligera.",
+        "* El avivamiento después de la muerte (la Resurrección).",
+        "Al-Bukhari with Fath 11/113 and Muslim 4/2083",
+        "At-Tirmidhi 5/473. See Sahih At-Tirmidhi 3/144",
+        "* 'Ta'ar' significa insomnio y dar vueltas y vueltas en la cama por la noche con el habla.",
+        "Narrated by Al-Bukhari with Fath 3/144 and others, the wording is from Ibn Majah. See Sahih Ibn Majah 2/335",
+        "The verses are from Surah Al-Imran, 190-200. Al-Bukhari with Fath 8/238 and Muslim 1/530"
+      ]
+    },
+    "Súplica por usar una prenda": {
+      "text": [
+        "Quien usa una prenda y dice: 'Todas las alabanzas son para Allah, quien me vistió con esta (prenda) y me la proporcionó sin ninguna fuerza o poder de mi parte'."
+      ],
+      "footnote": [
+        "Reported by the compilers of Sunan except An-Nasa'i. See Irwa' al-Ghalil 7/47"
+      ]
+    },
+    "Súplica para usar un vestido nuevo": {
+      "text": [
+        "Oh Allah, para Ti es toda alabanza. Me has revestido con ello. Te pido por su bien y el bien para el cual fue hecho, y busco refugio en Ti de su mal y del mal para el cual fue hecho."
+      ],
+      "footnote": [
+        "Abu Dawud, At-Tirmidhi, and Al-Baghawi. See Mukhtasar Shama'il At-Tirmidhi by Al-Albani, p. 47"
+      ]
+    },
+    "Súplica por alguien que lleva un vestido nuevo": {
+      "text": [
+        "Llévalo nuevo, vive una vida digna de elogio y muere como un mártir.",
+        "Que lo desgastes y que Allah Todopoderoso lo reemplace."
+      ],
+      "footnote": [
+        "Ibn Majah 2/1178 and Al-Baghawi 12/41. See Sahih Ibn Majah 2/275",
+        "Reported by Abu Dawud 4/41. See Sahih Abi Dawud 2/760"
+      ]
+    },
+    "Qué decir al quitarse una prenda": {
+      "text": [
+        "La pantalla entre los ojos de los genios y las partes íntimas de los hijos de Adán, cuando uno de ellos se quita la vestidura, es para decir: \"En el nombre de Allah\"."
+      ],
+      "footnote": [
+        "At-Tirmidhi 2/505 and others. See Al-Irwa' no. 49, Sahih Al-Jami' 3/203"
+      ]
+    },
+    "Súplica para entrar al baño": {
+      "text": [
+        "{En el nombre de Allah}, Oh Allah, busco refugio en Ti de los espíritus malignos masculinos y femeninos."
+      ],
+      "footnote": [
+        "Reported by Al-Bukhari 1/45 and Muslim 1/283. The addition of 'Bismillah' at the beginning is agreed upon, reported by Sa'id bin Mansur. See Fath Al-Bari 1/244"
+      ]
+    },
+    "Súplica para salir del baño": {
+      "text": [
+        "Busco tu perdón."
+      ],
+      "footnote": [
+        "Reported by the compilers of Sunan except An-Nasa'i, who reported it in 'Amal Al-Yawm wa Al-Laylah. See Takhrij Zad Al-Ma'ad 2/387"
+      ]
+    },
+    "Recuerdo antes de la ablución": {
+      "text": [
+        "En nombre de Alá."
+      ],
+      "footnote": [
+        "Abu Dawud, Ibn Majah, and Ahmad. See Irwa' al-Ghalil 1/122"
+      ]
+    },
+    "Recuerdo después de completar la ablución": {
+      "text": [
+        "Doy testimonio de que no hay más dios que Allah, solo, sin compañero, y doy testimonio de que Muhammad es Su siervo y Su Mensajero.",
+        "At-Tirmidhi added after mentioning the two testimonies: 'O Allah, make me among the repentant and make me among those who purify themselves.'",
+        "Gloria a Ti, oh Allah, y alabado seas. Doy testimonio de que no hay más dios que Tú. Busco Tu perdón y me arrepiento ante Ti."
+      ],
+      "footnote": [
+        "Narrated by Muslim 1/209",
+        "At-Tirmidhi 1/78. See Sahih At-Tirmidhi 1/18",
+        "An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah, p. 173. See Irwa' al-Ghalil 1/135 and 2/94"
+      ]
+    },
+    "Recuerdo al salir de casa": {
+      "text": [
+        "En el nombre de Allah, he puesto mi confianza en Allah, y no hay fuerza ni poder excepto en Allah.",
+        "Oh Allah, busco refugio en Ti para no extraviarme o ser descarriado, para resbalar o ser obligado a resbalar, para oprimir o ser oprimido, para actuar con ignorancia o para ser tratado con ignorancia."
+      ],
+      "footnote": [
+        "Abu Dawud 4/325 and At-Tirmidhi 5/490. See Sahih At-Tirmidhi 3/151",
+        "The compilers of Sunan. See Sahih At-Tirmidhi 3/152 and Sahih Ibn Majah 2/336"
+      ]
+    },
+    "Recuerdo al entrar a la casa": {
+      "text": [
+        "En el nombre de Allah entramos, en el nombre de Allah salimos y en nuestro Señor confiamos. Entonces debería saludar a su familia."
+      ],
+      "footnote": [
+        "Reported by Abu Dawud 4/325, and its chain was graded as hasan by Sheikh Ibn Baz in Tuhfat Al-Akhyar, p. 28. And in the Sahih: 'When a man enters his house and mentions Allah upon his entry and upon his food, Satan says: 'You have no place to spend the night and no supper.'' Muslim, no. 2018"
+      ]
+    },
+    "Súplica para ir a la mezquita": {
+      "text": [
+        "Oh Allah, coloca luz en mi corazón, y en mi lengua, luz, en mi oído, luz, y en mi vista, luz, y encima de mí, luz, y debajo de mí, luz, y a mi derecha, y a mi izquierda, luz, y delante de mí, luz, y detrás de mí, luz, y coloca en mi alma luz, y magnifica para mí la luz, y haz grande para mí la luz, y concédeme luz, y hazme luz. Oh Allah, dame luz, y pon en mis nervios luz, y en mi carne luz, y en mi sangre luz, y en mi cabello luz, y en mi piel luz.",
+        "Oh Allah, concédeme luz en mi tumba... y luz en mis huesos.",
+        "Y auméntame en luz, y auméntame en luz, y auméntame en luz.",
+        "Y concédeme luz sobre luz."
+      ],
+      "footnote": [
+        "All these attributes are in Al-Bukhari 11/116, no. 6316, and Muslim 1/526, 529, 530, no. 763",
+        "At-Tirmidhi, no. 3419, 5/483",
+        "Reported by Al-Bukhari in Al-Adab Al-Mufrad, no. 695, p. 258, and its chain was authenticated by Al-Albani in Sahih Al-Adab Al-Mufrad, no. 536",
+        "Mencionado por Ibn Hajar en Fath Al-Bari y atribuido a Ibn Abi 'Asim en el libro de Du'a. Ver Fat 11/118. Él dijo: 'Entonces, de las diferentes narraciones, se han reunido veinticinco atributos'."
+      ]
+    },
+    "Súplica para entrar a la mezquita": {
+      "text": [
+        "Busco refugio en Allah el Grande, en Su noble Rostro y en Su autoridad eterna, del maldito Satán.",
+        "[En el nombre de Allah y oraciones] [y la paz sea con el Mensajero de Allah], Oh Allah, ábreme las puertas de Tu misericordia."
+      ],
+      "footnote": [
+        "Abu Dawud. See Sahih Al-Jami', no. 4591",
+        "Narrated by Ibn As-Sunni, no. 88, and graded as hasan by Al-Albani",
+        "Abu Dawud 1/126. See Sahih Al-Jami' 1/528",
+        "Narrated by Muslim 1/494. And in Sunan Ibn Majah from the hadith of Fatimah (may Allah be pleased with her): 'O Allah, forgive my sins and open for me the gates of Your mercy.' Authenticated by Al-Albani due to its supporting narrations. See Sahih Ibn Majah 1/128-129"
+      ]
+    },
+    "Súplica por salir de la mezquita": {
+      "text": [
+        "En el nombre de Allah, que la paz y las oraciones sean con el Mensajero de Allah. Oh Allah, te pido tu generosidad. Oh Allah, protégeme del maldito Satán."
+      ],
+      "footnote": [
+        "See the authentication of the narrations of the previous hadith, no. 20, and the addition 'O Allah, protect me from the accursed Satan' by Ibn Majah. See Sahih Ibn Majah 1/288"
+      ]
+    },
+    "Súplicas por el llamado a la oración (Adhan)": {
+      "text": [
+        "Se debe repetir lo que dice el Mu'adhdhin, excepto 'Hayya 'alas-Salah' y 'Hayya 'alal-Falah', para los cuales se debe decir 'La hawla wa la quwwata illa billah' (No hay fuerza ni poder excepto con Allah).",
+        "Uno dice: 'Y doy testimonio de que no hay más dios que Alá, solo, sin compañero, y que Muhammad es Su siervo y Su Mensajero. Estoy satisfecho con Alá como Señor, con Mahoma como Mensajero y con el Islam como religión.' (Esto se dice inmediatamente después del testimonio del Mu'adhdhin).",
+        "Uno envía oraciones al Profeta (la paz sea con él) después de terminar la respuesta al Mu'adhdhin.",
+        "Oh Allah, Señor de este llamado perfecto y de esta oración establecida, concede a Muhammad la posición de cercanía y excelencia, y resucitalo a la posición loable que le has prometido, [De hecho, no fallas en Tu promesa].",
+        "Uno suplica por sí mismo entre el Adhan y la Iqamah, porque la súplica en ese momento no es rechazada."
+      ],
+      "footnote": [
+        "Al-Bukhari 1/152 and Muslim 1/288",
+        "Muslim 1/290",
+        "Ibn Khuzaymah 1/220",
+        "Muslim 1/288",
+        "Al-Bukhari 1/152. What is between the brackets is from Al-Bayhaqi 1/410, and its chain was graded as hasan by Sheikh Abdul Aziz bin Baz in Tuhfat Al-Akhyar, p. 38",
+        "At-Tirmidhi, Abu Dawud, and Ahmad. See Irwa' al-Ghalil 1/262"
+      ]
+    },
+    "Súplica inicial para la oración": {
+      "text": [
+        "Oh Allah, sepárame de mis pecados como separaste el este del oeste. Oh Allah, purifícame de mis pecados como una prenda blanca se purifica de la suciedad. Oh Allah, lávame de mis pecados con agua, nieve y granizo.",
+        "Gloria a Ti, oh Allah, y alabado seas. Bendito sea Tu nombre, y exaltada sea Tu majestad. No hay más dios que Tú.",
+        "He vuelto mi rostro hacia Aquel que creó los cielos y la tierra, como monoteísta, y no soy de los politeístas. De hecho, mi oración, mis ritos de sacrificio, mi vida y mi muerte son para Allah, Señor de los mundos, no tiene ningún compañero. Y esto se me ha ordenado, y soy de los musulmanes. Oh Allah, Tú eres el Rey, no hay más dios que Tú. Tú eres mi Señor y yo soy tu siervo. Me he agraviado a mí mismo y he confesado mi pecado, así que perdóname todos mis pecados, porque nadie, excepto Tú, perdona los pecados. Y guíame a la mejor de las costumbres; nadie guía a los mejores excepto Tú. Y apartad de mí a los peores de ellos; Nadie, el peor de ellos, me rechaza excepto Tú. Estoy a Tu servicio y Tu placer. Todo el bien está en Tus manos y el mal no te es atribuido. Existo por Ti y para Ti. Bendito eres Tú y exaltado. Busco Tu perdón y me arrepiento ante Ti.",
+        "Oh Allah, Señor de Gabriel, Miguel e Israfil, Creador de los cielos y de la tierra, Conocedor de lo invisible y lo visible, Tú juzgas entre Tus siervos en aquello en lo que solían diferir. Guíame a la verdad de aquello en lo que diferían, con Tu permiso. De hecho, Tú guías a quien quieres por el camino recto.",
+        "Allah es el más grande, inmensamente. Allah es el más grande, inmensamente. Allah es el más grande, inmensamente. Y toda alabanza se debe a Allah en abundancia. Y toda alabanza se debe a Allah en abundancia. Y toda alabanza se debe a Allah en abundancia. Y gloria a Allah, por la mañana y por la tarde, tres veces. Busco refugio en Allah del maldito Satán: de su arrogancia, su poesía y su locura.",
+        "Cuando el Profeta (la paz sea con él) se levantaba por la noche para rezar el Tahajjud, decía: 'Oh Allah, para Ti es toda alabanza'. Tú eres la Luz de los cielos y de la tierra y de todo lo que en ellos hay. Para Ti es toda alabanza. Tú eres el Sustentador de los cielos y de la tierra y de todo lo que en ellos hay. [Y para Ti es toda alabanza. Tú eres el Señor de los cielos y de la tierra y de todo lo que en ellos hay]. [Y para Ti es toda alabanza. Tuyo es el dominio de los cielos y de la tierra y de todo lo que en ellos hay]. [Y para Ti es toda alabanza. Tú eres el Rey de los cielos y de la tierra]. [Y para Ti es toda alabanza]. Tú eres la Verdad, y Tu promesa es la verdad, y Tu palabra es la verdad, y encontrarte contigo es la verdad, y el Paraíso es la verdad, y el Fuego es la verdad, y los Profetas son la verdad, y Muhammad (la paz sea con él) es la verdad, y la Hora es la verdad]. [Oh Allah, a Ti me he sometido, y en Ti he creído, y en Ti he confiado, y a Ti me he vuelto arrepentido, y con Tu ayuda he luchado, y a Ti he buscado el juicio. Así que perdóname por lo que he enviado y lo que he dejado atrás, lo que he ocultado y lo que he declarado]. [Tú eres el primero y eres el último. No hay más dios que Tú]. [Tú eres mi Dios. No hay más dios que Tú]'."
+      ],
+      "footnote": [
+        "Al-Bukhari 1/181 and Muslim 1/419",
+        "Reported by the four compilers of Sunan. See Sahih At-Tirmidhi 1/77 and Sahih Ibn Majah 1/135",
+        "Narrated by Muslim 1/534",
+        "Narrated by Muslim 1/534",
+        "Reported by Abu Dawud 1/203, Ibn Majah 1/265, and Ahmad 4/85. Muslim reported something similar from Ibn 'Umar (may Allah be pleased with them) with a story 1/420",
+        "Al-Bukhari with Fath 3/3, 11/116, and 13/371, 423, 465, and Muslim in a summarized, similar version 1/532"
+      ]
+    },
+    "Súplica durante la reverencia (Ruku')": {
+      "text": [
+        "Gloria a mi Señor el Grande. (tres veces)",
+        "Gloria a Ti, oh Allah, Señor nuestro, y alabado seas. Oh Allah, perdóname.",
+        "Perfecto, Santo, Señor de los ángeles y del Espíritu.",
+        "Oh Allah, ante Ti me he inclinado, en Ti he creído y ante Ti me he sometido. A Ti se han humillado mi oído, mi vista, mi sangre, mi carne, mis huesos y mis nervios, y lo que mis pies llevan.",
+        "Gloria al Poseedor del poder, dominio, magnificencia y grandeza."
+      ],
+      "footnote": [
+        "Reported by the compilers of Sunan and Ahmad. See Sahih At-Tirmidhi 1/83",
+        "Al-Bukhari 1/199 and Muslim 1/350",
+        "Muslim 1/353 and Abu Dawud 1/230",
+        "Muslim 1/534 and the four except Ibn Majah",
+        "Abu Dawud 1/230, An-Nasa'i, and Ahmad, and its chain is hasan"
+      ]
+    },
+    "Súplica al levantarse de una reverencia (Ruku')": {
+      "text": [
+        "Allah escucha a quien lo alaba.",
+        "Señor nuestro, y para Ti es toda alabanza, alabanza abundante, buena y bendita.",
+        "...llenando los cielos y llenando la tierra y lo que hay entre ellos, y llenando cualquier otra cosa que desees. Oh Señor de alabanza y gloria, el más digno de lo que ha dicho un siervo, y todos somos tus siervos. Oh Allah, nadie puede retener lo que Tú has dado, y nadie puede dar lo que Tú has retenido, y el poder de los poderosos no le servirá de nada contra Ti."
+      ],
+      "footnote": [
+        "Al-Bukhari with Fath 2/282",
+        "Al-Bukhari with Fath 2/282",
+        "Muslim 1/346"
+      ]
+    },
+    "Súplica durante la postración (Sujud)": {
+      "text": [
+        "Gloria a mi Señor, el Altísimo. (tres veces)",
+        "Gloria a Ti, oh Allah, Señor nuestro, y alabado seas. Oh Allah, perdóname.",
+        "Perfecto, Santo, Señor de los ángeles y del Espíritu.",
+        "Oh Allah, ante Ti me he postrado, en Ti he creído y a Ti me he sometido. Mi rostro se ha postrado ante Aquel que lo creó y lo formó, y dio a luz su oído y su vista. Bendito sea Allah, el mejor de los creadores.",
+        "Gloria al Poseedor del poder, dominio, magnificencia y grandeza.",
+        "Oh Allah, perdóname todos mis pecados, los pequeños y los grandes, los primeros y los últimos, los públicos y los privados.",
+        "Oh Allah, busco refugio en Tu complacencia de Tu ira y en Tu perdón de Tu castigo. Y de Ti me refugio en Ti. No puedo contar tus alabanzas. Eres como te has alabado a ti mismo."
+      ],
+      "footnote": [
+        "Reported by the compilers of Sunan and Ahmad. See Sahih At-Tirmidhi 1/83",
+        "Al-Bukhari and Muslim. Its authentication was mentioned earlier under no. 34",
+        "Muslim 1/533. Mentioned earlier under no. 35",
+        "Muslim 1/534 and others",
+        "Abu Dawud 1/230, An-Nasa'i, and Ahmad. Its chain was authenticated by Al-Albani in Sahih Abi Dawud 166",
+        "Muslim 1/350",
+        "Muslim 1/352"
+      ]
+    },
+    "Súplica por el sentado entre las dos postraciones": {
+      "text": [
+        "Señor, perdóname. Señor, perdóname.",
+        "Oh Allah, perdóname, ten piedad de mí, guíame, apóyame, protégeme, mantenme y elévame."
+      ],
+      "footnote": [
+        "Abu Dawud 1/231. See Sahih Ibn Majah 1/148",
+        "Reported by the compilers of Sunan except An-Nasa'i. See Sahih At-Tirmidhi 1/90 and Sahih Ibn Majah 1/148"
+      ]
+    },
+    "Súplica por la postración de la recitación": {
+      "text": [
+        "Mi rostro se postró ante Aquel que lo creó y le hizo nacer el oído y la vista con Su fuerza y ​​poder. {Bendito sea Allah, el mejor de los creadores}.",
+        "Oh Allah, concédeme una recompensa por ello, y quítame el pecado por ello, y hazlo un tesoro para mí contigo, y acéptalo de mí como lo aceptaste de tu siervo David."
+      ],
+      "footnote": [
+        "At-Tirmidhi 2/474, Ahmad 6/30, and Al-Hakim who authenticated it and Adh-Dhahabi agreed 1/220. The addition is his.",
+        "At-Tirmidhi 2/473 and Al-Hakim who authenticated it and Adh-Dhahabi agreed 1/219"
+      ]
+    },
+    "La Tashahhud": {
+      "text": [
+        "Todos los saludos, oraciones y cosas buenas son para Allah. La paz sea contigo, oh Profeta, y la misericordia de Allah y Sus bendiciones. La paz sea con nosotros y con los justos servidores de Allah. Doy testimonio de que no hay más dios que Alá y doy testimonio de que Muhammad es Su siervo y Su Mensajero."
+      ],
+      "footnote": [
+        "Al-Bukhari with Fath 1/13 and Muslim 1/301"
+      ]
+    },
+    "Envío de oraciones al Profeta después del Tashahhud": {
+      "text": [
+        "Oh Allah, envía oraciones sobre Muhammad y sobre la familia de Muhammad, como enviaste oraciones sobre Ibrahim y sobre la familia de Ibrahim. En verdad, eres digno de alabanza y glorioso. Oh Allah, bendice a Muhammad y a la familia de Muhammad, como bendijiste a Ibrahim y a la familia de Ibrahim. En verdad, eres digno de alabanza y glorioso.",
+        "Oh Allah, envía oraciones por Muhammad, sus esposas y su descendencia, como enviaste oraciones por la familia de Ibrahim. Y bendice a Muhammad, a sus esposas y a su descendencia, como bendijiste a la familia de Ibrahim. En verdad, eres digno de alabanza y glorioso."
+      ],
+      "footnote": [
+        "Al-Bukhari with Fath 6/408",
+        "Al-Bukhari with Fath 6/407 and Muslim 1/306, the wording is his"
+      ],
+      "Súplica después del Tashahhud final y antes del Salam": {
+        "text": [
+          "Oh Allah, busco refugio en Ti del castigo de la tumba, del castigo del Infierno, de las pruebas de la vida y de la muerte, y del mal de la prueba del Anticristo.",
+          "Oh Allah, busco refugio en Ti del castigo de la tumba, busco refugio en Ti de la prueba del Anticristo, y busco refugio en Ti de las pruebas de la vida y la muerte. Oh Allah, busco refugio en Ti del pecado y de las deudas.",
+          "Oh Allah, me he agraviado mucho y nadie perdona mis pecados excepto Tú, así que concédeme tu perdón y ten piedad de mí. De hecho, Tú eres el Perdonador, el Misericordioso.",
+          "Oh Allah, perdóname por lo que he enviado y lo que he dejado atrás, lo que he ocultado y lo que he declarado, lo que he transgredido y lo que Tú sabes mejor que yo. Tú eres el Primero y el Último. No hay más dios que Tú.",
+          "Oh Allah, ayúdame a recordarte, agradecerte y adorarte de la mejor manera.",
+          "Oh Allah, me refugio en Ti de la avaricia, me refugio en Ti de la cobardía, y me refugio en Ti de ser devuelto a las edades más decrépitas, y me refugio en Ti de las pruebas de este mundo, y me refugio en Ti del castigo de la tumba.",
+          "Oh Allah, te pido el Paraíso y busco refugio en Ti del Fuego.",
+          "Oh Allah, por Tu conocimiento de lo invisible y Tu poder sobre la creación, mantenme con vida mientras sepas que la vida es buena para mí, y hazme morir cuando sepas que la muerte es buena para mí. Oh Allah, te pido por tu temor en lo invisible y lo visible, y te pido la palabra de verdad en la alegría y la ira, y te pido moderación en la riqueza y la pobreza, y te pido bendiciones que no cesan, y te pido frialdad de los ojos que no termina, y te pido contentamiento después del decreto, y te pido la frialdad de la vida después de la muerte, y te pido el placer de mirar tu rostro y el anhelo de encontrarte sin ningún Aflicción nociva o juicio engañoso. Oh Allah, adórnanos con el adorno de la fe y haznos guías guiados.",
+          "Oh Allah, te pido, oh Allah, como eres el Único, el Maestro autosuficiente, que no nació ni dio a luz, y a quien nadie es igual, que me perdones mis pecados. De hecho, Tú eres el Perdonador, el Misericordioso.",
+          "Oh Allah, te lo pido, ya que toda alabanza se debe a Ti, no hay más dios que Tú, solo sin pareja, el Otorgador de favores, oh Creador de los cielos y la tierra, oh Poseedor de majestad y honor, oh Viviente, oh Autosuficiente, te pido el Paraíso y busco refugio en Ti del Fuego.",
+          "Oh Allah, te lo pido, mientras doy testimonio de que Tú eres Allah, no hay más dios que Tú, el Único, el Maestro Autosuficiente, que no nació ni dio a luz, y a quien nadie es igual."
+        ],
+        "footnote": [
+          "Al-Bukhari 2/102 and Muslim 1/412, the wording is from Muslim",
+          "Al-Buhkari 1/202 and Muslim 1/412",
+          "Al-Bukhari 8/168 and Muslim 4/2078",
+          "Muslim 1/534",
+          "Abu Dawud 2/86 and An-Nasa'i 3/53, authenticated by Al-Albani in Sahih Abi Dawud 1/284",
+          "Al-Bukhari 6/35",
+          "Abu Dawud. See Sahih Ibn Majah 2/328",
+          "An-Nasa'i 4/54, 55 and Ahmad 4/364, authenticated by Al-Albani in Sahih An-Nasa'i 1/281",
+          "Reported by An-Nasa'i with this wording 3/52 and Ahmad 4/338, authenticated by Al-Albani in Sahih An-Nasa'i 1/280",
+          "Narrated by the compilers of Sunan. See Sahih Ibn Majah 2/329",
+          "Abu Dawud 2/62, At-Tirmidhi 5/515, Ibn Majah 2/1267, and Ahmad 5/360. See Sahih Ibn Majah 2/329 and Sahih At-Tirmidhi 3/163"
+        ]
+      },
+      "Recuerdos después del Salam de la Oración": {
+        "text": [
+          "Busco el perdón de Allah (tres veces). Oh Allah, Tú eres la Paz y de Ti viene la paz. Bendito eres Tú, oh Poseedor de majestad y honor.",
+          "No hay más dios que Alá, solo, sin pareja. A Él pertenece el dominio y a Él toda alabanza, y Él puede hacer todas las cosas. Oh Allah, nadie puede retener lo que Tú has dado, y nadie puede dar lo que Tú has retenido, y el poder de los poderosos no le servirá de nada contra Ti.",
+          "No hay más dios que Alá, solo, sin compañero. A Él pertenece el dominio y a Él toda alabanza, y Él puede hacer todas las cosas. No hay fuerza ni poder excepto en Allah. No hay más dios que Alá y no adoramos a nadie más que a Él. A Él pertenece el favor y a Él pertenece la gracia, y a Él pertenece la mayor alabanza. No hay más dios que Allah, sincero en su religión, incluso si a los incrédulos no les gusta.",
+          "Gloria a Allah y alabado sea Allah, y Allah es el más grande (treinta y tres veces). No hay más dios que Alá, solo, sin pareja. A Él pertenece el dominio y a Él toda alabanza, y Él puede hacer todas las cosas.",
+          "En el nombre de Allah, el Más Misericordioso, el Más Misericordioso {Di: 'Él es Allah, [que es] Uno, * Allah, el Refugio Eterno. * Él no engendra ni nace, * Ni hay para Él equivalente.'} En el nombre de Allah, el Más Misericordioso, el Más Misericordioso {Di: 'Busco refugio en el Señor del amanecer * Del mal de lo que Él creó * Y del mal de la oscuridad cuando se asienta * Y del mal de los que hacen nudos * Y del mal de un envidioso cuando envidia.'} En el nombre de Allah, el Más Misericordioso, el Más Misericordioso. {Di: 'Busco refugio en el Señor de la humanidad, * El Soberano de la humanidad. * El Dios de la humanidad. * Del mal del susurrador que se retira - * Que susurra [el mal] en los pechos de la humanidad - * De entre los genios y la humanidad.'} (Una vez después de cada oración, y tres veces después de las oraciones del Maghrib y Fajr).",
+          "{Alá, no hay más deidad que Él, el Eterno, el Sustentador de [toda] la existencia. Ni la somnolencia ni el sueño lo alcanzan. A Él pertenece todo lo que hay en los cielos y todo lo que hay en la tierra. ¿Quién puede interceder ante Él si no es con su permiso? Él sabe lo que está [presentemente] delante de ellos y lo que será después de ellos, y no abarcan nada de Su conocimiento excepto lo que Él quiere. Su Kursi se extiende sobre los cielos y la tierra, y su preservación no Le cansa. Y Él es el Altísimo, el Altísimo.} (Después de cada oración).",
+          "No hay más dios que Alá, solo, sin pareja. A Él pertenece el dominio y a Él toda alabanza. Él da vida y causa la muerte, y puede hacer todas las cosas. (Diez veces después de las oraciones del Maghrib y Subh).",
+          "Oh Allah, te pido conocimiento beneficioso, buena provisión y obras aceptadas. (Después del Salam de la oración del Fajr)."
+        ],
+        "footnote": [
+          "Muslim 1/414",
+          "Al-Bukhari 1/255 and Muslim 1/414",
+          "Muslim 1/415",
+          "Musulmán 1/418. Quien diga esto después de cada oración, sus pecados le serán perdonados aunque sean como la espuma del mar. musulmán 1/418",
+          "Abu Dawud 2/86 and An-Nasa'i 3/68. See Sahih At-Tirmidhi 2/8. The three Surahs are called Al-Mu'awwidhat. See Fath Al-Bari 9/62",
+          "Whoever recites it after every prayer, nothing will prevent him from entering Paradise except death. An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah, no. 100, and Ibn As-Sunni, no. 121. Authenticated in Al-Jami' 5/339 and Silsilat Al-Ahadith As-Sahiha 2/697, no. 972",
+          "Narrated by At-Tirmidhi 5/515 and Ahmad 4/227. See its authentication in Zad Al-Ma'ad 1/300",
+          "Ibn Majah and others. See Sahih Ibn Majah 1/152 and Majma' Az-Zawa'id 10/111"
+        ]
+      },
+      "Súplica por la oración de Istikhara": {
+        "text": [
+          "Jabir bin Abdullah (que Allah esté complacido con ellos) dijo: 'El Mensajero de Allah (la paz sea con él) solía enseñarnos Istikhara (buscar guía) en todos los asuntos, tal como nos enseñaba una Sura del Corán. Él decía: 'Si alguno de ustedes está preocupado por un asunto, que rece dos rak'ah además de la oración obligatoria, luego que diga: 'Oh Allah, busco Tu guía a través de Tu conocimiento, y busco Tu poder a través de Tu poder, y Te pido Tu gran generosidad. Porque Tú tienes poder y yo no tengo ninguno. Tú lo sabes y yo no lo sé, y Tú eres el Conocedor de lo invisible. Oh Allah, si sabes que este asunto - (y debe nombrar su necesidad) - es bueno para mí en mi religión, mi sustento y el resultado de mis asuntos\", o si dijo: \"en mis asuntos inmediatos y futuros, entonces decretamelo, hazlo fácil para mí y luego bendíceme en ello. Y si sabes que este asunto es malo para mí en mi religión, mi sustento y el resultado de mis asuntos', o si dijo: 'en mis asuntos inmediatos y futuros, entonces apártalo de mí y apártame de él, y decreta para mí lo que es bueno dondequiera que esté, y luego hazme contento con ello'.",
+          "Y aquel que busca la guía del Creador, consulta a la creación creyente y es firme en su asunto, no se arrepentirá, porque Allah, el Altísimo, ha dicho: {y consúltalos sobre el asunto. Y cuando lo hayas decidido, confía en Allah.}"
+        ],
+        "footnote": [
+          "Al-Bukhari 7/162",
+          "Sura Al-Imran, versículo: 159"
+        ]
+      },
+      "Recuerdos matutinos y vespertinos": {
+        "text": [
+          "Toda alabanza es debida únicamente a Allah, y la paz y las bendiciones sean con aquel después de quien no hay profeta.",
+          "Busco refugio en Allah del maldito Satán. {Alá, no hay más deidad que Él, el Eterno, el Sustentador de [toda] la existencia. Ni la somnolencia ni el sueño lo alcanzan. A Él pertenece todo lo que hay en los cielos y todo lo que hay en la tierra. ¿Quién puede interceder ante Él si no es con su permiso? Él sabe lo que está [presentemente] delante de ellos y lo que será después de ellos, y no abarcan nada de Su conocimiento excepto lo que Él quiere. Su Kursi se extiende sobre los cielos y la tierra, y su preservación no Le cansa. Y Él es el Altísimo, el Más Grande.}",
+          "En el nombre de Allah, el Más Misericordioso, el Más Misericordioso {Di: 'Él es Allah, [que es] Uno, * Allah, el Refugio Eterno. * Él no engendra ni nace, * Ni hay para Él equivalente.'} En el nombre de Allah, el Más Misericordioso, el Más Misericordioso {Di: 'Busco refugio en el Señor del amanecer * Del mal de lo que Él creó * Y del mal de la oscuridad cuando se asienta * Y del mal de los que hacen nudos * Y del mal de un envidioso cuando envidia.'} En el nombre de Allah, el Más Misericordioso, el Más Misericordioso. {Di: 'Busco refugio en el Señor de la humanidad, * El Soberano de la humanidad. * El Dios de la humanidad. * Del mal del susurrador que se retira - * Que susurra [el mal] en los pechos de la humanidad - * De entre los genios y la humanidad.'} (Tres veces)",
+          "Hemos llegado a la mañana y en este mismo momento pertenece a Allah toda soberanía y toda alabanza es para Allah. No hay más dios que Alá, solo, sin compañero. A Él pertenece el dominio y a Él toda alabanza, y Él puede hacer todas las cosas. Señor mío, te pido por el bien de este día y el bien de lo que sigue, y busco refugio en Ti del mal de este día y del mal de lo que sigue. Señor mío, en Ti busco refugio de la pereza y de los males de la vejez. Señor mío, busco refugio en Ti del castigo en el Fuego y del castigo en la tumba. Y cuando llegue la noche, también debe decir: 'Hemos llegado a la tarde y en este mismo momento pertenece a Allah toda soberanía'.",
+          "Oh Allah, por Ti hemos llegado a la mañana y por Ti hemos llegado a la tarde, por Ti vivimos y por Ti morimos, y a Ti es la resurrección. Y cuando llega la tarde, debe decir: 'Oh Allah, por Ti hemos llegado a la tarde, y por Ti hemos llegado a la mañana, por Ti vivimos y por Ti morimos, y a Ti es el regreso final'.",
+          "Oh Allah, Tú eres mi Señor, no hay más dios que Tú. Tú me creaste y soy Tu siervo, y estoy en Tu pacto y Tu promesa tanto como puedo. Busco refugio en Ti del mal de lo que he hecho. Reconozco Tu favor sobre mí y reconozco mi pecado, así que perdóname, porque nadie perdona los pecados excepto Tú.",
+          "Oh Allah, he llegado a la mañana y te invoco a Ti y a los portadores de Tu Trono, Tus ángeles y toda Tu creación para que den testimonio de que Tú eres Allah, que no hay más dios que Tú, solo, sin compañero, y que Muhammad es Tu siervo y Tu Mensajero. (Cuatro veces)",
+          "Oh Allah, cualquier bendición que haya llegado a mí o a cualquiera de Tu creación esta mañana proviene únicamente de Ti, sin ningún socio. Entonces para Ti es toda alabanza y para Ti es todo agradecimiento.",
+          "Oh Allah, concédeme salud en mi cuerpo. Oh Allah, concédeme salud en mis oídos. Oh Allah, concédeme salud ante mis ojos. No hay más dios que Tú. Oh Allah, busco refugio en Ti de la incredulidad y la pobreza. Oh Allah, busco refugio en Ti del castigo de la tumba. No hay más dios que Tú. (Tres veces)",
+          "Allah es suficiente para mí. No hay más dios que Él. En Él he puesto mi confianza, y Él es el Señor del Trono Fuerte. (Siete veces)",
+          "Oh Allah, te pido perdón y bienestar en este mundo y en el Más Allá. Oh Allah, te pido perdón y bienestar en mi religión, mis asuntos mundanos, mi familia y mi riqueza. Oh Allah, oculta mis faltas y calma mis miedos. Oh Allah, protégeme delante y detrás de mí, a mi derecha y a mi izquierda, y desde arriba, y busco refugio en Tu grandeza para no ser derribado desde debajo de mí.",
+          "Oh Allah, Conocedor de lo invisible y lo visible, Creador de los cielos y de la tierra, Señor y Soberano de todas las cosas, doy testimonio de que no hay más dios que Tú. Busco refugio en Ti de la maldad de mí mismo y de la maldad de Satanás y su incitación, y de cometer mal contra mí mismo o provocarlo sobre un musulmán.",
+          "En el nombre de Allah, en cuyo nombre nada en la tierra ni en el cielo puede causar daño, y Él es el que todo lo oye, el que todo lo sabe. (Tres veces)",
+          "Estoy complacido con Allah como Señor, con el Islam como religión y con Muhammad (la paz sea con él) como Profeta. (Tres veces)",
+          "Oh Eterno, oh Autosuficiente, por Tu misericordia busco ayuda. Rectifícame todos mis asuntos y no me confíes a mí mismo ni un abrir y cerrar de ojos.",
+          "Hemos llegado a la mañana y en este mismo momento toda soberanía pertenece a Allah, Señor de los mundos. Oh Allah, te pido por el bien de este día: su victoria, su ayuda, su luz, sus bendiciones y su guía. Y busco refugio en Ti del mal que hay en él y del mal que le sigue.",
+          "Hemos llegado a la mañana sobre la religión natural del Islam, la palabra de sinceridad, la religión de nuestro Profeta Muhammad (la paz sea con él) y el credo de nuestro padre Ibrahim, un monoteísta, un musulmán, y no era politeísta.",
+          "Quien diga: 'Gloria a Allah y alabado sea Él' (cien veces).",
+          "No hay más dios que Alá, solo, sin compañero. A Él pertenece el dominio y a Él toda alabanza, y Él puede hacer todas las cosas. (Diez veces) (o una vez cuando sea perezoso).",
+          "No hay más dios que Alá, solo, sin pareja. A Él pertenece el dominio y a Él toda alabanza, y Él puede hacer todas las cosas. (Cien veces por la mañana).",
+          "Gloria a Allah y alabado sea Él, según el número de Su creación, Su complacencia, el peso de Su Trono y la tinta de Sus palabras. (Tres veces por la mañana).",
+          "Oh Allah, te pido conocimiento beneficioso, buena provisión y obras aceptadas. (Por la mañana).",
+          "Busco el perdón de Allah y me arrepiento ante Él. (Cien veces al día).",
+          "Busco refugio en las palabras perfectas de Allah contra la maldad de lo que Él ha creado. (Tres veces por la noche).",
+          "Oh Allah, envía oraciones y paz a nuestro Profeta Muhammad. (Diez veces)."
+        ],
+        "footnote": [
+          "From Anas, who attributed it to the Prophet: 'For me to sit with people remembering Allah the Almighty from the morning prayer until the sun rises is more beloved to me than freeing four of the descendants of Ishmael. And for me to sit with people remembering Allah from the afternoon prayer until the sun sets is more beloved to me than freeing four.' Abu Dawud, no. 3667, graded as hasan by Al-Albani, Sahih Abi Dawud 2/698",
+          "Surah Al-Baqarah, Verse 255. Whoever says it in the evening will be protected from them until the morning. Reported by Al-Hakim 1/562 and authenticated by Al-Albani in Sahih At-Targhib wa At-Tarhib 1/273, attributed to An-Nasa'i and At-Tabarani, and he said: 'The chain of At-Tabarani is good.'",
+          "Whoever says it three times in the morning and evening, it will suffice him against everything. Abu Dawud 4/322 and At-Tirmidhi 5/567. See Sahih At-Tirmidhi 3/182",
+          "Y cuando llega la noche, dice: \"Hemos llegado a la noche y en este mismo momento toda la soberanía pertenece a Allah\".",
+          "Y cuando llega la tarde, dice: 'Señor mío, te pido el bien de esta noche y el bien de la que sigue, y busco refugio en Ti del mal de esta noche y del mal de la que sigue'.",
+          "Muslim 4/2088",
+          "Y cuando llega la tarde, dice: 'Oh Allah, por Ti hemos llegado a la tarde, y por Ti hemos llegado a la mañana, por Ti vivimos y por Ti morimos, y a Ti es el regreso final'.",
+          "At-Tirmidhi 5/466. See Sahih At-Tirmidhi 3/142",
+          "Lo reconozco y lo confieso.",
+          "Whoever says it with certainty in the evening and dies that night will enter Paradise, and likewise in the morning. Reported by Al-Bukhari 7/150",
+          "Y cuando llega la noche, dice: 'Oh Allah, he llegado a la noche'.",
+          "Whoever says it in the morning and evening four times, Allah will free him from the Fire. Reported by Abu Dawud 4/317, Al-Bukhari in Al-Adab Al-Mufrad no. 1201, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 9, and Ibn As-Sunni no. 70. Sheikh Ibn Baz graded the chain of An-Nasa'i and Abu Dawud as hasan in Tuhfat Al-Akhyar, p. 23",
+          "Y cuando llega la noche, dice: 'Oh Allah, cualquier bendición que me haya llegado esta noche'.",
+          "Whoever says it in the morning has fulfilled the thanks of his day, and whoever says it in the evening has fulfilled the thanks of his night. Reported by Abu Dawud 4/318, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 7, Ibn As-Sunni no. 41, and Ibn Hibban (Mawarid) no. 2361. Ibn Baz graded its chain as hasan in Tuhfat Al-Akhyar, p. 24",
+          "Abu Dawud 4/324, Ahmad 5/42, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 22, Ibn As-Sunni no. 69, and Al-Bukhari in Al-Adab Al-Mufrad. Sheikh Ibn Baz graded it as hasan in Tuhfat Al-Akhyar, p. 26",
+          "Whoever says it in the morning and evening seven times, Allah will suffice him in his concerns of this world and the Hereafter. Reported by Ibn As-Sunni no. 71 as a marfu' hadith, and Abu Dawud as mawquf 4/321. Its chain was authenticated by Shu'ayb and 'Abd al-Qadir al-Arna'ut. See Zad Al-Ma'ad 2/376",
+          "Abu Dawud and Ibn Majah. See Sahih Ibn Majah 2/332",
+          "At-Tirmidhi and Abu Dawud. See: Sahih At-Tirmidhi 3/142",
+          "Whoever says it three times in the morning and three times in the evening, nothing will harm him. Reported by Abu Dawud 4/323, At-Tirmidhi 5/465, Ibn Majah, and Ahmad. See: Sahih Ibn Majah 2/332. Sheikh Ibn Baz graded its chain as hasan in Tuhfat Al-Akhyar, p. 39",
+          "Whoever says it three times in the morning and evening, it will be a right upon Allah to please him on the Day of Resurrection. Ahmad 4/337, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 4, Ibn As-Sunni no. 68, Abu Dawud 4/418, and At-Tirmidhi 5/465. Ibn Baz graded it as hasan in Tuhfat Al-Akhyar, p. 39",
+          "Al-Hakim, quien lo autenticó y Adh-Dhahabi estuvieron de acuerdo 1/545. Ver Sahih At-Targhib wa At-Tarhib 1/273",
+          "Y cuando llega la noche, dice: \"Hemos llegado a la noche y en este mismo momento toda la soberanía pertenece a Allah, Señor de los mundos\".",
+          "Y cuando llega la noche, dice: 'Oh Allah, te pido por el bien de esta noche: su victoria, su ayuda, su luz, sus bendiciones y su guía. Y busco refugio en Ti del mal que hay en él y del mal que le sigue.'",
+          "Abu Dawud 4/322. Shu'ayb and 'Abd al-Qadir al-Arna'ut graded its chain as hasan in their verification of Zad Al-Ma'ad 2/273",
+          "Y cuando llega la noche, dice: \"Hemos llegado a la noche sobre la religión natural del Islam\".",
+          "Ahmad 3/406 and 407, and Ibn As-Sunni in 'Amal Al-Yawm wa Al-Laylah no. 34. See: Sahih Al-Jami' 4/209",
+          "Quien lo diga cien veces por la mañana y por la tarde, nadie vendrá el Día de la Resurrección con algo mejor de lo que ha traído, excepto aquel que haya dicho lo mismo que él o más. Narrado por Muslim 4/2071",
+          "An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 24. See: Sahih At-Targhib wa At-Tarhib 1/272, and Tuhfat Al-Akhyar by Ibn Baz, p. 44. See its virtue on p. 146, hadith no. 255",
+          "Abu Dawud 4/319, Ibn Majah, and Ahmad 4/60. See: Sahih At-Targhib wa At-Tarhib 1/270, Sahih Abi Dawud 3/957, Sahih Ibn Majah 2/331, and Zad Al-Ma'ad 2/377",
+          "Whoever says it one hundred times in a day, it will be for him the equivalent of freeing ten slaves, and one hundred good deeds will be written for him, and one hundred bad deeds will be erased from him, and it will be a protection for him from Satan for that day until evening, and no one will bring anything better than what he has brought except for someone who has done more than that. Al-Bukhari 4/95, and Muslim 4/2071",
+          "Muslim 4/2090",
+          "Reported by Ibn As-Sunni in 'Amal Al-Yawm wa Al-Laylah no. 54 and Ibn Majah no. 925. 'Abd al-Qadir and Shu'ayb al-Arna'ut graded its chain as hasan in their verification of Zad Al-Ma'ad 2/375",
+          "Al-Bukhari with Fath 11/101, and Muslim 4/2075",
+          "Whoever says it in the evening three times, the sting of that night will not harm him. Reported by Ahmad 2/290, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 590, and Ibn As-Sunni no. 68. See: Sahih At-Tirmidhi 3/187, Sahih Ibn Majah 2/266, and Tuhfat Al-Akhyar, p. 45",
+          "Quien envíe oraciones sobre mí diez veces por la mañana y diez veces por la tarde, mi intercesión le llegará en el Día de la Resurrección... Narrado por At-Tabarani con dos cadenas, una de las cuales es buena. Véase Al-Zawa'id 10/120 y Sahih At-Targhib wa At-Tarhib 1/273."
+        ]
+      },
+      "Recuerdos para dormir": {
+        "text": [
+          "Debe juntar las manos, luego soplarlas y recitar: En el nombre de Allah, el Más Misericordioso, el Más Misericordioso {Di: 'Él es Allah, [que es] Uno, * Allah, el Refugio Eterno. * Él no engendra ni nace, * Ni hay para Él equivalente.'} En el nombre de Allah, el Más Misericordioso, el Más Misericordioso {Di: 'Busco refugio en el Señor del amanecer * Del mal de lo que Él creó * Y del mal de la oscuridad cuando se asienta * Y del mal de los que hacen nudos * Y del mal de un envidioso cuando envidia.'} En el nombre de Allah, el Más Misericordioso, el Más Misericordioso. {Di: 'Busco refugio en el Señor de la humanidad, * El Soberano de la humanidad. * El Dios de la humanidad. * Del mal del susurrador que se retira - * Que susurra [el mal] en los pechos de la humanidad - * De entre los genios y la humanidad.'} Luego debe limpiar con ellos todo lo que pueda de su cuerpo, comenzando por su cabeza, su rostro y la parte frontal de su cuerpo. (Debería hacer esto tres veces).",
+          "{Alá, no hay más deidad que Él, el Eterno, el Sustentador de [toda] la existencia. Ni la somnolencia ni el sueño lo alcanzan. A Él pertenece todo lo que hay en los cielos y todo lo que hay en la tierra. ¿Quién puede interceder ante Él si no es con su permiso? Él sabe lo que está [presentemente] delante de ellos y lo que será después de ellos, y no abarcan nada de Su conocimiento excepto lo que Él quiere. Su Kursi se extiende sobre los cielos y la tierra, y su preservación no Le cansa. Y Él es el Altísimo, el Más Grande.}",
+          "{El Mensajero ha creído en lo que le fue revelado por su Señor, y [también] los creyentes. Todos ellos han creído en Allah, en Sus ángeles, en Sus libros y en Sus mensajeros, [diciendo]: 'No hacemos distinción entre ninguno de Sus mensajeros'. Y dicen: 'Oímos y obedecemos'. [Buscamos] Tu perdón, Señor nuestro, y para Ti es el destino [final].' * Allah no carga a un alma excepto [con aquello que esté dentro de] su capacidad. Tendrá [la consecuencia de] lo [bien] que haya ganado, y soportará [la consecuencia de] lo [mal] que haya ganado. 'Señor nuestro, no nos culpes si hemos olvidado o errado. Señor nuestro, y no nos impongas una carga como la que impusiste a quienes nos precedieron. Señor nuestro, y no nos cargues con aquello que no podemos soportar. Y perdónanos; y perdónanos; y ten piedad de nosotros. Tú eres nuestro protector, así que danos la victoria sobre los incrédulos.'}",
+          "En tu nombre, Señor mío, pongo mi costado, y por ti lo levanto. Si tomas mi alma, ten piedad de ella, y si la devuelves, protégela con aquello con lo que proteges a tus justos siervos.",
+          "Oh Allah, Tú creaste mi alma y la tomas. A Ti pertenece su muerte y su vida. Si le das vida, entonces protégelo, y si le haces morir, entonces perdónalo. Oh Allah, te pido bienestar.",
+          "Oh Allah, protégeme de Tu castigo el día en que resucites a Tus siervos. (Tres veces)",
+          "En Tu nombre, oh Allah, muero y vivo.",
+          "Gloria a Allah (treinta y tres veces), y alabado sea Allah (treinta y tres veces), y Allah es el más grande (treinta y cuatro veces).",
+          "Oh Allah, Señor de los siete cielos y Señor del Trono Poderoso, nuestro Señor y Señor de todas las cosas, Partidor del grano y del dátil, Revelador de la Torá, el Evangelio y el Furqan, busco refugio en Ti del mal de todo lo que sostienes por su copete. Oh Allah, Tú eres el Primero, por eso no hay nada antes de Ti, y Tú eres el Último, por lo que no hay nada después de Ti, y Tú eres el Manifiesto, por lo que no hay nada por encima de Ti, y Tú eres lo Oculto, por lo que no hay nada más allá de Ti. Salda nuestra deuda y enriquécenos desde la pobreza.",
+          "Toda alabanza es para Allah, que nos ha alimentado y dado de beber, y nos ha bastado y nos ha dado refugio, porque muchos no tienen a nadie que les baste o les dé refugio.",
+          "Oh Allah, Conocedor de lo invisible y lo visible, Creador de los cielos y de la tierra, Señor y Soberano de todas las cosas, doy testimonio de que no hay más dios que Tú. Busco refugio en Ti de la maldad de mí mismo y de la maldad de Satanás y su incitación, y de cometer mal contra mí mismo o provocarlo sobre un musulmán.",
+          "Recite {Alif, Lam, Meem} Tanzil (Surah As-Sajdah) y {Tabarakalladhi biyadihil-mulk} (Surah Al-Mulk).",
+          "Oh Allah, me he sometido a Ti, te he confiado mis asuntos y te he dado la espalda con esperanza y temor hacia Ti. No hay refugio ni escape de Ti excepto hacia Ti. He creído en Tu libro que Tú has revelado y en Tu Profeta que Tú has enviado."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 9/62 and Muslim 4/1723",
+          "Whoever recites it when he goes to his bed, a guardian from Allah will remain with him, and no devil will approach him until he wakes up. Al-Bukhari with Fath 4/487",
+          "Whoever recites them in a night, they will suffice him. Al-Bukhari with Fath 9/94 and Muslim 1/554. The two verses are from Surah Al-Baqarah, 285-286.",
+          "Si uno de vosotros se levanta de su cama y luego regresa a ella, debe espolvorearla con el borde de su manto tres veces y decir el nombre de Allah, porque no sabe lo que vino después de él en ella. Y cuando se acuesta, debe decir... el hadiz.",
+          "Al-Bukhari 11/126 and Muslim 4/2084",
+          "Narrated by Muslim 4/2083 and Ahmad with his wording 2/79",
+          "Cuando el Mensajero de Allah (la paz sea con él) quería dormir, colocaba su mano derecha debajo de su mejilla y luego decía... el hadiz.",
+          "Abu Dawud with his wording 4/311. See Sahih At-Tirmidhi 3/143",
+          "Al-Bukhari with Fath 11/113 and Muslim 4/2083",
+          "Whoever said that when he goes to his bed, it would be better for him than a servant. Al-Bukhari with Fath 7/71 and Muslim 4/2091",
+          "Muslim 4/2084",
+          "Muslim 4/2085",
+          "Abu Dawud 4/317. See Sahih Sunan At-Tirmidhi 3/142",
+          "At-Tirmidhi and An-Nasa'i. See Sahih Al-Jami' 4/255",
+          "Cuando vayas a tu cama, haz la ablución como lo harías durante la oración, luego acuéstate sobre tu lado derecho y di... el hadiz.",
+          "The Prophet (peace be upon him) said to the one who said that: 'If you die, you will die on the Fitrah (natural disposition).' Al-Bukhari with Fath 11/113 and Muslim 4/2081"
+        ]
+      },
+      "Súplica al darse vuelta por la noche": {
+        "text": [
+          "No hay más dios que Alá, el Único, el Prevaleciente, Señor de los cielos y de la tierra y de lo que hay entre ellos, el Exaltado en Poder, el Perpetuo Perdonador."
+        ],
+        "footnote": [
+          "One says this if he turns from side to side during the night. Reported by Al-Hakim, who authenticated it and Adh-Dhahabi agreed 1/540, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah', and Ibn As-Sunni. See Sahih Al-Jami' 4/213"
+        ]
+      },
+      "Súplica por la ansiedad y el miedo durante el sueño y por quien sufre de soledad": {
+        "text": [
+          "Busco refugio en las palabras perfectas de Allah de Su ira y Su castigo, de la maldad de Sus siervos y de las incitaciones de los demonios y de que estén presentes."
+        ],
+        "footnote": [
+          "Abu Dawud 4/12. See Sahih At-Tirmidhi 3/171"
+        ]
+      },
+      "Qué hacer al ver un sueño o una pesadilla": {
+        "text": [
+          "Escupe ligeramente a su izquierda (tres veces).",
+          "Busca refugio en Allah de Satanás y del mal de lo que vio (tres veces).",
+          "No se lo cuentes a nadie.",
+          "Dar la vuelta al otro lado.",
+          "Levántese y ore si así lo desea."
+        ],
+        "footnote": [
+          "Muslim 4/1772",
+          "Muslim 4/1773",
+          "Muslim 4/1772",
+          "Muslim 4/1773",
+          "Muslim 4/1773"
+        ]
+      },
+      "Súplica por Qunut en la oración Witr": {
+        "text": [
+          "Oh Allah, guíame entre aquellos a quienes has guiado, y concédeme bienestar entre aquellos a quienes has otorgado bienestar, y llévame a Tu cargo entre aquellos a Tu cargo, y bendíceme en lo que Tú has dado, y protégeme del mal de lo que Tú has decretado. Porque Tú decretas y nadie puede decretar sobre Ti. En verdad, aquel a quien tomas como aliado no es humillado, [y aquel a quien tomas como enemigo no es honrado]. Bendito eres Tú, Señor nuestro, y exaltado.",
+          "Oh Allah, me refugio en Tu complacencia de Tu ira, y me refugio en Tu perdón de Tu castigo, y me refugio en Ti de Ti. No puedo enumerar Tus alabanzas. Eres como te has alabado a ti mismo.",
+          "Oh Allah, sólo a Ti te adoramos, ante Ti rezamos y nos postramos, y ante Ti nos esforzamos y nos apresuramos. Esperamos Tu misericordia y tememos Tu castigo. De hecho, tu castigo alcanzará a los incrédulos. Oh Allah, buscamos Tu ayuda, te pedimos perdón, te alabamos con bondad, no dejamos de creer en Ti, creemos en Ti y nos sometemos a Ti, y abandonamos a los que no creen en Ti."
+        ],
+        "footnote": [
+          "Reported by the four compilers of Sunan, Ahmad, Ad-Darimi, Al-Hakim, and Al-Bayhaqi. What is between the brackets is from Al-Bayhaqi. See Sahih At-Tirmidhi 1/144, Sahih Ibn Majah 1/194, and Irwa' al-Ghalil by Al-Albani 2/172",
+          "Reported by the four compilers of Sunan and Ahmad. See Sahih At-Tirmidhi 3/180, Sahih Ibn Majah 1/194, and Al-Irwa' 2/175",
+          "Informado por Al-Bayhaqi en As-Sunan Al-Kubra y autentificó su cadena 2/211. Sheikh Al-Albani dijo en Irwa' al-Ghalil: 'Ésta es una cadena auténtica' 2/170. Es una declaración de 'Umar."
+        ]
+      },
+      "Recuerdo después del Salam de la oración Witr": {
+        "text": [
+          "El Mensajero de Allah (la paz sea con él) solía recitar en la oración del Witr: (Glorificad el nombre de vuestro Señor, el Altísimo), y (Di, oh incrédulos), y (Di, Él es Allah, el Único). Cuando daba el Salam, decía: 'Gloria al Rey, el Santísimo' [Señor de los ángeles y del Espíritu] tres veces, y la tercera vez levantaba la voz y la prolongaba."
+        ],
+        "footnote": [
+          "Narrated by An-Nasa'i 3/244, Ad-Daraqutni, and others. What is between the brackets is an addition by Ad-Daraqutni 2/31 and its chain is authentic. See Zad Al-Ma'ad with the verification of Shu'ayb Al-Arna'ut and 'Abd al-Qadir Al-Arna'ut 1/337"
+        ]
+      },
+      "Súplica por la preocupación y el dolor": {
+        "text": [
+          "Oh Allah, soy Tu siervo, hijo de Tu siervo, hijo de Tu sierva. Mi copete está en tu mano. Tu mandato sobre mí se cumple para siempre y tu decreto sobre mí es justo. Te pido por cada nombre que te pertenece, con el que te has nombrado, o revelado en Tu Libro, o enseñado a cualquiera de Tu creación, o conservado en el conocimiento de lo invisible contigo, que hagas del Corán la vida de mi corazón y la luz de mi pecho, y un punto de partida para mi dolor y una liberación para mi ansiedad.",
+          "Oh Allah, busco refugio en Ti de la preocupación y el dolor, de la incapacidad y la pereza, de la avaricia y la cobardía, y de ser vencido por las deudas y dominado por los hombres."
+        ],
+        "footnote": [
+          "Ahmad 1/391, authenticated by Al-Albani",
+          "Al-Bukhari 7/158. The Messenger of Allah (peace be upon him) used to say this supplication frequently."
+        ]
+      },
+      "Súplica por angustia": {
+        "text": [
+          "No hay más dios que Alá, el Grande, el Tolerante. No hay más dios que Alá, Señor del Trono Poderoso. No hay más dios que Alá, Señor de los cielos y Señor del noble Trono.",
+          "Oh Allah, espero Tu misericordia, así que no me confíes a mí mismo en un abrir y cerrar de ojos, y rectifica todos mis asuntos. No hay más dios que Tú.",
+          "No hay más dios que Tú; exaltado eres Tú. De hecho, yo he sido de los malhechores.",
+          "Allah, Allah es mi Señor. No asocio nada con Él."
+        ],
+        "footnote": [
+          "Al-Bukhari 7/154 and Muslim 4/2092",
+          "Abu Dawud 4/324 and Ahmad 5/42. Graded as hasan by Al-Albani in Sahih Abi Dawud 3/959",
+          "At-Tirmidhi 5/529 and Al-Hakim, who authenticated it and Adh-Dhahabi agreed 1/505. See Sahih At-Tirmidhi 3/168",
+          "Reported by Abu Dawud 2/87. See Sahih Ibn Majah 2/335"
+        ]
+      },
+      "Súplica para encontrar al enemigo y a quienes están en autoridad": {
+        "text": [
+          "Oh Allah, te ponemos en sus gargantas y buscamos refugio en Ti de sus males.",
+          "Oh Allah, Tú eres mi fuerza y ​​eres mi apoyo. Por Ti me muevo, por Ti ataco y por Ti lucho.",
+          "Allah es suficiente para nosotros y Él es el mejor Dispensador de los asuntos."
+        ],
+        "footnote": [
+          "Abu Dawud 2/89, authenticated by Al-Hakim and Adh-Dhahabi agreed 2/142",
+          "Abu Dawud 3/42 and At-Tirmidhi 5/572. See Sahih At-Tirmidhi 3/183",
+          "Al-Bukhari 5/172"
+        ]
+      },
+      "Súplica de quien teme la opresión de un gobernante": {
+        "text": [
+          "Oh Allah, Señor de los siete cielos y Señor del Trono Poderoso, sé para mí un protector de fulano de tal, hijo de fulano de tal, y de sus partidarios de Tu creación; para que ninguno de ellos transgreda contra mí ni me oprima. Poderosa es Tu protección y gloriosa tu alabanza. No hay más dios que Tú.",
+          "Allah es el más grande, Allah es más poderoso que toda Su creación. Allah es más poderoso que lo que temo y lo que temo. Busco refugio en Allah, fuera de quien no hay más dios, Aquel que impide que los siete cielos caigan sobre la tierra excepto con Su permiso, de la maldad de Tu siervo fulano de tal, y sus soldados, sus seguidores y sus partidarios, de entre los genios y la humanidad. Oh Allah, sé un protector para mí de su maldad. Gloriosa es Tu alabanza y poderosa es Tu protección, y bendito es Tu nombre. No hay más dios que Tú. (Tres veces)"
+        ],
+        "footnote": [
+          "Al-Bukhari in Al-Adab Al-Mufrad, no. 707, authenticated by Al-Albani in Sahih Al-Adab Al-Mufrad, no. 545",
+          "Al-Bukhari in Al-Adab Al-Mufrad, no. 708, authenticated by Al-Albani in Sahih Al-Adab Al-Mufrad, no. 546"
+        ]
+      },
+      "Súplica contra el enemigo": {
+        "text": [
+          "Oh Allah, Revelador del Libro, rápido en cuentas, derrota a los confederados. Oh Allah, derrótalos y sacúdelos."
+        ],
+        "footnote": [
+          "Muslim 3/1362"
+        ]
+      },
+      "Qué decir cuando se teme a un grupo de personas": {
+        "text": [
+          "Oh Allah, basta conmigo contra ellos como quieras."
+        ],
+        "footnote": [
+          "Muslim 4/2300"
+        ]
+      },
+      "Súplica por el afligido por la duda en la fe": {
+        "text": [
+          "Debería buscar refugio en Allah.",
+          "Debe desistir de lo que está dudando.",
+          "Debe decir: \"Creo en Allah y Sus Mensajeros\".",
+          "Debe recitar el dicho de Allah Todopoderoso: {Él es el Primero y el Último, el Ascendente y el Íntimo, y Él es, sobre todas las cosas, el Conocedor.}"
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 6/336 and Muslim 1/120",
+          "Al-Bukhari with Fath 6/336 and Muslim 1/120",
+          "Muslim 1/120",
+          "Surah Al-Hadid, Verse: 3. Abu Dawud 4/329, graded as hasan by Al-Albani in Sahih Abi Dawud 3/962"
+        ]
+      },
+      "Súplica para saldar una deuda": {
+        "text": [
+          "Oh Allah, bastame con lo que has permitido contra lo que has prohibido, y hazme independiente de todos los demás además de Ti.",
+          "Oh Allah, busco refugio en Ti de la preocupación y el dolor, de la incapacidad y la pereza, de la avaricia y la cobardía, y de ser vencido por las deudas y dominado por los hombres."
+        ],
+        "footnote": [
+          "At-Tirmidhi 5/560. See Sahih At-Tirmidhi 3/180",
+          "Al-Bukhari 7/158"
+        ]
+      },
+      "Súplica por Waswasah (susurros) en oración y recitación": {
+        "text": [
+          "Busco refugio en Alá del maldito Satán y escupo ligeramente a tu izquierda (tres veces)."
+        ],
+        "footnote": [
+          "Muslim 4/1729, del hadiz de 'Uthman bin Al-'As (que Allah esté complacido con él), en el que dijo: 'Hice eso y Allah me lo quitó'."
+        ]
+      },
+      "Súplica por quien encuentra un asunto difícil": {
+        "text": [
+          "Oh Allah, no hay facilidad excepto en aquello que Tú haces fácil, y haces fácil lo difícil, si así lo deseas."
+        ],
+        "footnote": [
+          "Narrated by Ibn Hibban in his Sahih, no. 2427 (Mawarid) and Ibn As-Sunni, no. 351. Al-Hafiz said this hadith is authentic, and 'Abd al-Qadir al-Arna'ut authenticated it in his verification of Al-Adhkar by An-Nawawi, p. 106"
+        ]
+      },
+      "Lo que dice y hace quien comete un pecado": {
+        "text": [
+          "No hay siervo que cometa un pecado, luego se purifique bien, luego se pare y rece dos rak'ahs y luego busque el perdón de Allah, sin que Allah lo perdone."
+        ],
+        "footnote": [
+          "Abu Dawud 2/86 and At-Tirmidhi 2/257, authenticated by Al-Albani in Sahih Abi Dawud 1/283"
+        ]
+      },
+      "Súplica para expulsar a Satanás y sus susurros": {
+        "text": [
+          "Buscando refugio en Allah de él.",
+          "El Adhan (llamado a la oración).",
+          "Recuerdos y recitación del Corán."
+        ],
+        "footnote": [
+          "Abu Dawud 1/206 and At-Tirmidhi. See Sahih At-Tirmidhi 1/77. See Surah Al-Mu'minun, verses 98-99",
+          "Muslim 1/291 and Al-Bukhari 1/151",
+          "'No convirtáis vuestras casas en tumbas. De hecho, Satán huye de la casa en la que se recita la Sura Al-Baqarah.' Narrado por Muslim 1/539. Entre lo que repele a Satanás se encuentran los recuerdos de la mañana y de la tarde, los recuerdos para dormir y despertar, los recuerdos para entrar y salir de la casa, los recuerdos para entrar y salir de la mezquita y otros recuerdos prescritos como recitar el Ayat al-Kursi antes de dormir, los dos últimos versos de la Sura Al-Baqarah y quien dice: \"No hay más dios que Alá, solo, sin compañero\". A Él pertenece el dominio y a Él es toda alabanza, y Él puede hacer todas las cosas cien veces, será para él una protección de Satanás durante todo el día. Asimismo, el Adhan repele a Satanás."
+        ]
+      },
+      "Súplica cuando sucede algo desagradable o uno se siente abrumado por un asunto": {
+        "text": [
+          "Allah ha decretado y hace lo que quiere.",
+          "Si un asunto te supera, di: 'Alá es suficiente para mí y Él es el mejor Dispensador de asuntos'."
+        ],
+        "footnote": [
+          "'El creyente fuerte es mejor y más amado por Allah que el creyente débil, y en ambos hay bien. Esté atento a lo que le beneficia, busque la ayuda de Allah y no se quede desamparado. Si algo os sucede, no digáis: 'Si tan solo hubiera hecho tal o cual cosa', sino di: 'Alá ha decretado, y lo que quiere, lo hace', porque 'si tan sólo' abre la puerta a la obra de Satanás.' Musulmán 4/2052",
+          "Di Taakrix All-Adhkar por All-Arna tú, p. 106"
+        ]
+      },
+      "Felicitar a un nuevo padre y la respuesta": {
+        "text": [
+          "Que Allah te bendiga por lo que te ha sido dado, y que estés agradecido con el Dador, y que él (el niño) alcance toda su fuerza, y que seas bendecido con su justicia. El que está siendo felicitado responde diciendo: 'Que Allah te bendiga y te conceda Sus bendiciones, y que Allah te recompense con el bien, y que Allah te conceda algo similar, y que multiplique tu recompensa'."
+        ],
+        "footnote": [
+          "See Al-Adhkar by An-Nawawi, p. 349, and Sahih Al-Adhkar by An-Nawawi, by Salim Al-Hilali 2/713"
+        ]
+      },
+      "Cómo proteger a los niños": {
+        "text": [
+          "El Mensajero de Allah (la paz sea con él) solía buscar protección para Al-Hasan y Al-Husayn, diciendo: 'Busco protección para ustedes dos en las palabras perfectas de Allah, de todo demonio y plaga venenosa, y de todo mal de ojo'."
+        ],
+        "footnote": [
+          "Al-Bukhari 4/119, from the hadith of Ibn 'Abbas (may Allah be pleased with them)"
+        ]
+      },
+      "Súplica para los enfermos al visitarlas": {
+        "text": [
+          "No hay daño, es una purificación, si Allah quiere.",
+          "Le pido a Allah el Grande, Señor del Trono Poderoso, que os sane. (Siete veces)"
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 10/118",
+          "There is no Muslim servant who visits a sick person whose time has not yet come and says seven times... the hadith, but he will be cured. Reported by At-Tirmidhi and Abu Dawud. See Sahih At-Tirmidhi 2/210 and Sahih Al-Jami' 5/180"
+        ]
+      },
+      "La virtud de visitar a los enfermos": {
+        "text": [
+          "El Profeta (la paz sea con él) dijo: 'Cuando un hombre visita a su hermano musulmán, camina en la cosecha del Paraíso hasta que se sienta. Cuando se sienta, la misericordia lo envuelve. Si es por la mañana, setenta mil ángeles oran por él hasta la tarde, y si es por la tarde, setenta mil ángeles oran por él hasta la mañana.'"
+        ],
+        "footnote": [
+          "Narrated by At-Tirmidhi, Ibn Majah, and Ahmad. See Sahih Ibn Majah 1/244 and Sahih At-Tirmidhi 1/286. It was also authenticated by Ahmad Shakir."
+        ]
+      },
+      "Súplica de un enfermo que ha perdido la esperanza en la vida": {
+        "text": [
+          "Oh Allah, perdóname, ten piedad de mí y únete a mí con el más alto compañero.",
+          "El Profeta (la paz sea con él) ponía sus manos en agua y se limpiaba la cara con ellas, diciendo: 'No hay más dios que Alá'. De hecho, la muerte tiene sus agonías.",
+          "No hay más dios que Alá, y Alá es el más grande. No hay más dios que Alá, solo. No hay más dios que Alá, solo, sin pareja. No hay más dios que Alá; a Él pertenece el dominio y a Él es toda alabanza. No hay más dios que Allah, y no hay fuerza ni poder excepto en Allah."
+        ],
+        "footnote": [
+          "Al-Bukhari 7/10 and Muslim 4/1893",
+          "Al-Bukhari with Fath 8/144. The hadith mentions the Siwak (tooth-stick).",
+          "Reported by At-Tirmidhi and Ibn Majah, authenticated by Al-Albani. See Sahih At-Tirmidhi 3/152 and Sahih Ibn Majah 2/317"
+        ]
+      },
+      "Impulsando a los moribundos": {
+        "text": [
+          "Quien diga sus últimas palabras: 'La ilaha illallah' (No hay más dios que Alá) entrará en el Paraíso."
+        ],
+        "footnote": [
+          "Abu Dawud 3/190. See Sahih Al-Jami' 5/432"
+        ]
+      },
+      "Súplica para una afligida con una calamidad": {
+        "text": [
+          "De hecho, a Allah pertenecemos y a Él regresaremos. Oh Allah, recompénsame por mi calamidad y reemplázala con algo mejor."
+        ],
+        "footnote": [
+          "Muslim 2/632"
+        ]
+      },
+      "Súplica al cerrar los ojos de la difunta": {
+        "text": [
+          "Oh Allah, perdona a fulano de tal (por su nombre) y eleva su rango entre los guiados, y toma su lugar en su posteridad entre los que se quedan atrás. Y perdónanos a nosotros y a él, oh Señor de los mundos, y hazle espaciosa su tumba e ilumínala."
+        ],
+        "footnote": [
+          "Muslim 2/634"
+        ]
+      },
+      "Súplica para la difunta en la oración fúnebre": {
+        "text": [
+          "Oh Allah, perdónalo y ten piedad de él, concédele bienestar y perdónalo, y haz que su lugar de descanso sea honorable y ensancha su entrada, y lávalo con agua, nieve y granizo, y límpialo de pecados como un vestido blanco se limpia de suciedad, y dale un hogar mejor que su hogar, y una familia mejor que su familia, y un cónyuge mejor que su cónyuge, y admítelo en el Paraíso, y protégelo del castigo de la tumba (y del castigo del Fuego).",
+          "Oh Allah, perdona a nuestros vivos y a nuestros muertos, a nuestros presentes y a nuestros ausentes, a nuestros jóvenes y a nuestros viejos, a nuestros hombres y nuestras mujeres. Oh Allah, a quien mantengas vivo entre nosotros, mantenlo vivo en el Islam, y a quien hagas morir entre nosotros, haz que muera por la fe. Oh Allah, no nos prives de su recompensa y no nos dejes extraviarnos tras él.",
+          "Oh Allah, en verdad fulano de tal hijo de fulano de tal está bajo Tu protección y en la cuerda de Tu seguridad, así que protégelo de la prueba de la tumba y del castigo del Fuego. Tú eres el que es fiel y verdadero. Así que perdónalo y ten piedad de él. De hecho, Tú eres el Perdonador, el Misericordioso.",
+          "Oh Allah, Tu siervo, el hijo de Tu siervo y el hijo de Tu sierva, necesitan Tu misericordia y Tú no necesitas su castigo. Si fue un hacedor de bien, entonces aumenta sus buenas obras, y si fue un malhechor, entonces pasa por alto sus malas acciones."
+        ],
+        "footnote": [
+          "Muslim 2/663",
+          "Ibn Majah 1/480 and Ahmad 2/368. See Sahih Ibn Majah 1/251",
+          "Reported by Ibn Majah. See Sahih Ibn Majah 1/251. Narrated by Abu Dawud 3/211",
+          "Reported by Al-Hakim, who authenticated it and Adh-Dhahabi agreed 1/359. See Ahkam Al-Jana'iz by Al-Albani, p. 125"
+        ]
+      },
+      "Súplica para una niña en la oración fúnebre": {
+        "text": [
+          "Oh Allah, protégelo del castigo de la tumba.",
+          "Si dijera: 'Oh Allah, hazle una recompensa precedente y un tesoro guardado para sus padres, y un intercesor respondido. Oh Allah, haz que la balanza de sus padres sea pesada con él y magnifica sus recompensas con él, y únelo con los creyentes justos, y ponlo bajo el cuidado de Ibrahim, y protégelo con Tu misericordia del castigo del Infierno, y dale un hogar mejor que su hogar, y una familia mejor que su familia. Oh Allah, perdona a nuestros predecesores, a nuestros hijos anteriores y a aquellos que nos precedieron en la fe,' eso es bueno.",
+          "Oh Allah, haz de él una recompensa anterior, una predecesora y una recompensa."
+        ],
+        "footnote": [
+          "Sa'id bin Al-Musayyib said: 'I prayed behind Abu Hurayrah over a child who had never committed a sin, and I heard him say...' the hadith. Reported by Malik in Al-Muwatta' 1/288, Ibn Abi Shaybah in Al-Musannaf 3/217, and Al-Bayhaqi 4/9. Shu'ayb Al-Arna'ut authenticated its chain in his verification of Sharh As-Sunnah by Al-Baghawi 5/357",
+          "Ver: Al-Mughni de Ibn Qudamah 3/416 y Ad-Durus Al-Muhimmah li-'Ammat Al-Ummah de Sheikh 'Abd al-'Aziz bin 'Abdullah bin Baz, que Allah lo conserve, p. 15",
+          "Al-Hasan used to recite Surah Al-Fatihah over the child and say... the hadith. Reported by Al-Baghawi in Sharh As-Sunnah 5/357 and 'Abd ar-Razzaq, no. 6588. Al-Bukhari mentioned it as a ta'liq in the Book of Funerals, chapter 65: Reciting Surah Al-Fatihah over the deceased 2/113"
+        ]
+      },
+      "Súplica de condolencia": {
+        "text": [
+          "De hecho, a Allah pertenece lo que tomó y a Él pertenece lo que dio. Y todo con Él tiene un plazo señalado... así que tenga paciencia y busque recompensa.",
+          "Y si dice: 'Que Allah magnifique vuestra recompensa, aclare vuestro duelo y perdone a vuestro difunto', está bien."
+        ],
+        "footnote": [
+          "Al-Bukhari 2/80 and Muslim 2/636",
+          "Al-Adhkar por An-Nawawi, pág. 126"
+        ]
+      },
+      "Súplica al colocar a la difunta en la tumba": {
+        "text": [
+          "En el nombre de Allah y según la Sunnah del Mensajero de Allah."
+        ],
+        "footnote": [
+          "Abu Dawud 3/314 with an authentic chain, and Ahmad with the wording 'In the name of Allah and upon the religion of the Messenger of Allah' and its chain is authentic."
+        ]
+      },
+      "Súplica después de enterrar a la difunta": {
+        "text": [
+          "Oh Allah, perdónalo. Oh Allah, hazlo firme."
+        ],
+        "footnote": [
+          "When the Prophet (peace be upon him) finished burying the deceased, he would stand over him and say: 'Ask for forgiveness for your brother and ask for him to be made firm, for he is now being questioned.' Abu Dawud 3/315 and Al-Hakim, who authenticated it and Adh-Dhahabi agreed 1/370"
+        ]
+      },
+      "Súplica para visitar las tumbas": {
+        "text": [
+          "La paz sea con vosotros, oh habitantes de las moradas, de entre los creyentes y los musulmanes. Y nosotros, si Allah quiere, os seguiremos. [Que Allah tenga misericordia de aquellos que nos han precedido y de los que vendrán después.] Le pido a Allah bienestar para nosotros y para vosotros."
+        ],
+        "footnote": [
+          "Muslim 2/671, and Ibn Majah, the wording is his 1/494 from Buraydah (may Allah be pleased with him). What is between the brackets is from the hadith of 'A'ishah (may Allah be pleased with her) in Muslim 2/671"
+        ]
+      },
+      "Súplica por el viento": {
+        "text": [
+          "Oh Allah, te pido por su bien y busco refugio en Ti de su mal.",
+          "Oh Allah, te pido por su bien, el bien que hay en él y el bien con el que ha sido enviado. Y busco refugio en ti de su mal, del mal que hay en él, y del mal con que ha sido enviado."
+        ],
+        "footnote": [
+          "Reported by Abu Dawud 4/326 and Ibn Majah 2/1228. See Sahih Ibn Majah 2/305",
+          "Muslim 2/616 and Al-Bukhari 4/76"
+        ]
+      },
+      "Súplica por el trueno": {
+        "text": [
+          "Gloria a Aquel a quien el trueno glorifica con su alabanza, y los ángeles, con temor de él."
+        ],
+        "footnote": [
+          "When 'Abdullah bin Az-Zubayr (may Allah be pleased with them) heard thunder, he would stop talking and say... Al-Muwatta' 2/992. Al-Albani said its chain is authentic as a mawquf narration."
+        ]
+      },
+      "Súplicas por la lluvia": {
+        "text": [
+          "Oh Allah, danos una lluvia salvadora, beneficiosa, saludable y fértil, que no sea dañina, inmediata ni tardía.",
+          "Oh Allah, danos lluvia. Oh Allah, danos lluvia. Oh Allah, danos lluvia.",
+          "Oh Allah, da agua a Tus siervos y a Tu ganado, difunde Tu misericordia y revive Tu tierra muerta."
+        ],
+        "footnote": [
+          "Abu Dawud 1/303, authenticated by Al-Albani in Sahih Abi Dawud 1/216",
+          "Al-Bukhari 1/224, Muslim 2/613",
+          "Abu Dawud 1/305, graded as hasan by Al-Albani in Sahih Abi Dawud 1/218"
+        ]
+      },
+      "Súplica cuando llueve": {
+        "text": [
+          "Oh Allah, que sea un aguacero beneficioso."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 2/518"
+        ]
+      },
+      "Recuerdo después de que llueve": {
+        "text": [
+          "Se nos ha dado lluvia por la gracia y la misericordia de Allah."
+        ],
+        "footnote": [
+          "Al-Bukhari 1/205, Muslim 1/83"
+        ]
+      },
+      "Súplicas para que los cielos se despejen": {
+        "text": [
+          "Oh Allah, alrededor de nosotros y no sobre nosotros. Oh Allah, sobre las colinas, las montañas, los valles y los lugares donde crecen los árboles."
+        ],
+        "footnote": [
+          "Al-Bukhari 1/224, Muslim 2/614"
+        ]
+      },
+      "Súplica por ver la luna nueva": {
+        "text": [
+          "Allah es el más grande. Oh Allah, tráelo sobre nosotros con seguridad y fe, con paz e Islam, y con guía hacia lo que nuestro Señor ama y le agrada. Nuestro Señor y vuestro Señor es Allah."
+        ],
+        "footnote": [
+          "At-Tirmidhi 5/504 and Ad-Darimi with his wording 1/336. See Sahih At-Tirmidhi 3/157"
+        ]
+      },
+      "Súplica al romper el ayuno": {
+        "text": [
+          "La sed desaparece, las venas se humedecen y la recompensa se confirma, si Allah quiere.",
+          "Oh Allah, te pido por Tu misericordia que abarca todas las cosas, que me perdones."
+        ],
+        "footnote": [
+          "Reported by Abu Dawud 2/306 and others. See Sahih Al-Jami' 4/209",
+          "Reported by Ibn Majah 1/557 from the supplication of 'Abdullah bin 'Amr (may Allah be pleased with them). Al-Hafiz graded it as hasan in his verification of Al-Adhkar. See Sharh Al-Adhkar 4/342"
+        ]
+      },
+      "Súplica antes de comer": {
+        "text": [
+          "Cuando uno de vosotros coma, que diga: \"En el nombre de Allah\". Si lo olvida al principio, que diga: 'En el nombre de Allah, al principio y al final'.",
+          "A quien Allah alimente con comida, que diga: 'Oh Allah, bendícenos y aliméntanos con algo mejor que ella'. Y a quien Allah dé de beber leche, que diga: 'Oh Allah, bendícenos en ella y haznos crecer con ella'."
+        ],
+        "footnote": [
+          "Reported by Abu Dawud 3/347 and At-Tirmidhi 4/288. See Sahih At-Tirmidhi 2/167",
+          "At-Tirmidhi 5/506. See Sahih At-Tirmidhi 3/1"
+        ]
+      },
+      "Súplica después de terminar una comida": {
+        "text": [
+          "Toda alabanza es para Allah quien me alimentó con esto y me lo proporcionó sin ninguna fuerza o poder de mi parte.",
+          "Toda alabanza es debida a Allah, una alabanza abundante, buena y bendita, [no debe darse por sentado, ni] ser abandonado, ni dejado sin necesidad, nuestro Señor."
+        ],
+        "footnote": [
+          "Reported by the compilers of Sunan except An-Nasa'i. See Sahih At-Tirmidhi 3/159",
+          "Al-Bukhari 6/214 and At-Tirmidhi with his wording 5/507"
+        ]
+      },
+      "Súplica de la invitada para la anfitriona": {
+        "text": [
+          "Oh Allah, bendice para ellos lo que les has proporcionado, perdónalos y ten piedad de ellos."
+        ],
+        "footnote": [
+          "Muslim 3/1626"
+        ]
+      },
+      "Súplica para quien da de beber o pretende dar de beber": {
+        "text": [
+          "Oh Allah, alimenta a quien me ha alimentado y dale de beber a quien me ha dado de beber."
+        ],
+        "footnote": [
+          "Muslim 3/26"
+        ]
+      },
+      "Súplica al desayunar en casa de alguien": {
+        "text": [
+          "Que los ayunantes rompan su ayuno contigo, que los justos coman tu comida y que los ángeles envíen oraciones sobre ti."
+        ],
+        "footnote": [
+          "Sunan Abi Dawud 3/367, Ibn Majah 1/556, and An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 298. It is stated that the Prophet (peace be upon him) would say this when breaking his fast at someone's house. Authenticated by Al-Albani in Sahih Abi Dawud 2/730"
+        ]
+      },
+      "Súplica de una persona que ayuna cuando se le presenta la comida y no rompe el ayuno": {
+        "text": [
+          "Si uno de vosotros es invitado, deberá aceptar. Si está ayunando, debe orar, y si no está ayunando, debe comer. El significado de \"debe orar\" es que debe suplicar."
+        ],
+        "footnote": [
+          "Muslim 2/1054"
+        ]
+      },
+      "Lo que dice una persona en ayunas si alguien las insulta": {
+        "text": [
+          "Estoy ayunando, estoy ayunando."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 4/103, and Muslim 2/806"
+        ]
+      },
+      "Súplica al ver las primicias de la temporada": {
+        "text": [
+          "Oh Allah, bendice para nosotros nuestros frutos, y bendice para nosotros nuestra ciudad, y bendice para nosotros nuestro sa' (una unidad de medida), y bendice para nosotros nuestro mudd (una unidad de medida)."
+        ],
+        "footnote": [
+          "Muslim 2/1000"
+        ]
+      },
+      "Súplica por estornudar": {
+        "text": [
+          "Si uno de vosotros estornuda, debe decir: 'Alhamdulillah' (Todas las alabanzas son para Allah). Y su hermano o compañero debería decirle: 'Yarhamukallah' (Que Allah tenga misericordia de ti). Si le dice 'Yarhamukallah', debe decir: 'Yahdeekumullah wa yuslih baalakum' (Que Allah te guíe y ponga tus asuntos en orden)."
+        ],
+        "footnote": [
+          "Al-Bukhari 7/125"
+        ]
+      },
+      "Qué decirle a un incrédulo que estornuda y alaba a Allah": {
+        "text": [
+          "Que Allah os guíe y ponga vuestros asuntos en orden."
+        ],
+        "footnote": [
+          "At-Tirmidhi 5/82, Ahmad 4/400, and Abu Dawud 4/308. See Sahih At-Tirmidhi 2/354"
+        ]
+      },
+      "Súplica por los recién casados": {
+        "text": [
+          "Que Allah os bendiga, os conceda Sus bendiciones y os reúna en el bien."
+        ],
+        "footnote": [
+          "Reported by the compilers of Sunan except An-Nasa'i. See Sahih At-Tirmidhi 1/316"
+        ]
+      },
+      "La súplica del novio por sí mismo y por comprar una montura": {
+        "text": [
+          "Cuando uno de vosotros se casa con una mujer, o si compra un sirviente, debe decir: 'Oh Allah, te pido por su bien y por el bien sobre el cual la has creado, y busco refugio en Ti de su mal y del mal sobre el que la has creado'. Y si compra un camello, deberá agarrarlo por la parte superior de su joroba y decir lo mismo."
+        ],
+        "footnote": [
+          "Abu Dawud 2/248 and Ibn Majah 1/617. See Sahih Ibn Majah 1/324"
+        ]
+      },
+      "Súplica antes del coito": {
+        "text": [
+          "En nombre de Alá. Oh Allah, aleja a Satanás de nosotros y aleja a Satanás de lo que Tú nos proporcionas."
+        ],
+        "footnote": [
+          "Al-Bukhari 6/141 and Muslim 2/1028"
+        ]
+      },
+      "Súplica por la ira": {
+        "text": [
+          "Busco refugio en Allah del maldito Satán."
+        ],
+        "footnote": [
+          "Al-Bukhari 6/99 and Muslim 4/2015"
+        ]
+      },
+      "Súplica al ver a alguien en aflicción": {
+        "text": [
+          "Toda alabanza es para Allah, que me ha librado de lo que os ha afligido y me ha favorecido sobre muchos de los que ha creado."
+        ],
+        "footnote": [
+          "At-Tirmidhi 5/494 and 5/493. See Sahih At-Tirmidhi 3/153"
+        ]
+      },
+      "Lo que se dice en una reunión": {
+        "text": [
+          "Ibn 'Umar dijo: 'Se le contó al Mensajero de Allah (la paz sea con él) en una sola reunión, cien veces antes de levantarse: 'Mi Señor, perdóname y acepta mi arrepentimiento. De hecho, Tú eres Quien acepta el arrepentimiento, el Perdonador”."
+        ],
+        "footnote": [
+          "At-Tirmidhi and others. See Sahih At-Tirmidhi 3/153 and Sahih Ibn Majah 2/321. The wording is from At-Tirmidhi."
+        ]
+      },
+      "Expiación por una reunión y con qué concluir las reuniones": {
+        "text": [
+          "Gloria a Ti, oh Allah, y alabado seas. Doy testimonio de que no hay más dios que Tú. Busco Tu perdón y me arrepiento ante Ti."
+        ],
+        "footnote": [
+          "Reported by the compilers of Sunan. See Sahih At-Tirmidhi 3/153. It is authentically reported from 'A'ishah (may Allah be pleased with her) that she said: 'The Messenger of Allah (peace be upon him) never sat in a gathering, nor recited Quran, nor prayed, but he concluded that with these words...' The hadith was reported by An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 308, and Ahmad 6/77. Dr. Faruq Hamadah authenticated it in his verification of 'Amal Al-Yawm wa Al-Laylah by An-Nasa'i, p. 273"
+        ]
+      },
+      "Súplica para quien dice 'Ghafarallahu lak' (Que Allah te perdone)": {
+        "text": [
+          "Y a ti."
+        ],
+        "footnote": [
+          "Ahmad 5/28 and An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah, p. 218, no. 421, verification by Dr. Faruq Hamadah"
+        ]
+      },
+      "Súplica por quien te hace un favor": {
+        "text": [
+          "Jazakallahu khairan (Que Allah te recompense con el bien)."
+        ],
+        "footnote": [
+          "Reported by At-Tirmidhi no. 2035. See Sahih Al-Jami' 6244 and Sahih At-Tirmidhi 2/200"
+        ]
+      },
+      "Lo que protege del Dajjal (Anticristo)": {
+        "text": [
+          "Quien memorice diez versos del comienzo de Surah Al-Kahf estará protegido del Dajjal. Y buscar refugio en Allah de su prueba después del Tashahhud final de cada oración."
+        ],
+        "footnote": [
+          "Musulmán 1/555. En otra narración, 'desde el final de Al-Kahf' 1/556",
+          "Ver hadiz núm. 55 y hadiz 56"
+        ]
+      },
+      "Súplica para quien dice \"Te amo por la causa de Allah\"": {
+        "text": [
+          "Que Aquel por cuyo amor me amas, te ame."
+        ],
+        "footnote": [
+          "Reported by Abu Dawud 4/333, and graded as hasan by Al-Albani in Sahih Sunan Abi Dawud 3/965"
+        ]
+      },
+      "Súplica por quien te ofrece sus riquezas": {
+        "text": [
+          "Que Allah te bendiga en tu familia y en tu riqueza."
+        ],
+        "footnote": [
+          "Al-Bukhari, Al-Fath 4/88"
+        ]
+      },
+      "Súplica al prestamista al momento del pago": {
+        "text": [
+          "Que Allah te bendiga en tu familia y en tu riqueza. La única recompensa por un préstamo son los elogios y el reembolso."
+        ],
+        "footnote": [
+          "Reported by An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah, p. 300, and Ibn Majah 2/809. See Sahih Ibn Majah 2/55"
+        ]
+      },
+      "Súplica por miedo al shirk (politeísmo)": {
+        "text": [
+          "Oh Allah, busco refugio en Ti para no asociar nada contigo a sabiendas, y busco Tu perdón por lo que no sé."
+        ],
+        "footnote": [
+          "Ahmad 4/403 and others. See Sahih Al-Jami' 3/333 and Sahih At-Targhib wa At-Tarhib by Al-Albani"
+        ]
+      },
+      "Súplica para quien dice 'Barakallahu feek' (Que Allah te bendiga)": {
+        "text": [
+          "Wa feeka barakallah (Y que Allah también te bendiga)."
+        ],
+        "footnote": [
+          "Reported by Ibn As-Sunni, p. 138, no. 278. See Al-Wabil As-Sayyib by Ibn Al-Qayyim, p. 304, verification by Bashir Muhammad 'Uyun"
+        ]
+      },
+      "Súplica por desagradar un presagio": {
+        "text": [
+          "Oh Allah, no hay más presagio que Tu presagio, ni más bien que Tu bien, ni más dios que Tú."
+        ],
+        "footnote": [
+          "Ahmad 2/220 and Ibn As-Sunni no. 292. Authenticated by Al-Albani in Al-Ahadith As-Sahiha 3/54, no. 1065. As for good omens (fa'l), the Prophet (peace be upon him) used to like them; for this reason, he heard a good word from a man and it pleased him, so he said: 'We have taken your good omen from your mouth.' Abu Dawud and Ahmad, authenticated by Al-Albani in As-Sahiha 2/363 from Abu Ash-Shaykh in 'Akhlaq An-Nabi'"
+        ]
+      },
+      "Súplica para montar en una montura": {
+        "text": [
+          "En nombre de Alá. Toda alabanza es para Allah. {Exaltado es Aquel que nos ha sujetado esto, y nosotros no podríamos [de otro modo] someterlo. * Y ciertamente, a nuestro Señor seguramente regresaremos.} Toda alabanza es para Allah, toda alabanza es para Allah, toda alabanza es para Allah. Allah es el más grande, Allah es el más grande, Allah es el más grande. Gloria a Ti, oh Allah. Me he agraviado a mí mismo, así que perdóname, porque nadie perdona los pecados excepto Tú."
+        ],
+        "footnote": [
+          "Abu Dawud 3/34 and At-Tirmidhi 5/501. See Sahih At-Tirmidhi 3/156"
+        ]
+      },
+      "Súplica para viajar": {
+        "text": [
+          "Allah es el más grande, Allah es el más grande, Allah es el más grande. {Exaltado es Aquel que nos ha sujetado esto, y nosotros no podríamos [de otro modo] someterlo. * Y ciertamente, a nuestro Señor seguramente regresaremos.} Oh Allah, en este viaje te pedimos rectitud y piedad, y obras que te agraden. Oh Allah, haz que este viaje nuestro sea fácil para nosotros y acorta su distancia. Oh Allah, Tú eres el Compañero en el viaje y el Guardián de la familia. Oh Allah, busco refugio en Ti de las dificultades del viaje, de la oscuridad de los lugares y de un mal resultado en la riqueza y la familia. Y cuando regresa, dice lo mismo y les añade: 'Volviéndose, arrepintiéndose, adorando y alabando a nuestro Señor'."
+        ],
+        "footnote": [
+          "Narrated by Muslim 2/978"
+        ]
+      },
+      "Súplica para entrar a un pueblo o ciudad": {
+        "text": [
+          "Oh Alá, Señor de los siete cielos y de lo que han sombreado, y Señor de las siete tierras y de lo que han llevado, y Señor de los demonios y de lo que han extraviado, y Señor de los vientos y de lo que han esparcido. Te pido por el bien de este pueblo, el bien de su gente y el bien que hay en él. Y busco refugio en ti de su maldad, de la maldad de su pueblo, y del mal que hay en él."
+        ],
+        "footnote": [
+          "Al-Hakim, who authenticated it and Adh-Dhahabi agreed 2/100, and Ibn As-Sunni no. 524. Al-Hafiz graded it as hasan in Takhrij Al-Adhkar 5/154. Ibn Baz said: 'Narrated by An-Nasa'i with a good chain.' See Tuhfat Al-Akhyar, p. 37"
+        ]
+      },
+      "Súplica para entrar al mercado": {
+        "text": [
+          "No hay más dios que Alá, solo, sin compañero. A Él pertenece el dominio y a Él toda alabanza. Él da vida y causa la muerte, y Él es el Viviente Eterno que no muere. En su mano está todo el bien y Él puede hacer todas las cosas."
+        ],
+        "footnote": [
+          "At-Tirmidhi 5/491 and Al-Hakim 1/538. Graded as hasan by Al-Albani in Sahih Ibn Majah 2/21 and in Sahih At-Tirmidhi 3/152"
+        ]
+      },
+      "Súplica si el monte tropieza": {
+        "text": [
+          "En nombre de Alá."
+        ],
+        "footnote": [
+          "Abu Dawud 4/296, authenticated by Al-Albani in Sahih Abi Dawud 3/941"
+        ]
+      },
+      "Súplica del viajero para la residente": {
+        "text": [
+          "Os encomiendo a Allah, cuya confianza nunca se pierde."
+        ],
+        "footnote": [
+          "Ahmad 2/403 and Ibn Majah 2/943. See Sahih Ibn Majah 2/133"
+        ]
+      },
+      "Súplica de la residente para la viajera": {
+        "text": [
+          "Encomiendo a Allah vuestra religión, vuestros encargos y la última de vuestras obras.",
+          "Que Allah te proporcione piedad, perdone tu pecado y te facilite la bondad dondequiera que estés."
+        ],
+        "footnote": [
+          "Ahmad 2/7, At-Tirmidhi 5/499. See Sahih At-Tirmidhi 3/155",
+          "At-Tirmidhi. See Sahih At-Tirmidhi 3/155"
+        ]
+      },
+      "Takbir y Tasbih durante el viaje": {
+        "text": [
+          "Jabir (que Allah esté complacido con él) dijo: 'Cuando ascendíamos, decíamos 'Allahu Akbar', y cuando descendíamos, decíamos 'Subhanallah'."
+        ],
+        "footnote": [
+          "Al-Bukhari, Al-Fath 6/135"
+        ]
+      },
+      "La súplica del viajero al amanecer": {
+        "text": [
+          "Un oyente ha escuchado nuestras alabanzas a Allah y Su buena prueba sobre nosotros. Señor nuestro, acompáñanos y concédenos Tu gracia, buscando refugio en Allah del Fuego."
+        ],
+        "footnote": [
+          "Musulmán 4/2086. El significado de \"un oyente ha oído\" es: un testigo ha sido testigo de nuestra alabanza a Allah por Sus bendiciones y sus buenas pruebas. Y el significado de 'un oyente ha oído' es: que un oyente transmita esta declaración mía a otros y diga algo similar, como un recordatorio para el recuerdo al amanecer y la súplica. Y su dicho: 'Señor nuestro, acompáñanos y concédenos Tu gracia' significa: protégenos, rodéanos, guárdanos y concédenos Tus abundantes bendiciones y aleja de nosotros todo mal. Sharh An-Nawawi 17/39"
+        ]
+      },
+      "Súplica al detenerse en un lugar durante el viaje o de otro modo": {
+        "text": [
+          "Busco refugio en las palabras perfectas de Allah contra la maldad de lo que Él ha creado."
+        ],
+        "footnote": [
+          "Narrated by Muslim 4/2080"
+        ]
+      },
+      "Recuerdo al regresar del viaje": {
+        "text": [
+          "Dice 'Allahu Akbar' tres veces en cada lugar alto, luego dice: 'No hay más dios que Allah, solo, sin compañero'. A Él pertenece el dominio, y a Él es toda alabanza, y Él puede hacer todas las cosas. Regresando, arrepintiéndonos, adorando y alabando a nuestro Señor. Alá ha cumplido Su promesa, ha ayudado a Su siervo y ha derrotado solo a los confederados.'"
+        ],
+        "footnote": [
+          "The Prophet (peace be upon him) used to say it when returning from a battle or Hajj. Al-Bukhari 7/163 and Muslim 2/980"
+        ]
+      },
+      "Qué decir y hacer cuando sucede algo agradable o desagradable": {
+        "text": [
+          "Cuando al Profeta (la paz sea con él) le llegaba algo agradable, decía: 'Todas las alabanzas son para Allah, por cuya gracia se completan las buenas obras'. Y si le ocurría algo desagradable, decía: \"Todas las alabanzas son para Allah en todas las circunstancias\"."
+        ],
+        "footnote": [
+          "Reportado por Ibn As-Sunni en 'Amal Al-Yawm wa Al-Laylah y Al-Hakim, quienes lo autentificaron 1/499. Autenticado por Al-Albani en Sahih Al-Jami' 4/201"
+        ]
+      },
+      "La virtud de enviar oraciones al Profeta (la paz sea con él)": {
+        "text": [
+          "El Profeta (la paz sea con él) dijo: 'Quien envíe una oración sobre mí, Allah enviará diez oraciones sobre él'.",
+          "Y el Profeta (la paz sea con él) dijo: 'No hagas de mi tumba un lugar de fiesta, sino envía oraciones sobre mí, porque tus oraciones me llegarán dondequiera que estés'.",
+          "Y el Profeta (la paz sea con él) dijo: 'El avaro es aquel en cuya presencia soy mencionado y no envía oraciones sobre mí'.",
+          "Y el Profeta (la paz sea con él) dijo: 'De hecho, Allah tiene ángeles que viajan por toda la tierra, transmitiéndome los saludos de paz de mi Ummah'.",
+          "Y el Profeta (la paz sea con él) dijo: 'Nadie envía saludos de paz sobre mí, pero Allah me devuelve mi alma para que yo pueda devolver el saludo de paz'."
+        ],
+        "footnote": [
+          "Reported by Muslim 1/288",
+          "Abu Dawud 2/218 and Ahmad 2/367. Authenticated by Al-Albani in Sahih Abi Dawud 2/383",
+          "At-Tirmidhi 5/551 and others. See Sahih Al-Jami' 3/25 and Sahih At-Tirmidhi 3/177",
+          "An-Nasa'i, and Al-Hakim 2/421. Authenticated by Al-Albani in Sahih An-Nasa'i 1/274",
+          "Abu Dawud no. 2041, graded as hasan by Al-Albani in Sahih Abi Dawud 1/383"
+        ]
+      },
+      "Difundiendo Salam (Saludos de Paz)": {
+        "text": [
+          "El Mensajero de Allah (la paz sea con él) dijo: 'No entraréis al Paraíso hasta que creáis, y no creeréis hasta que os améis unos a otros. ¿No os guiaré hacia algo que, si lo hacéis, os amaréis unos a otros? Difundid Salam entre vosotros.'",
+          "Tres cosas, quien las combina tiene fe combinada: justicia de uno mismo, ofrecer salam al mundo y gastar de lo poco.",
+          "Según la autoridad de 'Abdullah bin 'Umar (que Allah esté complacido con ellos): Un hombre le preguntó al Profeta (la paz sea con él): '¿Qué es lo mejor del Islam?' Él dijo: 'Para alimentar a los pobres y saludar con Salam a los que conoces y a los que no conoces'."
+        ],
+        "footnote": [
+          "Muslim 1/74 and others",
+          "Al-Bukhari with Fath 1/82 from 'Ammar (may Allah be pleased with him), as a mawquf, mu'allaq narration",
+          "Al-Bukhari with Fath 1/55 and Muslim 1/65"
+        ]
+      },
+      "Cómo devolver el salam a un incrédulo si saluda": {
+        "text": [
+          "Si la Gente del Libro te saluda, entonces di: 'Wa 'alaykum' (Y sobre ti)."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 11/42, and Muslim 4/1705"
+        ]
+      },
+      "Súplica por el canto del gallo y el rebuzno del asno": {
+        "text": [
+          "Cuando oyáis el canto de los gallos, pedid a Allah por Su generosidad, porque han visto un ángel. Y cuando oigáis el rebuzno de un asno, buscad refugio en Allah de Satanás, porque ha visto un demonio."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 6/350, and Muslim 4/2092"
+        ]
+      },
+      "Súplica por los ladridos de los perros por la noche": {
+        "text": [
+          "Cuando oyes el ladrido de los perros y el rebuzno de los asnos por la noche, busca refugio en Allah de ellos, porque ven lo que tú no ves."
+        ],
+        "footnote": [
+          "Abu Dawud 4/327 and Ahmad 3/306. Authenticated by Al-Albani in Sahih Abi Dawud 3/961"
+        ]
+      },
+      "Súplica por alguien a quien has maldecido": {
+        "text": [
+          "El Profeta (la paz sea con él) dijo: 'Oh Allah, cualquier creyente que haya maldecido, haz de ello un medio para acercarse a Ti en el Día de la Resurrección'."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 11/171 and Muslim 4/2007, whose wording is 'make it for him a purification and a mercy.'"
+        ]
+      },
+      "Lo que dice un musulmán cuando elogia a otro musulmán": {
+        "text": [
+          "El Profeta (la paz sea con él) dijo: 'Si uno de ustedes debe alabar a su compañero, que diga: 'Considero que fulano de tal es tal o cual, y Allah es su contador, y no santifico a nadie ante Allah'. Lo considero, si lo sabe, tal o cual cosa”."
+        ],
+        "footnote": [
+          "Narrated by Muslim 4/2296"
+        ]
+      },
+      "Lo que dice un musulmán cuando lo elogian": {
+        "text": [
+          "Oh Allah, no me hagas responsable de lo que dicen y perdóname por lo que no saben [y hazme mejor de lo que piensan]."
+        ],
+        "footnote": [
+          "Al-Bukhari in Al-Adab Al-Mufrad, no. 761. Al-Albani authenticated its chain in Sahih Al-Adab Al-Mufrad, no. 585. What is between the brackets is an addition by Al-Bayhaqi in Shu'ab Al-Iman 4/228 from another route."
+        ]
+      },
+      "Cómo dice la Talbiyah un peregrino en el Hayy o la 'Umrah": {
+        "text": [
+          "Labbyka Allahumma Labbyk, Labbyka fue limpiada. No hay forma de ir al walk-mulk, pero está limpio. (Aquí estoy, oh Allah, estoy. Aquí estoy, Iu tiene mi nombre. De hecho, el Hecho, Lroed, Gracia y soberanía para uno."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 3/408, and Muslim 2/841"
+        ]
+      },
+      "El Takbir al llegar a la Piedra Negra": {
+        "text": [
+          "El Profeta (la paz sea con él) circunvaló la Casa en camello. Cada vez que iba al Rincón, lo señalaba con algo que tenía y decía 'Allahu Akbar'."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 3/476. The 'something' refers to a crooked staff. See: Al-Bukhari with Fath 3/472"
+        ]
+      },
+      "Súplica entre el rincón yemení y la Piedra Negra": {
+        "text": [
+          "{Nuestro Señor, danos en este mundo [lo que es] bueno y en el Más Allá [lo que es] bueno y protégenos del castigo del Fuego.}"
+        ],
+        "footnote": [
+          "Abu Dawud 2/179, Ahmad 3/411, and Al-Baghawi in Sharh As-Sunnah 7/128. Graded as hasan by Al-Albani in Sahih Abi Dawud 1/354. The verse is from Surah Al-Baqarah, 201."
+        ]
+      },
+      "Súplica al permanecer en As-Safa y Al-Marwah": {
+        "text": [
+          "Cuando el Profeta (la paz sea con él) se acercó a As-Safa, recitó: {De hecho, As-Safa y Al-Marwah están entre los símbolos de Allah.} 'Empiezo con lo que Allah comenzó.' Entonces comenzó con As-Safa, subiéndolo hasta que pudo ver la Ka'bah. Se enfrentó a la Qiblah, declaró la Unicidad y la grandeza de Allah y dijo: 'No hay más dios que Allah, solo, sin compañero. A Él pertenece el dominio y a Él toda alabanza, y Él puede hacer todas las cosas. No hay más dios que Alá, solo. Cumplió su promesa, ayudó a su siervo y derrotó solo a los confederados.' Luego suplicó entre eso. Dijo esto tres veces. El hadiz continúa: \"Hizo en Al-Marwah lo mismo que había hecho en As-Safa\"."
+        ],
+        "footnote": [
+          "Muslim 2/888"
+        ]
+      },
+      "Súplica en el Día de 'Arafah": {
+        "text": [
+          "La mejor de las súplicas es la del Día de 'Arafah, y lo mejor que yo y los Profetas anteriores a mí hemos dicho es: 'No hay más dios que Alá, solo, sin compañero. A Él pertenece el dominio y a Él toda alabanza, y Él puede hacer todas las cosas.'"
+        ],
+        "footnote": [
+          "At-Tirmidhi, graded as hasan by Al-Albani in Sahih At-Tirmidhi 3/184, and in As-Silsilah As-Sahiha 4/6"
+        ]
+      },
+      "Recuerdo en Al-Mash'ar Al-Haram": {
+        "text": [
+          "El Profeta (la paz sea con él) montó en Al-Qaswa' hasta llegar a Al-Mash'ar Al-Haram. Se enfrentó a la Qiblah (le suplicó, dijo 'Allahu Akbar', 'La ilaha illallah' y declaró Su Unidad) y permaneció de pie hasta que se hizo muy brillante. Luego partió antes de que saliera el sol."
+        ],
+        "footnote": [
+          "Muslim 2/891"
+        ]
+      },
+      "Las Takbir al apedrear el Jamarat con cada guijarro": {
+        "text": [
+          "Dice 'Allahu Akbar' cada vez que arroja una piedra a los tres Jamarat. Luego avanza, se pone de pie y suplica frente a la Qiblah, levantando las manos después del primer y segundo Jamrah. En cuanto a Jamrat Al-'Aqabah, lo apedrea y dice 'Allahu Akbar' con cada piedra, luego se marcha sin pararse allí."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 3/583 and 3/584, see its wording there. And Al-Bukhari with Fath 3/581, also narrated by Muslim."
+        ]
+      },
+      "Qué decir ante el asombro o ante un asunto agradable": {
+        "text": [
+          "Subhanallah (Gloria a Allah)",
+          "Allahu Akbar (Alá es la más grande)"
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 1/210, 390, 414 and Muslim 4/1857",
+          "Al-Bukhari, Al-Fath 8/441. See Sahih At-Tirmidhi 2/103 and 2/235, and Musnad Ahmad 5/218"
+        ]
+      },
+      "Qué hacer cuando sucede algo agradable": {
+        "text": [
+          "Cuando algo agradable o delicioso le llegaba al Profeta (la paz sea con él), se postraba en agradecimiento a Allah, el Bendito y Exaltado."
+        ],
+        "footnote": [
+          "Narrated by the compilers of Sunan except An-Nasa'i. See Sahih Ibn Majah 1/233 and Irwa' al-Ghalil 2/226"
+        ]
+      },
+      "Qué decir al sentir dolor en el cuerpo": {
+        "text": [
+          "Coloque su mano en la parte de su cuerpo que le duele y diga: 'Bismillah' (En el nombre de Allah) tres veces. Y di siete veces: 'A'udhu billahi wa qudratihi min sharri ma ajidu wa uhadhir' (Busco refugio en Allah y Su poder del mal de lo que siento y de lo que temo)."
+        ],
+        "footnote": [
+          "Muslim 4/1728"
+        ]
+      },
+      "Súplica de quien teme afligir algo con el mal de ojo": {
+        "text": [
+          "Si alguno de vosotros ve algo de su hermano, o de sí mismo, o de sus riquezas que le agrada, [que ore pidiendo bendiciones por ello], porque el mal de ojo es real."
+        ],
+        "footnote": [
+          "Musnad Ahmad 4/447, Ibn Majah, and Malik. Authenticated by Al-Albani in Sahih Al-Jami' 1/212. See the verification of Zad Al-Ma'ad by Al-Arna'ut 4/170"
+        ]
+      },
+      "Qué decir cuando estás asustado": {
+        "text": [
+          "La ilaha illallah (No hay más dios que Alá)."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 6/181, and Muslim 4/2208"
+        ]
+      },
+      "Qué decir al sacrificar o sacrificar": {
+        "text": [
+          "Bismillah, Allahu Akbar. [Oh Allah, de Ti y para Ti.] Oh Allah, acéptame."
+        ],
+        "footnote": [
+          "Muslim 3/1557 y Al-Bayhaqi 9/287. Lo que está entre paréntesis es de Al-Bayhaqi 9/287 y otros. El significado de la última frase se transmite a partir de la narración de Muslim."
+        ]
+      },
+      "Qué decir para repeler el mal de un diablo rebelde": {
+        "text": [
+          "Busco refugio en las palabras perfectas de Allah, que ninguna persona justa o malvada puede transgredir, del mal de lo que Él ha creado, traído a la existencia y difundido, del mal de lo que desciende del cielo, del mal de lo que en él asciende, del mal de lo que se crea en la tierra, del mal de lo que sale de ella, del mal de las pruebas del día y la noche, y del mal de todo visitante, excepto el visitante que viene con el bien, oh Misericordioso."
+        ],
+        "footnote": [
+          "Ahmad 3/419 with an authentic chain, and Ibn As-Sunni no. 637. Al-Arna'ut authenticated its chain in his verification of At-Tahawiyyah, p. 133. See Majma' Az-Zawa'id 10/127."
+        ]
+      },
+      "Buscando el perdón y el arrepentimiento": {
+        "text": [
+          "El Mensajero de Allah (la paz sea con él) dijo: 'Por Allah, busco el perdón de Allah y me arrepiento ante Él más de setenta veces al día'.",
+          "Y él (la paz sea con él) dijo: 'Oh gente, arrepentíos ante Allah, porque yo me arrepiento ante Él cien veces al día'.",
+          "Y él (la paz sea con él) dijo: 'Quien diga: 'Busco el perdón de Allah el Grande, fuera de quien no hay más dios, el Eterno, el Autosuficiente, y me arrepiento ante Él', Allah lo perdonará, incluso si ha huido del campo de batalla.'",
+          "Y él (la paz sea con él) dijo: 'Lo más cerca que está el Señor de un siervo es en la última parte de la noche, así que si puedes estar entre los que recuerdan a Allah a esa hora, entonces hazlo'.",
+          "Y él (la paz sea con él) dijo: 'Lo más cerca que está un siervo de su Señor es cuando está postrado, así que aumenten sus súplicas'.",
+          "Y él (la paz sea con él) dijo: 'En verdad, a veces hay una cubierta sobre mi corazón, y busco el perdón de Allah cien veces al día'."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 11/101",
+          "Muslim 4/2076",
+          "Reported by Abu Dawud 2/85, At-Tirmidhi 5/569, and Al-Hakim who authenticated it and Adh-Dhahabi agreed 1/511. Authenticated by Al-Albani. See Sahih At-Tirmidhi 3/182 and Jami' Al-Usul li-Ahadith Ar-Rasul (peace be upon him) 4/389-390 with the verification of Al-Arna'ut.",
+          "Reported by At-Tirmidhi, An-Nasa'i 1/279, and Al-Hakim. See Sahih At-Tirmidhi 3/183 and Jami' Al-Usul with the verification of Al-Arna'ut 4/144.",
+          "Muslim 1/350",
+          "Informado por Muslim el 4/2075. Ibn Al-Athir dijo: '(Una cubierta sobre mi corazón)' significa que está cubierto o velado. Lo que se quiere decir es olvido; porque él (la paz sea con él) siempre estaba en un estado de creciente recuerdo, cercanía y constante vigilancia, de modo que si a veces olvidaba algo o era olvidadizo, lo contaba como un pecado sobre sí mismo y se apresuraba a buscar el perdón. Véase Jami' Al-Usul 4/386."
+        ]
+      },
+      "The Virtue of Tasbih, Tahmid, Tahlil, and Takbir": {
+        "text": [
+          "El Profeta (la paz sea con él) dijo: \"Quien diga 'Subhanallahi wa bihamdihi' (Gloria a Allah y alabado sea) cien veces al día, sus pecados serán borrados, incluso si son como la espuma del mar\".",
+          "Y él (la paz sea con él) dijo: 'Quien diga 'La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu, wa huwa 'ala kulli shay'in qadir' (No hay más dios que Alá, solo, sin compañero. A Él pertenece el dominio y a Él es toda alabanza, y Él es capaz de hacer todas las cosas) diez veces, será como si hubiera liberado a cuatro almas de los descendientes de Ismael.'",
+          "Y él (la paz sea con él) dijo: 'Dos palabras que son ligeras en la lengua, pesadas en la balanza y amadas por el Más Misericordioso: 'Subhanallahi wa bihamdihi, Subhanallahil-'Azim' (Gloria a Allah y alabado sea Él, Gloria a Allah el Grande)'.",
+          "Y él (la paz sea con él) dijo: 'Para mí, decir 'Subhanallah, walhamdulillah, wa la ilaha illallah, wallahu akbar' (Gloria a Allah y alabado sea Allah, y no hay más dios que Allah, y Allah es el más grande) es más amado para mí que todo aquello sobre lo que ha salido el sol.'",
+          "Y él (la paz sea con él) dijo: '¿Es alguno de vosotros incapaz de hacer mil buenas obras cada día?' Uno de sus compañeros preguntó: '¿Cómo puede uno de nosotros ganar mil buenas obras?' Él dijo: 'Él dice 'Subhanallah' cien veces, y se escribirán para él mil buenas obras, o se borrarán mil pecados de él'.",
+          "A quien diga 'Subhanallahil-'Azim wa bihamdihi' (Gloria a Allah el Grande y alabado sea Él), se le plantará una palmera en el Paraíso.",
+          "Y él (la paz sea con él) dijo: 'Oh 'Abdullah bin Qais, ¿no te guiaré a un tesoro de los tesoros del Paraíso?' Dije: 'Sí, Oh Mensajero de Allah'. Él dijo: 'Di 'La hawla wa la quwwata illa billah' (No hay fuerza ni poder excepto en Allah)'.",
+          "Y él (la paz sea con él) dijo: 'Las palabras más amadas por Allah son cuatro: 'Subhanallah, walhamdulillah, wa la ilaha illallah, wallahu akbar'. No importa con cuál de ellos empieces.'",
+          "Un beduino se acercó al Mensajero de Allah (la paz sea con él) y le dijo: 'Enséñame algunas palabras para decir'. Él dijo: 'Di: 'La ilaha illallahu wahdahu la sharika lah, Allahu Akbaru kabira, walhamdulillahi kathira, Subhanallahi Rabbil-'alamin, la hawla wa la quwwata illa billahil-'Azizil-Hakim' (No hay más dios que Allah, solo, sin compañero. Allah es el más grande, inmensamente. Y toda alabanza se debe a Allah, abundantemente. Gloria a Allah, Señor de los mundos. No hay fuerza ni poder excepto en Allah, el Poderoso, el Sabio).' Él dijo: 'Estos son para mi Señor, pero ¿qué es para mí?' Él dijo: 'Di: 'Allahummaghfir li, warhamni, wahdini, warzuqni' (Oh Allah, perdóname, ten piedad de mí, guíame y provee para mí)'.",
+          "Cuando un hombre abrazaba el Islam, el Profeta (la paz sea con él) le enseñaba la oración y luego le ordenaba suplicar con estas palabras: 'Allahummaghfir li, warhamni, wahdini, wa 'afini, warzuqni' (Oh Allah, perdóname, ten piedad de mí, guíame, concédeme bienestar y provee para mí)'.",
+          "De hecho, el mejor recuerdo es 'La ilaha illallah'.",
+          "Las buenas acciones finales son: 'Subhanallah, walhamdulillah, wa la ilaha illallah, wallahu akbar, wa la hawla wa la quwwata illa billah'."
+        ],
+        "footnote": [
+          "Al-Bukhari 7/168 and Muslim 4/2071. See: the virtue of one who says it one hundred times in the morning and evening.",
+          "Al-Bukhari 7/67 and Muslim with his wording 4/2071. See the virtue of one who says it one hundred times a day.",
+          "Al-Bukhari 7/167 and Muslim 4/2072",
+          "Muslim 4/2072",
+          "Muslim 4/2073",
+          "Reported by At-Tirmidhi 5/511 and Al-Hakim 1/501, who authenticated it and Adh-Dhahabi agreed. See Sahih Al-Jami' 5/531 and Sahih At-Tirmidhi 3/160.",
+          "Al-Bukhari with Fath 11/213 and Muslim 4/2076",
+          "Muslim 3/1685",
+          "Muslim 4/2072. Abu Dawud added: 'When the Bedouin turned to leave, the Prophet (peace be upon him) said: 'He has filled his hands with goodness.'' 1/220",
+          "Musulmán 4/2073. En una narración de Muslim: \"Porque estos recogerán para vosotros vuestra vida mundana y vuestro Más Allá\".",
+          "At-Tirmidhi 5/462, Ibn Majah 2/1249, and Al-Hakim 1/503, who authenticated it and Adh-Dhahabi agreed. See Sahih Al-Jami' 1/362.",
+          "Ahmad, no. 513, arranged by Ahmad Shakir, and its chain is authentic. See Majma' Az-Zawa'id 1/297. Ibn Hajar attributed it in Bulugh Al-Maram from the narration of Abu Sa'id to An-Nasa'i and said: 'Ibn Hibban and Al-Hakim authenticated it.'"
+        ]
+      },
+      "How Did the Prophet (peace be upon him) Make Tasbih?": {
+        "text": [
+          "De 'Abdullah bin 'Amr (que Allah esté complacido con ellos), quien dijo: 'Vi al Profeta (la paz sea con él) contando el Tasbih en su mano derecha'."
+        ],
+        "footnote": [
+          "Reported by Abu Dawud with his wording 2/81 and At-Tirmidhi 5/521. See Sahih Al-Jami' 4/271, no. 4865."
+        ]
+      },
+      "Varias buenas acciones y modales integrales": {
+        "text": [
+          "Cuando las alas de la noche se extiendan – o cuando llegue la tarde – mantén a tus hijos dentro, porque los demonios se desplegarán en ese momento. Luego, cuando haya pasado una hora de la noche, déjalos ir. Y cierra las puertas y menciona el nombre de Allah, porque Satanás no abre una puerta cerrada. Y atad vuestros odres de agua y mencionad el nombre de Allah, y tapad vuestros vasos y mencionad el nombre de Allah, aunque sólo pongáis algo encima, y ​​apagad vuestras lámparas."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 10/88 and Muslim 3/1595"
+        ]
+      }
+    }
+  }
+}

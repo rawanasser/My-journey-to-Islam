@@ -1,0 +1,1636 @@
+{
+  "COMMON_LOADING": "Naglo-load...",
+  "COMMON_BACK": "Bumalik",
+  "COMMON_CONTINUE": "Magpatuloy",
+  "COMMON_SUCCESS": "Tagumpay",
+  "COMMON_ERROR": "Error",
+  "COMMON_FEATURE_COMING_SOON": "Malapit na ang feature.",
+  "COMMON_SAVE": "I-save ang Mga Setting",
+  "WELCOME_TEXT": "Kumusta kapatid kong Muslim, maligayang pagdating! ✨ Magsimula tayo ng makabuluhang paglalakbay nang sama-sama upang tuklasin ang mga pangunahing kaalaman ng Islam sa simple at nagbibigay-inspirasyong paraan. Nawa'y liwanagan ng paglalakbay na ito ang iyong landas.",
+  "WHAT_IS_ISLAM_TEXT": "Ang Islam ay isang monoteistikong relihiyon na nagtuturo na iisa lamang ang Diyos (Allah) at si Muhammad ay Kanyang mensahero.",
+  "ISLAM_PILLARS_DESC": "Ang Islam ay batay sa limang haligi: ang dalawang patotoo ng pananampalataya, pagdarasal, zakat, pag-aayuno, at Hajj.",
+  "SHAHADA_TEXT": "Una: Ang dalawang patotoo ay: \"Ako ay sumasaksi na walang diyos maliban sa Allah, at ako ay sumasaksi na si Muhammad ay Sugo ng Diyos.\"",
+  "PRAYER_NAME_FAJR": "Fajr (Bukang-liwayway)",
+  "PRAYER_NAME_DHUHR": "Dhuhr (Tanghali)",
+  "PRAYER_NAME_ASR": "Asr (Hapon)",
+  "PRAYER_NAME_MAGHRIB": "Maghrib (Takipsilim)",
+  "PRAYER_NAME_ISHA": "Isha (Gabi)",
+  "PRAYER_NAME_IMSAK": "Imsak (Pag-aayuno)",
+  "PRAYER_NAME_DHUHA": "Dhuha (Umaga)",
+  "PRAYER_TITLE": "Pangalawa: Ang Panalangin",
+  "PRAYER_INTRO": "Sa Islam, ang pagdarasal (Salah) ay isang pagsamba na ginagawa ng limang beses sa isang araw sa mga tiyak na oras. Ang mga panalanging ito ay:",
+  "PRAYER_FAJR_DESC": "Fajr (Dawn Prayer): Isinasagawa bago sumikat ang araw at binubuo ng 2 Rak'ahs (units).",
+  "PRAYER_DHUHR_DESC": "Dhuhr (Pagdarasal sa Tanghali): Isinasagawa pagkatapos na ang araw ay lumampas sa kaitaasan nito at binubuo ng 4 na Rak'ah.",
+  "PRAYER_ASR_DESC": "Asr (Pagdarasal sa Hapon): Isinasagawa sa hapon bago lumubog ang araw at binubuo ng 4 na Rak'ah.",
+  "PRAYER_MAGHRIB_DESC": "Maghrib (Sunset Prayer): Isinasagawa pagkatapos ng paglubog ng araw at binubuo ng 3 Rak'ahs.",
+  "PRAYER_ISHA_DESC": "Isha (Panalangin sa Gabi): Isinasagawa pagkatapos mawala ang takipsilim at binubuo ng 4 na Rak'ah.",
+  "ZAKAT_TEXT": "Pangatlo, ang Zakat Zakat ay pagtulong sa mga nangangailangan. Ang mga Muslim ay kinakailangang magbigay ng porsyento ng kanilang kayamanan.",
+  "FASTING_TEXT": "Ikaapat, pag-aayuno Ang pag-aayuno ay nangangahulugan ng pag-iwas sa pagkain at inumin mula madaling araw hanggang sa paglubog ng araw sa buwan ng Ramadan.",
+  "HAJJ_TEXT": "Ang Fifth Hajj Hajj ay isang obligasyon para sa bawat may kakayahang Muslim minsan sa isang buhay. Tuklasin ang iba't ibang mga ritwal.",
+  "START_JOURNEY": "Simulan natin ang ating paglalakbay upang mas maunawaan ang Islam.",
+  "HOME_NEXT_PRAYER_IN": "sa",
+  "HOME_PERMISSION_DENIED": "Tinanggihan ang Pahintulot",
+  "HOME_DEFAULT_LOCATION": "Default na lokasyon: Mecca",
+  "HOME_YOUR_LOCATION": "Ang iyong lokasyon:",
+  "HOME_LOADING_PRAYERS": "Nilo-load ang mga oras ng panalangin...",
+  "HOME_NO_PRAYERS": "Walang nakitang oras ng panalangin.",
+  "HOME_CHECK_CONNECTION": "Pakisuri ang iyong koneksyon sa internet at mga pahintulot sa lokasyon.",
+  "HOME_NOTIFICATION_TITLE": "Oras na ngayon para sa panalangin ni %{name}.",
+  "HOME_NOTIFICATION_BODY": "Si Allah ang pinakadakila",
+  "HOME_NOTIFICATION_CHANNEL": "Mga Paalala sa Panalangin",
+  "HOME_PRAYER_NO_UPCOMING": "Walang paparating na mga panalangin",
+  "HIJRI_AH": "AH",
+  "HIJRI_MONTH_1": "Muharram",
+  "HIJRI_MONTH_2": "Safar",
+  "HIJRI_MONTH_3": "Rabi al-Awwal",
+  "HIJRI_MONTH_4": "Rabi al-Thani",
+  "HIJRI_MONTH_5": "Jumada al-Awwal",
+  "HIJRI_MONTH_6": "Jumada al-Thani",
+  "HIJRI_MONTH_7": "Rajab",
+  "HIJRI_MONTH_8": "Shaaban",
+  "HIJRI_MONTH_9": "Ramadan",
+  "HIJRI_MONTH_10": "Shawwal",
+  "HIJRI_MONTH_11": "Dhu al-Qidah",
+  "HIJRI_MONTH_12": "Dhu al-Hijjah",
+  "QUOTE_0": "Katotohanan, si Allah ay kasama ng mga matiyaga. (Quran 2:153)",
+  "QUOTE_1": "At natagpuan ka Niya na naliligaw at ginabayan [ka]. (Quran 93:7)",
+  "QUOTE_2": "Kaya totoo, sa hirap, may ginhawa. (Quran 94:6)",
+  "QUOTE_3": "Ang pinakamabuti sa inyo ay yaong may pinakamabuting asal at ugali. (Propeta Muhammad ﷺ)",
+  "QUOTE_4": "Huwag mawalan ng pag-asa, o malungkot. (Quran 3:139)",
+  "QUOTE_5": "Sinuman ang naglagay ng kanilang pagtitiwala kay Allah, Siya ay magiging sapat para sa kanila. (Quran 65:3)",
+  "QUOTE_6": "Ang Allah ay hindi nagpapabigat sa isang kaluluwa na higit pa sa kanyang makakaya. (Quran 2:286)",
+  "FOOTER_LIBRARY": "Aklatan",
+  "FOOTER_LEARN": "Matuto",
+  "FOOTER_QURAN": "Quran",
+  "FOOTER_ADHAKAR": "Aking Adhkar",
+  "FOOTER_QIBLA": "Qibla",
+  "QURAN_TITLE": "Ang Banal na Quran",
+  "QURAN_LOAD_FAILED": "Nabigong i-load ang mga Surah. Pakisuri ang iyong koneksyon.",
+  "SURAH_LOAD_FAILED": "Nabigong i-load ang mga detalye ng Surah. Pakisuri ang iyong koneksyon.",
+  "SURAH_NO_DATA": "Walang nakitang mga detalye",
+  "SURAH_BOOKMARKED": "Na-bookmark si Ayah!",
+  "SURAH_TAFSIR_TITLE": "Tafsir",
+  "SURAH_NOTES_TITLE": "Mga Tala",
+  "SURAH_JUZ": "na",
+  "ADHAKAR_LOAD_FAILED": "Nabigong i-load ang Adhkar.",
+  "ADHAKAR_TITLE_NOT_FOUND": "Hindi nahanap ang pamagat",
+  "ADHAKAR_DETAILS_ERROR": "Nagkaroon ng error sa paglo-load ng mga detalye ng Adhkar.",
+  "ADHAKAR_REPEAT": "Ulitin",
+  "ADHAKAR_TIMES": "beses",
+  "QIBLA_TITLE": "Direksyon ng Qibla",
+  "QIBLA_INSTRUCTION": "Ihanay ang arrow upang mahanap ang Qibla",
+  "SETTINGS_TITLE": "Mga setting",
+  "SETTINGS_LANGUAGE": "Wika",
+  "SETTINGS_APP_LANGUAGE": "Wika ng App",
+  "SETTINGS_SELECT_LANGUAGE": "Piliin ang Wika",
+  "SETTINGS_NOTIFICATIONS": "Mga abiso",
+  "LIBRARY_TITLE": "Islamic Library",
+  "LIBRARY_WEBVIEW_TITLE": "Islamic House",
+  "BOOK_1_TITLE": "Ang Selyadong Nectar",
+  "BOOK_1_AUTHOR": "Safiur Rahman Al-Mubarakpuri",
+  "BOOK_2_TITLE": "Riyad as-Salihin",
+  "BOOK_2_AUTHOR": "Imam an-Nawawi",
+  "BOOK_3_TITLE": "Apatnapung Hadith",
+  "BOOK_3_AUTHOR": "Imam an-Nawawi",
+  "LESSONS_TITLE": "Mga Aralin sa Video",
+  "LESSONS_PREFIX": "Aral",
+  "LESSONS_DEFAULT_TEXT": "Sa araling ito, tutuklasin natin ang mahahalagang aspeto ng pag-unawa at pagsasabuhay ng Islam sa isang simple, hakbang-hakbang na paraan. Mangyaring panoorin ang video sa itaas para sa mga detalye.",
+  "ERROR_BOUNDARY_TITLE": "Oops! Nagkaproblema",
+  "ERROR_BOUNDARY_MESSAGE": "Nakatagpo ang app ng hindi inaasahang error. Pakisubukang muli.",
+  "ERROR_BOUNDARY_TRY_AGAIN": "Subukan Muli",
+  "SELECT_LANGUAGE": "Piliin ang Iyong Wika",
+  "SELECT_LANGUAGE_SUBTITLE": "Piliin ang iyong wika",
+  "SURAH_1_NAME_EN": "Al-Fatiha",
+  "SURAH_2_NAME_EN": "Al-Baqarah",
+  "SURAH_3_NAME_EN": "Aal-E-Imran",
+  "SURAH_4_NAME_EN": "An-Nisa",
+  "SURAH_5_NAME_EN": "Al-Ma’idah",
+  "SURAH_6_NAME_EN": "Al-An’am",
+  "SURAH_7_NAME_EN": "Al-A’raf",
+  "SURAH_8_NAME_EN": "Al-Anfal",
+  "SURAH_9_NAME_EN": "At-Tawbah",
+  "SURAH_10_NAME_EN": "Yunus",
+  "SURAH_11_NAME_EN": "Hud",
+  "SURAH_12_NAME_EN": "Yusuf",
+  "SURAH_13_NAME_EN": "Ar-Ra’d",
+  "SURAH_14_NAME_EN": "Ibrahim",
+  "SURAH_15_NAME_EN": "Al-Hijr",
+  "SURAH_16_NAME_EN": "An-Nahl",
+  "SURAH_17_NAME_EN": "Al-Isra",
+  "SURAH_18_NAME_EN": "Al-Kahf",
+  "SURAH_19_NAME_EN": "Maryam",
+  "SURAH_20_NAME_EN": "Taha",
+  "SURAH_21_NAME_EN": "Al-Anbiya",
+  "SURAH_22_NAME_EN": "Al-Hajj",
+  "SURAH_23_NAME_EN": "Al-Mu’minun",
+  "SURAH_24_NAME_EN": "An-Nur",
+  "SURAH_25_NAME_EN": "Al-Furqan",
+  "SURAH_26_NAME_EN": "Ash-Shu’ara",
+  "SURAH_27_NAME_EN": "An-Naml",
+  "SURAH_28_NAME_EN": "Al-Qasas",
+  "SURAH_29_NAME_EN": "Al-‘Ankabut",
+  "SURAH_30_NAME_EN": "Ar-Rum",
+  "SURAH_31_NAME_EN": "Luqman",
+  "SURAH_32_NAME_EN": "As-Sajda",
+  "SURAH_33_NAME_EN": "Al-Ahzab",
+  "SURAH_34_NAME_EN": "Saba",
+  "SURAH_35_NAME_EN": "Fatir",
+  "SURAH_36_NAME_EN": "Ya-Sin",
+  "SURAH_37_NAME_EN": "As-Saffat",
+  "SURAH_38_NAME_EN": "Sad",
+  "SURAH_39_NAME_EN": "Az-Zumar",
+  "SURAH_40_NAME_EN": "Ghafir",
+  "SURAH_41_NAME_EN": "Fussilat",
+  "SURAH_42_NAME_EN": "Ash-Shura",
+  "SURAH_43_NAME_EN": "Az-Zukhruf",
+  "SURAH_44_NAME_EN": "Ad-Dukhan",
+  "SURAH_45_NAME_EN": "Al-Jathiya",
+  "SURAH_46_NAME_EN": "Al-Ahqaf",
+  "SURAH_47_NAME_EN": "Muhammad",
+  "SURAH_48_NAME_EN": "Al-Fath",
+  "SURAH_49_NAME_EN": "Al-Hujurat",
+  "SURAH_50_NAME_EN": "Qaf",
+  "SURAH_51_NAME_EN": "Adh-Dhariyat",
+  "SURAH_52_NAME_EN": "At-Tur",
+  "SURAH_53_NAME_EN": "An-Najm",
+  "SURAH_54_NAME_EN": "Al-Qamar",
+  "SURAH_55_NAME_EN": "Ar-Rahman",
+  "SURAH_56_NAME_EN": "Al-Waqi’a",
+  "SURAH_57_NAME_EN": "Al-Hadid",
+  "SURAH_58_NAME_EN": "Al-Mujadila",
+  "SURAH_59_NAME_EN": "Al-Hashr",
+  "SURAH_60_NAME_EN": "Al-Mumtahina",
+  "SURAH_61_NAME_EN": "As-Saff",
+  "SURAH_62_NAME_EN": "Al-Jumu’a",
+  "SURAH_63_NAME_EN": "Al-Munafiqun",
+  "SURAH_64_NAME_EN": "At-Taghabun",
+  "SURAH_65_NAME_EN": "At-Talaq",
+  "SURAH_66_NAME_EN": "At-Tahrim",
+  "SURAH_67_NAME_EN": "Al-Mulk",
+  "SURAH_68_NAME_EN": "Al-Qalam",
+  "SURAH_69_NAME_EN": "Al-Haqqa",
+  "SURAH_70_NAME_EN": "Al-Ma’arij",
+  "SURAH_71_NAME_EN": "Nuh",
+  "SURAH_72_NAME_EN": "Al-Jinn",
+  "SURAH_73_NAME_EN": "Al-Muzzammil",
+  "SURAH_74_NAME_EN": "Al-Muddaththir",
+  "SURAH_75_NAME_EN": "Al-Qiyama",
+  "SURAH_76_NAME_EN": "Al-Insan",
+  "SURAH_77_NAME_EN": "Al-Mursalat",
+  "SURAH_78_NAME_EN": "An-Naba",
+  "SURAH_79_NAME_EN": "An-Nazi’at",
+  "SURAH_80_NAME_EN": "Abasa",
+  "SURAH_81_NAME_EN": "At-Takwir",
+  "SURAH_82_NAME_EN": "Al-Infitar",
+  "SURAH_83_NAME_EN": "Al-Mutaffifin",
+  "SURAH_84_NAME_EN": "Al-Inshiqaq",
+  "SURAH_85_NAME_EN": "Al-Buruj",
+  "SURAH_86_NAME_EN": "At-Tariq",
+  "SURAH_87_NAME_EN": "Al-A’la",
+  "SURAH_88_NAME_EN": "Al-Ghashiya",
+  "SURAH_89_NAME_EN": "Al-Fajr",
+  "SURAH_90_NAME_EN": "Al-Balad",
+  "SURAH_91_NAME_EN": "Ash-Shams",
+  "SURAH_92_NAME_EN": "Al-Lail",
+  "SURAH_93_NAME_EN": "Ad-Duha",
+  "SURAH_94_NAME_EN": "Ash-Sharh",
+  "SURAH_95_NAME_EN": "At-Tin",
+  "SURAH_96_NAME_EN": "Al-Alaq",
+  "SURAH_97_NAME_EN": "Al-Qadr",
+  "SURAH_98_NAME_EN": "Al-Bayyina",
+  "SURAH_99_NAME_EN": "Az-Zalzalah",
+  "SURAH_100_NAME_EN": "Al-Adiyat",
+  "SURAH_101_NAME_EN": "Al-Qari’a",
+  "SURAH_102_NAME_EN": "At-Takathur",
+  "SURAH_103_NAME_EN": "Al-‘Asr",
+  "SURAH_104_NAME_EN": "Al-Humazah",
+  "SURAH_105_NAME_EN": "Al-Fil",
+  "SURAH_106_NAME_EN": "Quraish",
+  "SURAH_107_NAME_EN": "Al-Ma’un",
+  "SURAH_108_NAME_EN": "Al-Kawthar",
+  "SURAH_109_NAME_EN": "Al-Kafirun",
+  "SURAH_110_NAME_EN": "An-Nasr",
+  "SURAH_111_NAME_EN": "Al-Masad",
+  "SURAH_112_NAME_EN": "Al-Ikhlas",
+  "SURAH_113_NAME_EN": "Al-Falaq",
+  "SURAH_114_NAME_EN": "An-Nas",
+  "hisnAlMuslim": {
+    "Panimula": {
+      "text": [
+        "Sa ngalan ng Allah, ang Pinakamaawain, ang Pinakamaawain",
+        "Indeed, all praise is due to Allah. We praise Him, seek His help, and ask for His forgiveness. We seek refuge in Allah from the evils of our own selves and from our sinful deeds. Whomever Allah guides, none can misguide, and whomever He misguides, none can guide. I bear witness that there is no deity worthy of worship except Allah, alone without any partner, and I bear witness that Muhammad is His servant and His Messenger, may Allah's peace and blessings be upon him, his family, his companions, and those who follow them in righteousness until the Day of Judgment, with abundant peace. As for what follows:",
+        "Ito ay isang buod na kinuha ko mula sa aking aklat na 'Dhikr, Dua, at Paggamot sa Ruqyah mula sa Quran at Sunnah.' Binuod ko ang seksyon sa mga pagsusumamo (dhikr) upang maging magaan itong dalhin habang naglalakbay.",
+        "Nilimitahan ko ito sa teksto ng pagsusumamo at nasiyahan sa aking sarili sa pagbanggit ng isa o dalawang mapagkukunan mula sa orihinal na teksto para sa pagpapatunay nito. Ang sinumang gustong malaman ang kasamang nagsalaysay nito o nais ng karagdagang detalye sa pagpapatunay nito ay dapat sumangguni sa orihinal na pinagmulan.",
+        "Hinihiling ko sa Allah, ang Makapangyarihan at Maharlika, sa pamamagitan ng Kanyang magagandang pangalan at matayog na katangian, na gawin itong gawaing para lamang sa Kanyang marangal na mukha, na pakinabangan ako nito sa aking buhay at pagkatapos ng aking kamatayan, at pakinabangan ang sinumang magbasa nito, maglimbag nito, o maging dahilan ng pagpapalaganap nito. Katotohanan, Siya ang Tagapangalaga at ang Isa na may kakayahang gawin ito. Ang kapayapaan at pagpapala ng Allah ay mapasa ating Propeta Muhammad, sa kanyang pamilya, sa kanyang mga kasamahan, at sa mga sumusunod sa kanila sa kabutihan hanggang sa Araw ng Paghuhukom."
+      ],
+      "footnote": [
+        "Written in the month of Safar, 1409 AH",
+        "Author: Sa'id bin Ali bin Wahf Al-Qahtani"
+      ]
+    },
+    "Ang Kabutihan ng Pag-alaala (Dhikr)": {
+      "text": [
+        "Allah the Almighty says: {Therefore remember Me, I will remember you, and be grateful to Me and do not deny Me.}",
+        "{O kayong mga naniwala, alalahanin ninyo si Allah nang may maraming pag-alaala.}",
+        "{At ang mga lalaki na madalas na nag-aalaala kay Allah at ang mga babaeng nakaaalaala - para sa kanila ang Allah ay naghanda ng kapatawaran at isang malaking gantimpala.}",
+        "{At alalahanin ang iyong Panginoon sa iyong sarili sa pagpapakumbaba at sa takot nang hindi malakas sa pananalita - sa umaga at sa gabi. At huwag maging kabilang sa mga pabaya.}",
+        "The Prophet (peace be upon him) said: 'The likeness of the one who remembers his Lord and the one who does not remember his Lord is that of the living and the dead.'",
+        "The Prophet (peace be upon him) said: 'Shall I not inform you of the best of your deeds, the purest of them with your King, the highest of them in your ranks, better for you than spending gold and silver, and better for you than meeting your enemy and striking their necks and they striking yours?' They said, 'Yes.' He said, 'The remembrance of Allah the Almighty.'",
+        "The Prophet (peace be upon him) said: 'Allah the Almighty says: I am as My servant thinks I am. I am with him when he makes mention of Me. If he makes mention of Me to himself, I make mention of him to Myself; and if he makes mention of Me in an assembly, I make mention of him in an assembly better than it. And if he draws near to Me a hand’s span, I draw near to him an arm’s length; and if he draws near to Me an arm’s length, I draw near to him a fathom’s length. And if he comes to Me walking, I go to him at speed.'",
+        "On the authority of Abdullah bin Busr (may Allah be pleased with him), a man said: 'O Messenger of Allah, the laws of Islam have become many for me, so tell me something I can cling to.' The Prophet (peace be upon him) said: 'Let your tongue remain moist with the remembrance of Allah.'",
+        "The Prophet (peace be upon him) said: 'Whoever recites a letter from the Book of Allah, he will be credited with a good deed, and a good deed gets a tenfold reward. I do not say that Alif-Lam-Mim is one letter, but Alif is a letter, Lam is a letter, and Mim is a letter.'",
+        "On the authority of 'Uqbah bin 'Amir (may Allah be pleased with him), he said: 'The Messenger of Allah (peace be upon him) came out while we were in the Suffah and said: 'Which of you would like to go out every morning to Buthan or to al-'Aqiq and bring from there two large-humped she-camels without committing any sin or severing any ties of kinship?' We said: 'O Messenger of Allah, we would love that.' He said: 'Then would not one of you go to the mosque and learn or recite two verses from the Book of Allah, the Mighty and Majestic? That is better for him than two she-camels, and three are better for him than three, and four are better for him than four, and so on for their number in camels.'",
+        "The Prophet (peace be upon him) said: 'Whoever sits in a gathering in which he does not remember Allah, it will be a cause of regret for him from Allah. And whoever lies down in a place where he does not remember Allah, it will be a cause of regret for him from Allah.'",
+        "The Prophet (peace be upon him) said: 'No people sit in a gathering in which they do not remember Allah, nor send blessings upon their Prophet, but it will be a cause of regret for them. If He wills, He will punish them, and if He wills, He will forgive them.'",
+        "The Prophet (peace be upon him) said: 'No people rise from a gathering in which they did not remember Allah, but they rise from what is like the carcass of a donkey, and it will be a cause of grief for them.'"
+      ],
+      "footnote": [
+        "Surah Al-Baqarah, Verse: 152",
+        "Surah Al-Ahzab, Verse: 41",
+        "Surah Al-Ahzab, Verse: 35",
+        "Surah Al-A'raf, Verse: 205",
+        "Al-Bukhari with Fath 11/208 and Muslim with the wording 'The likeness of the house in which Allah is remembered and the house in which Allah is not remembered is that of the living and the dead' 1/539",
+        "At-Tirmidhi 5/459 and Ibn Majah 2/1245. See Sahih Ibn Majah 2/316 and Sahih At-Tirmidhi 3/139",
+        "Al-Bukhari 8/171 and Muslim 4/2061, the wording is from Al-Bukhari",
+        "At-Tirmidhi 5/458 and Ibn Majah 2/1246. See Sahih At-Tirmidhi 3/139 and Sahih Ibn Majah 2/317",
+        "At-Tirmidhi 5/175. See Sahih At-Tirmidhi 3/9 and Sahih Al-Jami' As-Saghir 5/340",
+        "Muslim 1/553",
+        "Abu Dawud 4/264 and others. See Sahih Al-Jami' 5/342",
+        "At-Tirmidhi. See Sahih At-Tirmidhi 3/140",
+        "Abu Dawud 4/264. See Sahih Al-Jami' 5/176"
+      ]
+    },
+    "Mga Panalangin para sa Paggising": {
+      "text": [
+        "All praise is for Allah who gave us life after having taken it from us* and unto Him is the resurrection*.",
+        "Ang lahat ng papuri ay para sa Allah na nagbigay sa akin ng kalusugan sa aking katawan at ibinalik ang aking kaluluwa sa akin, at pinahintulutan akong alalahanin Siya.",
+        "The Messenger of Allah (peace be upon him) said: 'Whoever wakes up during the night* and says upon waking: 'La ilaha illallah wahdahu la sharika lah, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadir. Subhanallah, walhamdulillah, wa la ilaha illallah, wallahu akbar, wa la hawla wa la quwwata illa billahil-'aliyyil-'azim' (There is no god but Allah, alone, with no partner. To Him belongs the dominion and to Him is all praise, and He is able to do all things. Glory be to Allah, and all praise is for Allah, and there is no god but Allah, and Allah is the greatest, and there is no might nor power except with Allah, the Most High, the Most Great), then supplicates: 'Allahummaghfir li' (O Allah, forgive me), he will be forgiven.' Al-Walid said: 'Or he said: 'If he supplicates, he will be answered. If he then stands, performs ablution, and then prays, his prayer will be accepted.'",
+        "{Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding. *Who remember Allah while standing or sitting or [lying] on their sides and give thought to the creation of the heavens and the earth, [saying], 'Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire. *Our Lord, indeed whoever You admit to the Fire - You have disgraced him, and for the wrongdoers there are no helpers. *Our Lord, indeed we have heard a caller calling to faith, [saying], 'Believe in your Lord,' and we have believed. Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die with the righteous. *Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise. *And their Lord responded to them, 'Never will I allow to be lost the work of [any] worker among you, whether male or female; you are of one another. So those who emigrated or were evicted from their homes or were harmed in My cause or fought or were killed - I will surely remove from them their misdeeds, and I will surely admit them to gardens beneath which rivers flow as reward from Allah, and Allah has with Him the best of reward.' *Be not deceived by the [uninhibited] movement of the disbelievers throughout the land. *[It is but] a small enjoyment; then their [final] refuge is Hell, and wretched is the resting place. *But those who feared their Lord will have gardens beneath which rivers flow, abiding eternally therein, as accommodation from Allah. And that which is with Allah is best for the righteous. *And indeed, among the People of the Scripture are those who believe in Allah and what was revealed to you and what was revealed to them, [being] humbly submissive to Allah. They do not exchange the verses of Allah for a small price. Those will have their reward with their Lord. Indeed, Allah is swift in account. *O you who have believed, persevere and endure and remain stationed and fear Allah that you may be successful.}'"
+      ],
+      "footnote": [
+        "* i.e., metaphorical death, which is sleep. It is said sleep is the light death.",
+        "* The revival after death (the Resurrection).",
+        "Al-Bukhari with Fath 11/113 and Muslim 4/2083",
+        "At-Tirmidhi 5/473. See Sahih At-Tirmidhi 3/144",
+        "* 'Ta'ar' means sleeplessness and tossing and turning on the bed at night with speech.",
+        "Narrated by Al-Bukhari with Fath 3/144 and others, the wording is from Ibn Majah. See Sahih Ibn Majah 2/335",
+        "The verses are from Surah Al-Imran, 190-200. Al-Bukhari with Fath 8/238 and Muslim 1/530"
+      ]
+    },
+    "Panalangin para sa Pagsusuot ng Damit": {
+      "text": [
+        "Whoever wears a garment and says: 'All praise is for Allah who has clothed me with this (garment) and provided it for me without any might or power on my part.'"
+      ],
+      "footnote": [
+        "Reported by the compilers of Sunan except An-Nasa'i. See Irwa' al-Ghalil 7/47"
+      ]
+    },
+    "Panalangin para sa Pagsusuot ng Bagong Kasuotan": {
+      "text": [
+        "O Allah, sa Iyo ang lahat ng papuri. binihisan mo ako nito. Hinihiling ko sa Iyo ang kabutihan nito at ang kabutihan kung saan ito ginawa, at nagpapakupkop ako sa Iyo mula sa kasamaan nito at kasamaan kung saan ito ginawa."
+      ],
+      "footnote": [
+        "Abu Dawud, At-Tirmidhi, and Al-Baghawi. See Mukhtasar Shama'il At-Tirmidhi by Al-Albani, p. 47"
+      ]
+    },
+    "Pagsusumamo para sa Isang Nagsusuot ng Bagong Kasuotan": {
+      "text": [
+        "Magsuot ng bago, mamuhay ng kapuri-puri, at mamatay bilang martir.",
+        "Nawa'y maubos mo ito at nawa'y palitan ito ng Allah na Makapangyarihan."
+      ],
+      "footnote": [
+        "Ibn Majah 2/1178 and Al-Baghawi 12/41. See Sahih Ibn Majah 2/275",
+        "Reported by Abu Dawud 4/41. See Sahih Abi Dawud 2/760"
+      ]
+    },
+    "Ano ang Sasabihin Kapag Naghuhubad ng Damit": {
+      "text": [
+        "The screen between the eyes of the jinn and the private parts of the children of Adam, when one of them takes off his garment, is to say: 'In the name of Allah.'"
+      ],
+      "footnote": [
+        "At-Tirmidhi 2/505 and others. See Al-Irwa' no. 49, Sahih Al-Jami' 3/203"
+      ]
+    },
+    "Pagsusumamo para sa Pagpasok sa Toilet": {
+      "text": [
+        "{Sa pangalan ng Allah}, O Allah, ako ay nagpapakupkop sa Iyo mula sa lalaki at babae na masasamang espiritu."
+      ],
+      "footnote": [
+        "Reported by Al-Bukhari 1/45 and Muslim 1/283. The addition of 'Bismillah' at the beginning is agreed upon, reported by Sa'id bin Mansur. See Fath Al-Bari 1/244"
+      ]
+    },
+    "Pagsusumamo sa Pag-alis sa Toilet": {
+      "text": [
+        "Humihingi ako ng Iyong kapatawaran."
+      ],
+      "footnote": [
+        "Reported by the compilers of Sunan except An-Nasa'i, who reported it in 'Amal Al-Yawm wa Al-Laylah. See Takhrij Zad Al-Ma'ad 2/387"
+      ]
+    },
+    "Pag-alaala Bago ang Paghuhugas": {
+      "text": [
+        "Sa ngalan ni Allah."
+      ],
+      "footnote": [
+        "Abu Dawud, Ibn Majah, and Ahmad. See Irwa' al-Ghalil 1/122"
+      ]
+    },
+    "Pag-alaala Pagkatapos Kumpletuhin ang Paghuhugas": {
+      "text": [
+        "Ako ay sumasaksi na walang diyos maliban sa Allah, nag-iisa, walang katambal, at ako ay sumasaksi na si Muhammad ay Kanyang alipin at Kanyang Sugo.",
+        "At-Tirmidhi added after mentioning the two testimonies: 'O Allah, make me among the repentant and make me among those who purify themselves.'",
+        "Luwalhati sa Iyo, O Allah, at papuri sa Iyo. Sumasaksi ako na walang diyos maliban sa Iyo. Humihingi ako ng Iyong kapatawaran at nagsisisi ako sa Iyo."
+      ],
+      "footnote": [
+        "Narrated by Muslim 1/209",
+        "At-Tirmidhi 1/78. See Sahih At-Tirmidhi 1/18",
+        "An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah, p. 173. See Irwa' al-Ghalil 1/135 and 2/94"
+      ]
+    },
+    "Remembrance Kapag Aalis ng Bahay": {
+      "text": [
+        "Sa pangalan ng Allah, ako ay nagtiwala sa Allah, at walang kapangyarihan o kapangyarihan maliban kay Allah.",
+        "O Allah, ako ay nagpapakupkop sa Iyo mula sa pagkaligaw o pagkaligaw, mula sa pagkadulas o pagkadulas, mula sa pang-aapi o pag-aapi, mula sa pagkilos nang walang kaalam-alam o pagtrato nang walang kaalaman."
+      ],
+      "footnote": [
+        "Abu Dawud 4/325 and At-Tirmidhi 5/490. See Sahih At-Tirmidhi 3/151",
+        "The compilers of Sunan. See Sahih At-Tirmidhi 3/152 and Sahih Ibn Majah 2/336"
+      ]
+    },
+    "Remembrance Sa Pagpasok sa Bahay": {
+      "text": [
+        "Sa ngalan ng Allah kami ay pumapasok, at sa pangalan ng Allah kami ay umalis, at sa aming Panginoon kami ay umaasa. Pagkatapos ay dapat niyang batiin ang kanyang pamilya."
+      ],
+      "footnote": [
+        "Reported by Abu Dawud 4/325, and its chain was graded as hasan by Sheikh Ibn Baz in Tuhfat Al-Akhyar, p. 28. And in the Sahih: 'When a man enters his house and mentions Allah upon his entry and upon his food, Satan says: 'You have no place to spend the night and no supper.'' Muslim, no. 2018"
+      ]
+    },
+    "Panalangin para sa Pagpunta sa Mosque": {
+      "text": [
+        "O Allah, ilagay mo ang liwanag sa aking puso, at sa aking dila ang liwanag, at sa aking pandinig na liwanag, at sa aking paningin ay liwanag, at sa itaas ko ay liwanag, at sa ibaba ko ay liwanag, at sa aking kanang liwanag, at sa aking kaliwang liwanag, at sa harap ko ay liwanag, at sa likod ko ay liwanag, at ilagay sa aking kaluluwa ang liwanag, at palakihin para sa akin ang liwanag, at gawin akong dakilang liwanag, at bigyan ako ng liwanag, at gawin akong liwanag. O Allah, bigyan mo ako ng liwanag, at ilagay sa aking mga ugat ang liwanag, at sa aking laman na liwanag, at sa aking dugo na liwanag, at sa aking buhok na liwanag, at sa aking balat na liwanag.",
+        "O Allah, bigyan mo ako ng liwanag sa aking libingan... at liwanag sa aking mga buto.",
+        "At dagdagan mo ako sa liwanag, at dagdagan mo ako sa liwanag, at dagdagan mo ako sa liwanag.",
+        "At bigyan mo ako ng liwanag sa liwanag."
+      ],
+      "footnote": [
+        "All these attributes are in Al-Bukhari 11/116, no. 6316, and Muslim 1/526, 529, 530, no. 763",
+        "At-Tirmidhi, no. 3419, 5/483",
+        "Reported by Al-Bukhari in Al-Adab Al-Mufrad, no. 695, p. 258, and its chain was authenticated by Al-Albani in Sahih Al-Adab Al-Mufrad, no. 536",
+        "Mentioned by Ibn Hajar in Fath Al-Bari and attributed it to Ibn Abi 'Asim in the book of Du'a. See Fath 11/118. He said: 'So, from the different narrations, twenty-five attributes have been gathered.'"
+      ]
+    },
+    "Panalangin para sa Pagpasok sa Mosque": {
+      "text": [
+        "Ako ay nagpapakupkop kay Allah na Dakila, at sa Kanyang marangal na Mukha, at sa Kanyang walang hanggang awtoridad, mula sa isinumpang Satanas.",
+        "[In the name of Allah, and prayers] [and peace be upon the Messenger of Allah], O Allah, open for me the gates of Your mercy."
+      ],
+      "footnote": [
+        "Abu Dawud. See Sahih Al-Jami', no. 4591",
+        "Narrated by Ibn As-Sunni, no. 88, and graded as hasan by Al-Albani",
+        "Abu Dawud 1/126. See Sahih Al-Jami' 1/528",
+        "Narrated by Muslim 1/494. And in Sunan Ibn Majah from the hadith of Fatimah (may Allah be pleased with her): 'O Allah, forgive my sins and open for me the gates of Your mercy.' Authenticated by Al-Albani due to its supporting narrations. See Sahih Ibn Majah 1/128-129"
+      ]
+    },
+    "Pagsusumamo para sa Pag-alis sa Mosque": {
+      "text": [
+        "Sa pangalan ng Allah, at ang mga panalangin at kapayapaan ay nasa Sugo ng Allah. O Allah, hinihiling ko sa Iyo ang Iyong kagandahang-loob. O Allah, protektahan mo ako mula sa isinumpang Satanas."
+      ],
+      "footnote": [
+        "See the authentication of the narrations of the previous hadith, no. 20, and the addition 'O Allah, protect me from the accursed Satan' by Ibn Majah. See Sahih Ibn Majah 1/288"
+      ]
+    },
+    "Mga Panawagan para sa Panawagan sa Panalangin (Adhan)": {
+      "text": [
+        "Dapat ulitin ng isang tao ang sinabi ng Mu'adhdhin, maliban sa 'Hayya 'alas-Salah' at 'Hayya 'alal-Falah', kung saan dapat sabihin ang 'La hawla wa la quwwata illa billah' (Walang lakas o kapangyarihan maliban kay Allah).",
+        "One says: 'And I bear witness that there is no god but Allah, alone, with no partner, and that Muhammad is His servant and His Messenger. I am pleased with Allah as a Lord, with Muhammad as a Messenger, and with Islam as a religion.' (This is said immediately after the Mu'adhdhin's testimony).",
+        "Ang isa ay nagpapadala ng mga panalangin sa Propeta (sumakanya nawa ang kapayapaan) pagkatapos matapos ang pagtugon sa Mu'adhdhin.",
+        "O Allah, Lord of this perfect call and established prayer, grant Muhammad the position of nearness and the excellence, and resurrect him to the praiseworthy station that You have promised him, [Indeed, You do not fail in Your promise].",
+        "Ang isa ay nagsusumamo para sa kanyang sarili sa pagitan ng Adhan at ng Iqamah, dahil ang pagsusumamo sa oras na iyon ay hindi tinatanggihan."
+      ],
+      "footnote": [
+        "Al-Bukhari 1/152 and Muslim 1/288",
+        "Muslim 1/290",
+        "Ibn Khuzaymah 1/220",
+        "Muslim 1/288",
+        "Al-Bukhari 1/152. What is between the brackets is from Al-Bayhaqi 1/410, and its chain was graded as hasan by Sheikh Abdul Aziz bin Baz in Tuhfat Al-Akhyar, p. 38",
+        "At-Tirmidhi, Abu Dawud, and Ahmad. See Irwa' al-Ghalil 1/262"
+      ]
+    },
+    "Pambungad na Panalangin para sa Panalangin": {
+      "text": [
+        "O Allah, ihiwalay Mo ako sa aking mga kasalanan gaya ng paghiwalay Mo sa silangan sa kanluran. O Allah, dalisayin mo ako sa aking mga kasalanan gaya ng pagdadalisay ng puting damit mula sa dumi. O Allah, hugasan mo ako sa aking mga kasalanan ng tubig, niyebe, at granizo.",
+        "Luwalhati sa Iyo, O Allah, at papuri sa Iyo. Mapalad ang Iyong pangalan, at dakila ang Iyong kadakilaan. Walang ibang diyos maliban sa Iyo.",
+        "I have turned my face towards the One who created the heavens and the earth, as a monotheist, and I am not of the polytheists. Indeed, my prayer, my rites of sacrifice, my living, and my dying are for Allah, Lord of the worlds, no partner has He. And with this I have been commanded, and I am of the Muslims. O Allah, You are the King, there is no god but You. You are my Lord, and I am Your servant. I have wronged myself, and I have confessed my sin, so forgive me all my sins, for indeed, no one forgives sins except You. And guide me to the best of morals; no one guides to the best of them except You. And turn away from me the worst of them; no one turns away from me the worst of them except You. I am at Your service and Your pleasure. All good is in Your hands, and evil is not attributed to You. I exist by You and for You. Blessed are You and exalted. I seek Your forgiveness and repent to You.",
+        "O Allah, Panginoon ni Gabriel, Michael, at Israfil, Tagapaglikha ng mga langit at kalupaan, Tagaalam ng di-nakikita at nakikita, Ikaw ay humatol sa pagitan ng Iyong mga alipin sa bagay na dati nilang pinagkaiba. Patnubayan mo ako sa katotohanan ng kung saan sila ay nagkakaiba, sa pamamagitan ng Iyong pahintulot. Tunay na pinatnubayan Mo ang sinumang Iyong ibig sa isang tuwid na landas.",
+        "Allah is the greatest, immensely. Allah is the greatest, immensely. Allah is the greatest, immensely. And all praise is due to Allah, abundantly. And all praise is due to Allah, abundantly. And all praise is due to Allah, abundantly. And glory be to Allah, morning and evening - three times. I seek refuge in Allah from the accursed Satan: from his arrogance, his poetry, and his madness.",
+        "When the Prophet (peace be upon him) stood up at night to pray Tahajjud, he would say: 'O Allah, to You is all praise. You are the Light of the heavens and the earth and all that is in them. To You is all praise. You are the Sustainer of the heavens and the earth and all that is in them. [And to You is all praise. You are the Lord of the heavens and the earth and all that is in them]. [And to You is all praise. Yours is the dominion of the heavens and the earth and all that is in them]. [And to You is all praise. You are the King of the heavens and the earth]. [And to You is all praise]. You are the Truth, and Your promise is the truth, and Your word is the truth, and meeting You is the truth, and Paradise is the truth, and the Fire is the truth, and the Prophets are the truth, and Muhammad (peace be upon him) is the truth, and the Hour is the truth]. [O Allah, to You I have submitted, and in You I have believed, and upon You I have relied, and to You I have turned in repentance, and with Your help I have contended, and to You I have sought judgment. So forgive me for what I have sent forth and what I have left behind, what I have concealed and what I have declared]. [You are the First, and You are the Last. There is no god but You]. [You are my God. There is no god but You].'"
+      ],
+      "footnote": [
+        "Al-Bukhari 1/181 and Muslim 1/419",
+        "Reported by the four compilers of Sunan. See Sahih At-Tirmidhi 1/77 and Sahih Ibn Majah 1/135",
+        "Narrated by Muslim 1/534",
+        "Narrated by Muslim 1/534",
+        "Reported by Abu Dawud 1/203, Ibn Majah 1/265, and Ahmad 4/85. Muslim reported something similar from Ibn 'Umar (may Allah be pleased with them) with a story 1/420",
+        "Al-Bukhari with Fath 3/3, 11/116, and 13/371, 423, 465, and Muslim in a summarized, similar version 1/532"
+      ]
+    },
+    "Pagsusumamo habang Nakayuko (Ruku')": {
+      "text": [
+        "Luwalhati sa aking Panginoon, ang Dakila. (tatlong beses)",
+        "Luwalhati sa Iyo, O Allah, aming Panginoon, at papuri sa Iyo. O Allah, patawarin mo ako.",
+        "Perpekto, Banal, Panginoon ng mga anghel at ng Espiritu.",
+        "O Allah, sa Iyo ako yumukod, sa Iyo ako ay naniwala, at sa Iyo ako sumuko. Ang aking pandinig, aking paningin, aking dugo, aking laman, aking mga buto, at aking mga ugat ay nagpakumbaba sa Iyo, at kung ano ang dinadala ng aking mga paa.",
+        "Luwalhati sa May-ari ng kapangyarihan, kapangyarihan, kadakilaan, at kadakilaan."
+      ],
+      "footnote": [
+        "Reported by the compilers of Sunan and Ahmad. See Sahih At-Tirmidhi 1/83",
+        "Al-Bukhari 1/199 and Muslim 1/350",
+        "Muslim 1/353 and Abu Dawud 1/230",
+        "Muslim 1/534 and the four except Ibn Majah",
+        "Abu Dawud 1/230, An-Nasa'i, and Ahmad, and its chain is hasan"
+      ]
+    },
+    "Pagsusumamo kapag Bumangon mula sa Pagyuko (Ruku')": {
+      "text": [
+        "Naririnig ng Allah ang pumupuri sa Kanya.",
+        "Panginoon namin, at sa Iyo ang lahat ng papuri, isang sagana, mabuti, at pinagpalang papuri.",
+        "... pinupuno ang mga langit at pinupuno ang lupa at kung ano ang nasa pagitan nila, at pinupuno ang anumang iba pang naisin Mo. O Panginoon ng papuri at kaluwalhatian, ang pinakakarapat-dapat sa sinabi ng isang lingkod, at kaming lahat ay Iyong mga lingkod. O Allah, walang makakapigil sa kung ano ang Iyong ibinigay, at walang makapagbibigay ng Iyong ipinagkait, at ang kapangyarihan ng makapangyarihan ay hindi makakatulong sa kanya laban sa Iyo."
+      ],
+      "footnote": [
+        "Al-Bukhari with Fath 2/282",
+        "Al-Bukhari with Fath 2/282",
+        "Muslim 1/346"
+      ]
+    },
+    "Pagsusumamo sa panahon ng Pagpatirapa (Sujud)": {
+      "text": [
+        "Luwalhati sa aking Panginoon, ang Kataas-taasan. (tatlong beses)",
+        "Luwalhati sa Iyo, O Allah, aming Panginoon, at papuri sa Iyo. O Allah, patawarin mo ako.",
+        "Perpekto, Banal, Panginoon ng mga anghel at ng Espiritu.",
+        "O Allah, sa Iyo ako nagpatirapa, sa Iyo ako naniwala, at sa Iyo ako sumuko. Ang aking mukha ay nagpatirapa sa Isa na lumikha nito at nag-anyo nito, at naglabas ng kanyang pandinig at paningin. Pinagpala si Allah, ang pinakamahusay sa mga lumikha.",
+        "Luwalhati sa May-ari ng kapangyarihan, kapangyarihan, kadakilaan, at kadakilaan.",
+        "O Allah, patawarin mo ako sa lahat ng aking mga kasalanan, ang maliit at ang malaki, ang una at ang huli, ang publiko at ang pribado.",
+        "O Allah, ako ay nagpapakupkop sa Iyong kasiyahan mula sa Iyong galit, at sa Iyong pagpapatawad sa Iyong kaparusahan. At ako ay nagpapakupkop sa Iyo mula sa Iyo. Hindi ko mabilang ang mga papuri Mo. Ikaw ay gaya ng pagpuri mo sa iyong sarili."
+      ],
+      "footnote": [
+        "Reported by the compilers of Sunan and Ahmad. See Sahih At-Tirmidhi 1/83",
+        "Al-Bukhari and Muslim. Its authentication was mentioned earlier under no. 34",
+        "Muslim 1/533. Mentioned earlier under no. 35",
+        "Muslim 1/534 and others",
+        "Abu Dawud 1/230, An-Nasa'i, and Ahmad. Its chain was authenticated by Al-Albani in Sahih Abi Dawud 166",
+        "Muslim 1/350",
+        "Muslim 1/352"
+      ]
+    },
+    "Pagsusumamo para sa Pag-upo sa pagitan ng Dalawang Pagpatirapa": {
+      "text": [
+        "Panginoon, patawarin mo ako. Panginoon, patawarin mo ako.",
+        "O Allah, patawarin mo ako, maawa ka sa akin, patnubayan mo ako, suportahan mo ako, protektahan mo ako, paglaanan mo ako, at itaas mo ako."
+      ],
+      "footnote": [
+        "Abu Dawud 1/231. See Sahih Ibn Majah 1/148",
+        "Reported by the compilers of Sunan except An-Nasa'i. See Sahih At-Tirmidhi 1/90 and Sahih Ibn Majah 1/148"
+      ]
+    },
+    "Panalangin para sa Pagpatirapa ng Pagbigkas": {
+      "text": [
+        "Ang aking mukha ay nagpatirapa sa Isa na lumikha nito, at inilabas ang kanyang pandinig at paningin sa pamamagitan ng Kanyang kapangyarihan at kapangyarihan. {Kaya pinagpala si Allah, ang pinakamahusay sa mga lumikha}.",
+        "O Allah, magtala para sa akin ng gantimpala sa Iyo para dito, at alisin sa akin ang isang kasalanan sa pamamagitan nito, at gawin itong isang kayamanan para sa akin sa Iyo, at tanggapin ito mula sa akin kung paanong tinanggap Mo ito mula sa Iyong lingkod na si David."
+      ],
+      "footnote": [
+        "At-Tirmidhi 2/474, Ahmad 6/30, and Al-Hakim who authenticated it and Adh-Dhahabi agreed 1/220. The addition is his.",
+        "At-Tirmidhi 2/473 and Al-Hakim who authenticated it and Adh-Dhahabi agreed 1/219"
+      ]
+    },
+    "Ang Tashahhud": {
+      "text": [
+        "Ang lahat ng pagbati, panalangin, at mabubuting bagay ay para kay Allah. Sumainyo nawa ang kapayapaan, O Propeta, at ang awa ng Allah at ang Kanyang mga pagpapala. Sumainyo nawa ang kapayapaan at sa mga matuwid na lingkod ng Allah. Ako ay sumasaksi na walang diyos maliban sa Allah, at ako ay sumasaksi na si Muhammad ay Kanyang alipin at Kanyang Sugo."
+      ],
+      "footnote": [
+        "Al-Bukhari with Fath 1/13 and Muslim 1/301"
+      ]
+    },
+    "Pagpapadala ng mga Panalangin sa Propeta pagkatapos ng Tashahhud": {
+      "text": [
+        "O Allah, magpadala ka ng mga panalangin kay Muhammad at sa pamilya ni Muhammad, tulad ng pagpapadala Mo ng mga panalangin kay Ibrahim at sa pamilya ni Ibrahim. Tunay na Ikaw ay Kapuri-puri at Maluwalhati. O Allah, pagpalain Mo si Muhammad at ang pamilya ni Muhammad, tulad ng pagpapala Mo kay Ibrahim at sa pamilya ni Ibrahim. Tunay na Ikaw ay Kapuri-puri at Maluwalhati.",
+        "O Allah, magpadala ka ng mga panalangin kay Muhammad at sa kanyang mga asawa at sa kanyang mga supling, tulad ng pagpapadala Mo ng mga panalangin sa pamilya ni Ibrahim. At pagpalain si Muhammad at ang kanyang mga asawa at ang kanyang mga supling, tulad ng pagpapala Mo sa pamilya ni Ibrahim. Tunay na Ikaw ay Kapuri-puri at Maluwalhati."
+      ],
+      "footnote": [
+        "Al-Bukhari with Fath 6/408",
+        "Al-Bukhari with Fath 6/407 and Muslim 1/306, the wording is his"
+      ],
+      "Pagsusumamo pagkatapos ng Pangwakas na Tashahhud at Bago ang Salam": {
+        "text": [
+          "O Allah, ako ay nagpapakupkop sa Iyo mula sa parusa ng libingan, at mula sa parusa ng Impiyerno, at mula sa mga pagsubok sa buhay at kamatayan, at mula sa kasamaan ng pagsubok ng Antikristo.",
+          "O Allah, ako ay nagpapakupkop sa Iyo mula sa parusa ng libingan, at nagpapakupkop ako sa Iyo mula sa pagsubok ng Antikristo, at nagpapakupkop ako sa Iyo mula sa mga pagsubok sa buhay at kamatayan. O Allah, ako ay nagpapakupkop sa Iyo mula sa kasalanan at mula sa utang.",
+          "O Allah, labis akong nagkasala sa aking sarili, at walang sinuman ang nagpapatawad ng mga kasalanan maliban sa Iyo, kaya't bigyan mo ako ng kapatawaran mula sa Iyong sarili at maawa ka sa akin. Katotohanan, Ikaw ang Mapagpatawad, ang Maawain.",
+          "O Allah, patawarin mo ako sa aking ipinadala at kung ano ang aking iniwan, kung ano ang aking itinago at kung ano ang aking ipinahayag, kung ano ang aking nilabag, at kung ano ang Iyong higit na nalalaman kaysa sa akin. Ikaw ang Una at Ikaw ang Huli. Walang diyos kundi Ikaw.",
+          "O Allah, tulungan Mo akong maalala Ka, magpasalamat sa Iyo, at sumamba sa Iyo sa pinakamabuting asal.",
+          "O Allah, ako ay nagpapakupkop sa Iyo mula sa pagiging kuripot, at ako ay nagpapakupkop sa Iyo mula sa kaduwagan, at ako ay nagpapakupkop sa Iyo mula sa pagbabalik sa pinakahuling panahon, at ako ay nagpapakupkop sa Iyo mula sa mga pagsubok sa mundong ito, at ako ay nagpapakupkop sa Iyo mula sa kaparusahan sa libingan.",
+          "O Allah, humihingi ako sa Iyo ng Paraiso at nagpapakupkop ako sa Iyo mula sa Apoy.",
+          "O Allah, sa pamamagitan ng Iyong kaalaman sa hindi nakikita at ang Iyong kapangyarihan sa nilikha, panatilihin Mo akong buhay hangga't alam Mo na ang buhay ay mabuti para sa akin, at patayin Mo ako kapag alam Mo na ang kamatayan ay mabuti para sa akin. O Allah, hinihiling ko sa Iyo ang Iyong pagkatakot sa di-nakikita at nakikita, at hinihiling ko sa Iyo ang salita ng katotohanan sa kasiyahan at galit, at hinihiling ko sa Iyo ang katamtaman sa kayamanan at kahirapan, at hinihiling ko sa Iyo ang mga pagpapala na hindi tumitigil, at hinihiling ko sa Iyo ang lamig ng mata na hindi nagwawakas, at hinihiling ko sa Iyo ang kasiyahan pagkatapos ng utos, at hinihiling ko sa Iyo ang lamig ng Iyong buhay, at ang paghihintay ko sa Iyo pagkatapos ng kamatayan, at ang paghihintay ko sa Iyong lamig ng buhay. upang makilala Ka nang walang anumang nakakapinsalang paghihirap o mapanlinlang na pagsubok. O Allah, lagyan mo kami ng palamuti ng pananampalataya, at gawin mo kaming mga gabay.",
+          "O Allah, hinihiling ko sa Iyo, O Allah, dahil Ikaw ang Nag-iisa, ang Nag-iisa, ang Makasarili na Guro, na hindi ipinanganak at hindi nagsilang, at kung kanino walang katumbas, na patawarin Mo ako sa aking mga kasalanan. Katotohanan, Ikaw ang Mapagpatawad, ang Maawain.",
+          "O Allah, hinihiling ko sa Iyo, dahil ang lahat ng papuri ay para sa Iyo, walang diyos maliban sa Iyo, nag-iisa na walang katambal, ang Tagapagbigay ng mga pabor, O Tagapaglikha ng mga langit at lupa, O Nagmamay-ari ng kamahalan at karangalan, O Walang-hanggang Buhay, O Tagapagtaguyod ng Sarili, humihingi ako sa Iyo ng Paraiso at nagpapakupkop ako sa Iyo mula sa Apoy.",
+          "O Allah, hinihiling ko sa Iyo, dahil ako ay sumasaksi na Ikaw ay si Allah, walang diyos maliban sa Iyo, ang Nag-iisa, ang Makasarili na Guro, na hindi ipinanganak at hindi nagsilang, at kung saan walang katumbas."
+        ],
+        "footnote": [
+          "Al-Bukhari 2/102 and Muslim 1/412, the wording is from Muslim",
+          "Al-Buhkari 1/202 and Muslim 1/412",
+          "Al-Bukhari 8/168 and Muslim 4/2078",
+          "Muslim 1/534",
+          "Abu Dawud 2/86 and An-Nasa'i 3/53, authenticated by Al-Albani in Sahih Abi Dawud 1/284",
+          "Al-Bukhari 6/35",
+          "Abu Dawud. See Sahih Ibn Majah 2/328",
+          "An-Nasa'i 4/54, 55 and Ahmad 4/364, authenticated by Al-Albani in Sahih An-Nasa'i 1/281",
+          "Reported by An-Nasa'i with this wording 3/52 and Ahmad 4/338, authenticated by Al-Albani in Sahih An-Nasa'i 1/280",
+          "Narrated by the compilers of Sunan. See Sahih Ibn Majah 2/329",
+          "Abu Dawud 2/62, At-Tirmidhi 5/515, Ibn Majah 2/1267, and Ahmad 5/360. See Sahih Ibn Majah 2/329 and Sahih At-Tirmidhi 3/163"
+        ]
+      },
+      "Mga Alaala pagkatapos ng Salam ng Panalangin": {
+        "text": [
+          "Humihingi ako ng kapatawaran kay Allah (tatlong beses). O Allah, Ikaw ay Kapayapaan at sa Iyo nagmumula ang kapayapaan. Mapalad ka, O Nagmamay-ari ng kamahalan at karangalan.",
+          "Walang diyos maliban sa Allah, nag-iisa, na walang katambal. Sa Kanya ang kapangyarihan at sa Kanya ang lahat ng papuri, at Siya ay may kakayahang gawin ang lahat ng bagay. O Allah, walang makakapigil sa kung ano ang Iyong ibinigay, at walang makapagbibigay ng Iyong ipinagkait, at ang kapangyarihan ng makapangyarihan ay hindi makakatulong sa kanya laban sa Iyo.",
+          "Walang diyos maliban sa Allah, nag-iisa, na walang katambal. Sa Kanya ang kapangyarihan at sa Kanya ang lahat ng papuri, at Siya ay may kakayahang gawin ang lahat ng bagay. Walang kapangyarihan o kapangyarihan maliban kay Allah. Walang diyos maliban sa Allah, at wala kaming sinasamba maliban sa Kanya. Sa Kanya ang biyaya at sa Kanya ang biyaya, at sa Kanya ang pinakamagandang papuri. Walang diyos maliban sa Allah, tapat sa relihiyon sa Kanya, kahit na hindi ito gusto ng mga hindi naniniwala.",
+          "Luwalhati kay Allah, at papuri kay Allah, at si Allah ang pinakadakila (tatlumpu't tatlong beses). Walang diyos maliban sa Allah, nag-iisa, na walang katambal. Sa Kanya ang kapangyarihan at sa Kanya ang lahat ng papuri, at Siya ay may kakayahang gawin ang lahat ng bagay.",
+          "Sa ngalan ng Allah, ang Pinakamaawain, ang Pinakamaawain {Sabihin, 'Siya ang Allah, [na] Isa, * Allah, ang Walang Hanggang Kanlungan. * Siya ay hindi nanganak o ipinanganak, * Ni walang katumbas sa Kanya.'} Sa pangalan ni Allah, ang Pinakamaawain, ang Pinakamaawain {Sabihin, 'Ako ay nagpapakupkop sa Panginoon ng bukang-liwayway * Mula sa kasamaan ng Kanyang nilikha * At mula sa kasamaan ng kadiliman kapag ito ay naninirahan * At mula sa kasamaan ng mga humihipan sa kasamaan ng isang pangalan ng Allah} ang Pinakamaawain, ang Pinakamaawain {Sabihin, 'Ako ay nagpapakupkop sa Panginoon ng sangkatauhan, * Ang Soberano ng sangkatauhan. * Ang Diyos ng sangkatauhan. * Mula sa kasamaan ng umaatras na bumubulong - * Na bumubulong [ng kasamaan] sa dibdib ng sangkatauhan - * Mula sa mga jinn at sangkatauhan.'} (Isang beses pagkatapos ng bawat pagdarasal, at tatlong beses pagkatapos ng pagdarasal ng Maghrib at Fajr).",
+          "{Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.} (After each prayer).",
+          "Walang diyos maliban sa Allah, nag-iisa, na walang katambal. Sa Kanya ang pag-aari at sa Kanya ang lahat ng papuri. Siya ang nagbibigay ng buhay at nagiging sanhi ng kamatayan, at Siya ay kayang gawin ang lahat ng bagay. (Sampung beses pagkatapos ng pagdarasal ng Maghrib at Subh).",
+          "O Allah, humihingi ako sa Iyo ng kapaki-pakinabang na kaalaman, mabuting panustos, at tinatanggap na mga gawa. (Pagkatapos ng Salam ng pagdarasal ng Fajr)."
+        ],
+        "footnote": [
+          "Muslim 1/414",
+          "Al-Bukhari 1/255 and Muslim 1/414",
+          "Muslim 1/415",
+          "Muslim 1/418. Ang sinumang magsabi nito pagkatapos ng bawat panalangin, ang kanyang mga kasalanan ay patatawarin kahit na ito ay parang bula ng dagat. Muslim 1/418",
+          "Abu Dawud 2/86 and An-Nasa'i 3/68. See Sahih At-Tirmidhi 2/8. The three Surahs are called Al-Mu'awwidhat. See Fath Al-Bari 9/62",
+          "Whoever recites it after every prayer, nothing will prevent him from entering Paradise except death. An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah, no. 100, and Ibn As-Sunni, no. 121. Authenticated in Al-Jami' 5/339 and Silsilat Al-Ahadith As-Sahiha 2/697, no. 972",
+          "Narrated by At-Tirmidhi 5/515 and Ahmad 4/227. See its authentication in Zad Al-Ma'ad 1/300",
+          "Ibn Majah and others. See Sahih Ibn Majah 1/152 and Majma' Az-Zawa'id 10/111"
+        ]
+      },
+      "Pagsusumamo para sa Istikhara Prayer": {
+        "text": [
+          "Si Jabir bin Abdullah (nawa'y kalugdan sila ng Allah) ay nagsabi: 'Ang Sugo ng Allah (sumakanya nawa ang kapayapaan) ay nagtuturo sa amin ng Istikhara (paghanap ng patnubay) sa lahat ng bagay, tulad ng kanyang pagtuturo sa amin ng isang Surah mula sa Quran. Sasabihin niya: 'Kung ang sinuman sa inyo ay nag-aalala tungkol sa isang bagay, hayaan siyang magdasal ng dalawang rak'ah maliban sa obligadong pagdarasal, pagkatapos ay sabihin niya: 'O Allah, hinihiling ko ang Iyong patnubay sa pamamagitan ng Iyong kaalaman, at hinahanap ko ang Iyong kapangyarihan sa pamamagitan ng Iyong kapangyarihan, at hinihiling ko sa Iyo ang Iyong dakilang biyaya. Sapagkat ikaw ay may kapangyarihan, at ako ay wala. Alam Mo, at hindi ko alam, at Ikaw ang Nakakaalam ng hindi nakikita. O Allah, kung alam Mo na ang bagay na ito - (at dapat niyang pangalanan ang kanyang pangangailangan) - ay mabuti para sa akin sa aking relihiyon, sa aking kabuhayan, at sa kahihinatnan ng aking mga gawain,' o sinabi niya: 'sa aking mga kagyat at hinaharap na mga gawain, pagkatapos ay itakda ito para sa akin, gawin itong madali para sa akin, at pagkatapos ay pagpalain ako dito. At kung alam Ninyo na ang bagay na ito ay masama para sa akin sa aking relihiyon, sa aking kabuhayan, at sa kahihinatnan ng aking mga gawain,' o sinabi niya: 'sa aking mga kagyat at hinaharap na mga gawain, pagkatapos ay talikuran mo ito sa akin at talikuran ako mula rito, at magtakda para sa akin kung ano ang mabuti saanman ito naroroon, at pagkatapos ay gawing kontento ako dito.'",
+          "At ang sinumang humingi ng patnubay mula sa Tagapaglikha, sumangguni sa nananampalataya na nilikha, at matatag sa kanyang gawain ay hindi magsisisi, sapagkat ang Dakilang Allah ay nagsabi: {at sumangguni sa kanila sa usapin. At kapag nakapagpasya na kayo, manalig kayo kay Allah.}"
+        ],
+        "footnote": [
+          "Al-Bukhari 7/162",
+          "Surah Al-Imran, Talata: 159"
+        ]
+      },
+      "Mga Alaala sa Umaga at Gabi": {
+        "text": [
+          "Ang lahat ng papuri ay para sa Allah lamang, at ang kapayapaan at pagpapala ay mapasakanya na kasunod niya ay walang propeta.",
+          "I seek refuge in Allah from the accursed Satan. {Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.}",
+          "Sa ngalan ng Allah, ang Pinakamaawain, ang Pinakamaawain {Sabihin, 'Siya ang Allah, [na] Isa, * Allah, ang Walang Hanggang Kanlungan. * Siya ay hindi nanganak o ipinanganak, * Ni walang katumbas sa Kanya.'} Sa pangalan ni Allah, ang Pinakamaawain, ang Pinakamaawain {Sabihin, 'Ako ay nagpapakupkop sa Panginoon ng bukang-liwayway * Mula sa kasamaan ng Kanyang nilikha * At mula sa kasamaan ng kadiliman kapag ito ay naninirahan * At mula sa kasamaan ng mga humihipan sa kasamaan ng isang pangalan ng Allah} ang Pinakamaawain, ang Pinakamaawain {Sabihin, 'Ako ay nagpapakupkop sa Panginoon ng sangkatauhan, * Ang Soberano ng sangkatauhan. * Ang Diyos ng sangkatauhan. * Mula sa kasamaan ng umaatras na bulong - * Na bumubulong [ng kasamaan] sa dibdib ng sangkatauhan - * Mula sa mga jinn at sangkatauhan.'} (Tatlong beses)",
+          "Narating na natin ang umaga at sa mismong oras na ito kay Allah ang lahat ng kapangyarihan, at ang lahat ng papuri ay para kay Allah. Walang diyos maliban sa Allah, nag-iisa, na walang katambal. Sa Kanya ang kapangyarihan at sa Kanya ang lahat ng papuri, at Siya ay may kakayahang gawin ang lahat ng bagay. Panginoon ko, hinihiling ko sa Iyo ang kabutihan ng araw na ito at ang kabutihan ng kasunod nito, at ako ay nagpapakupkop sa Iyo mula sa kasamaan ng araw na ito at sa kasamaan ng kasunod nito. Panginoon ko, nagpapakupkop ako sa Iyo mula sa katamaran at kasamaan ng katandaan. Panginoon ko, nagpapakupkop ako sa Iyo mula sa kaparusahan sa Apoy at parusa sa libingan. At kapag sumapit ang gabi, dapat din niyang sabihin: 'Narating na namin ang gabi at sa mismong oras na ito kay Allah ang lahat ng kapangyarihan.'",
+          "O Allah, sa Iyo kami ay umabot sa umaga at sa Iyo ay nakarating kami sa gabi, sa Iyo kami nabubuhay at sa Iyo kami namamatay, at sa Iyo ang muling pagkabuhay. At pagdating ng gabi, dapat siyang magsabi: 'O Allah, sa pamamagitan Mo ay narating namin ang gabi, at sa Iyo kami ay umabot sa umaga, sa Iyo kami nabubuhay at sa Iyo kami namamatay, at sa Iyo ang huling pagbabalik.'",
+          "O Allah, Ikaw ang aking Panginoon, walang diyos maliban sa Iyo. Nilikha Mo ako at ako ay Iyong lingkod, at ako ay nasa Iyong tipan at Iyong pangako sa abot ng aking makakaya. Ako ay nagpapakupkop sa Iyo mula sa kasamaan ng aking ginawa. Kinikilala ko ang Iyong biyaya sa akin, at kinikilala ko ang aking kasalanan, kaya patawarin mo ako, sapagkat walang sinuman ang nagpapatawad ng mga kasalanan maliban sa Iyo.",
+          "O Allah, ako ay umabot na sa umaga at ako ay nananawagan sa Iyo at sa mga nagdadala ng Iyong Trono, Iyong mga anghel, at lahat ng Iyong nilikha na sumaksi na Ikaw ay Allah, walang diyos maliban sa Iyo, nag-iisa, na walang katambal, at si Muhammad ay Iyong alipin at Iyong Sugo. (Apat na beses)",
+          "O Allah, anumang pagpapala ang dumating sa akin o sa alinman sa Iyong nilikha ngayong umaga ay mula sa Iyo lamang, na walang katambal. Kaya't sa Iyo ang lahat ng papuri at sa Iyo ang lahat ng pasasalamat.",
+          "O Allah, bigyan mo ako ng kalusugan sa aking katawan. O Allah, bigyan mo ako ng kalusugan sa aking pandinig. O Allah, bigyan mo ako ng kalusugan sa aking paningin. Walang diyos kundi Ikaw. O Allah, ako ay nagpapakupkop sa Iyo mula sa kawalan ng pananampalataya at kahirapan. O Allah, ako ay nagpapakupkop sa Iyo mula sa kaparusahan sa libingan. Walang diyos kundi Ikaw. (Tatlong beses)",
+          "Ang Allah ay sapat na sa akin. Walang diyos maliban sa Kanya. Sa Kanya ay inilagay ko ang aking tiwala, at Siya ang Panginoon ng Makapangyarihang Trono. (Pitong beses)",
+          "O Allah, humihingi ako sa Iyo ng kapatawaran at kapakanan sa mundo at sa Kabilang Buhay. O Allah, humihingi ako sa Iyo ng kapatawaran at kapakanan sa aking relihiyon, sa aking makamundong gawain, sa aking pamilya, at sa aking kayamanan. O Allah, itago mo ang aking mga pagkakamali at pakalmahin ang aking mga takot. O Allah, protektahan mo ako mula sa aking harapan at mula sa aking likuran, mula sa aking kanan at mula sa aking kaliwa, at mula sa itaas ko, at ako ay nagpapakupkop sa Iyong kadakilaan mula sa pagkabagsak mula sa ilalim ko.",
+          "O Allah, Tagaalam ng di-nakikita at nakikita, Tagapaglikha ng mga langit at lupa, Panginoon at Soberano ng lahat ng bagay, ako ay sumasaksi na walang diyos maliban sa Iyo. Ako ay nagpapakupkop sa Iyo mula sa kasamaan ng aking sarili, at mula sa kasamaan ni Satanas at sa kanyang pag-uudyok, at mula sa paggawa ng kasamaan laban sa aking sarili o pagdadala nito sa isang Muslim.",
+          "Sa ngalan ng Allah, na ang Kanyang pangalan ay walang anumang bagay sa lupa o sa langit ay maaaring magdulot ng pinsala, at Siya ang Ganap na Nakaririnig, ang Nakaaalam ng Lahat. (Tatlong beses)",
+          "Ako ay nalulugod kay Allah bilang isang Panginoon, sa Islam bilang isang relihiyon, at kay Muhammad (sumakanya nawa ang kapayapaan) bilang isang Propeta. (Tatlong beses)",
+          "O Walang-hanggang Buhay, O Nagtataguyod ng Sarili, sa pamamagitan ng Iyong awa ako ay humihingi ng tulong. Ituwid para sa akin ang lahat ng aking mga gawain, at huwag mo akong ipagkatiwala sa aking sarili sa isang kisap-mata.",
+          "Narating na natin ang umaga at sa mismong oras na ito ang lahat ng soberanya ay kay Allah, Panginoon ng mga daigdig. O Allah, hinihiling ko sa Iyo ang kabutihan ng araw na ito: ang tagumpay nito, ang tulong nito, ang liwanag nito, ang mga pagpapala nito, at ang patnubay nito. At ako ay nagpapakupkop sa Iyo mula sa kasamaan na nasa loob nito at sa kasamaang kasunod nito.",
+          "Narating na natin ang umaga sa likas na relihiyon ng Islam, ang salita ng katapatan, ang relihiyon ng ating Propeta Muhammad (sumakanya nawa ang kapayapaan), at ang paniniwala ng ating ama na si Ibrahim, isang monoteista, isang Muslim, at siya ay hindi kabilang sa mga polytheist.",
+          "Sinumang magsabi: 'Luwalhati sa Allah at papuri sa Kanya' (isang daang beses).",
+          "Walang diyos maliban sa Allah, nag-iisa, na walang katambal. Sa Kanya ang kapangyarihan at sa Kanya ang lahat ng papuri, at Siya ay may kakayahang gawin ang lahat ng bagay. (Sampung beses) (o minsan kapag tamad).",
+          "Walang diyos maliban sa Allah, nag-iisa, na walang katambal. Sa Kanya ang kapangyarihan at sa Kanya ang lahat ng papuri, at Siya ay may kakayahang gawin ang lahat ng bagay. (Isang daang beses sa umaga).",
+          "Luwalhati kay Allah at papuri sa Kanya, ayon sa bilang ng Kanyang nilikha, Kanyang kasiyahan, bigat ng Kanyang Trono, at tinta ng Kanyang mga salita. (Tatlong beses sa umaga).",
+          "O Allah, humihingi ako sa Iyo ng kapaki-pakinabang na kaalaman, mabuting panustos, at tinatanggap na mga gawa. (Sa umaga).",
+          "Humingi ako ng kapatawaran kay Allah at nagsisi ako sa Kanya. (Isang daang beses sa isang araw).",
+          "Ako ay nagpapakupkop sa perpektong salita ni Allah mula sa kasamaan ng Kanyang nilikha. (Tatlong beses sa gabi).",
+          "O Allah, magpadala ka ng mga panalangin at kapayapaan sa aming Propeta Muhammad. (Sampung beses)."
+        ],
+        "footnote": [
+          "From Anas, who attributed it to the Prophet: 'For me to sit with people remembering Allah the Almighty from the morning prayer until the sun rises is more beloved to me than freeing four of the descendants of Ishmael. And for me to sit with people remembering Allah from the afternoon prayer until the sun sets is more beloved to me than freeing four.' Abu Dawud, no. 3667, graded as hasan by Al-Albani, Sahih Abi Dawud 2/698",
+          "Surah Al-Baqarah, Verse 255. Whoever says it in the evening will be protected from them until the morning. Reported by Al-Hakim 1/562 and authenticated by Al-Albani in Sahih At-Targhib wa At-Tarhib 1/273, attributed to An-Nasa'i and At-Tabarani, and he said: 'The chain of At-Tabarani is good.'",
+          "Whoever says it three times in the morning and evening, it will suffice him against everything. Abu Dawud 4/322 and At-Tirmidhi 5/567. See Sahih At-Tirmidhi 3/182",
+          "At pagdating ng gabi, siya ay nagsabi: 'Narating na natin ang gabi at sa mismong oras na ito ang lahat ng kapangyarihan ay kay Allah.'",
+          "At kapag sumapit ang gabi, siya ay nagsabi: 'Panginoon ko, hinihiling ko sa Iyo ang kabutihan ng gabing ito at ang kabutihan ng kasunod nito, at ako ay nagpapakupkop sa Iyo mula sa kasamaan ng gabing ito at ang kasamaan ng kasunod nito.'",
+          "Muslim 4/2088",
+          "At pagdating ng gabi, siya ay nagsabi: 'O Allah, sa pamamagitan Mo ay narating namin ang gabi, at sa Iyo kami ay umabot sa umaga, sa Iyo kami nabubuhay at sa Iyo kami namamatay, at sa Iyo ang huling pagbabalik.'",
+          "At-Tirmidhi 5/466. See Sahih At-Tirmidhi 3/142",
+          "Kinikilala ko at umamin.",
+          "Whoever says it with certainty in the evening and dies that night will enter Paradise, and likewise in the morning. Reported by Al-Bukhari 7/150",
+          "At pagdating ng gabi, siya ay nagsabi: 'O Allah, narating ko na ang gabi.'",
+          "Whoever says it in the morning and evening four times, Allah will free him from the Fire. Reported by Abu Dawud 4/317, Al-Bukhari in Al-Adab Al-Mufrad no. 1201, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 9, and Ibn As-Sunni no. 70. Sheikh Ibn Baz graded the chain of An-Nasa'i and Abu Dawud as hasan in Tuhfat Al-Akhyar, p. 23",
+          "At pagdating ng gabi, siya ay nagsabi: 'O Allah, anumang pagpapala ang dumating sa akin ngayong gabi.'",
+          "Whoever says it in the morning has fulfilled the thanks of his day, and whoever says it in the evening has fulfilled the thanks of his night. Reported by Abu Dawud 4/318, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 7, Ibn As-Sunni no. 41, and Ibn Hibban (Mawarid) no. 2361. Ibn Baz graded its chain as hasan in Tuhfat Al-Akhyar, p. 24",
+          "Abu Dawud 4/324, Ahmad 5/42, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 22, Ibn As-Sunni no. 69, and Al-Bukhari in Al-Adab Al-Mufrad. Sheikh Ibn Baz graded it as hasan in Tuhfat Al-Akhyar, p. 26",
+          "Whoever says it in the morning and evening seven times, Allah will suffice him in his concerns of this world and the Hereafter. Reported by Ibn As-Sunni no. 71 as a marfu' hadith, and Abu Dawud as mawquf 4/321. Its chain was authenticated by Shu'ayb and 'Abd al-Qadir al-Arna'ut. See Zad Al-Ma'ad 2/376",
+          "Abu Dawud and Ibn Majah. See Sahih Ibn Majah 2/332",
+          "At-Tirmidhi and Abu Dawud. See: Sahih At-Tirmidhi 3/142",
+          "Whoever says it three times in the morning and three times in the evening, nothing will harm him. Reported by Abu Dawud 4/323, At-Tirmidhi 5/465, Ibn Majah, and Ahmad. See: Sahih Ibn Majah 2/332. Sheikh Ibn Baz graded its chain as hasan in Tuhfat Al-Akhyar, p. 39",
+          "Whoever says it three times in the morning and evening, it will be a right upon Allah to please him on the Day of Resurrection. Ahmad 4/337, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 4, Ibn As-Sunni no. 68, Abu Dawud 4/418, and At-Tirmidhi 5/465. Ibn Baz graded it as hasan in Tuhfat Al-Akhyar, p. 39",
+          "Si Al-Hakim, na nagpatotoo nito at si Adh-Dhahabi ay sumang-ayon sa 1/545. Tingnan ang Sahih At-Targhib wa At-Tarhib 1/273",
+          "At pagdating ng gabi, siya ay nagsabi: 'Narating na natin ang gabi at sa mismong oras na ito ang lahat ng kapangyarihan ay kay Allah, Panginoon ng mga daigdig.'",
+          "At pagdating ng gabi, siya ay nagsabi: 'O Allah, hinihiling ko sa Iyo ang kabutihan ng gabing ito: ang tagumpay nito, ang tulong nito, ang liwanag nito, ang mga pagpapala nito, at ang patnubay nito. At ako ay nagpapakupkop sa Iyo mula sa kasamaan na nasa loob nito at sa kasamaang kasunod nito.'",
+          "Abu Dawud 4/322. Shu'ayb and 'Abd al-Qadir al-Arna'ut graded its chain as hasan in their verification of Zad Al-Ma'ad 2/273",
+          "At pagdating ng gabi, sinabi niya: 'Narating na natin ang gabi sa likas na relihiyon ng Islam.'",
+          "Ahmad 3/406 and 407, and Ibn As-Sunni in 'Amal Al-Yawm wa Al-Laylah no. 34. See: Sahih Al-Jami' 4/209",
+          "Sinuman ang magsabi nito ng isang daang beses sa umaga at gabi, walang darating sa Araw ng Muling Pagkabuhay na may anumang bagay na mas mabuti kaysa sa kanyang dinala, maliban sa sinumang nagsabi ng katulad ng kanyang ginawa o higit pa. Isinalaysay ni Muslim 4/2071",
+          "An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 24. See: Sahih At-Targhib wa At-Tarhib 1/272, and Tuhfat Al-Akhyar by Ibn Baz, p. 44. See its virtue on p. 146, hadith no. 255",
+          "Abu Dawud 4/319, Ibn Majah, and Ahmad 4/60. See: Sahih At-Targhib wa At-Tarhib 1/270, Sahih Abi Dawud 3/957, Sahih Ibn Majah 2/331, and Zad Al-Ma'ad 2/377",
+          "Whoever says it one hundred times in a day, it will be for him the equivalent of freeing ten slaves, and one hundred good deeds will be written for him, and one hundred bad deeds will be erased from him, and it will be a protection for him from Satan for that day until evening, and no one will bring anything better than what he has brought except for someone who has done more than that. Al-Bukhari 4/95, and Muslim 4/2071",
+          "Muslim 4/2090",
+          "Reported by Ibn As-Sunni in 'Amal Al-Yawm wa Al-Laylah no. 54 and Ibn Majah no. 925. 'Abd al-Qadir and Shu'ayb al-Arna'ut graded its chain as hasan in their verification of Zad Al-Ma'ad 2/375",
+          "Al-Bukhari with Fath 11/101, and Muslim 4/2075",
+          "Whoever says it in the evening three times, the sting of that night will not harm him. Reported by Ahmad 2/290, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 590, and Ibn As-Sunni no. 68. See: Sahih At-Tirmidhi 3/187, Sahih Ibn Majah 2/266, and Tuhfat Al-Akhyar, p. 45",
+          "Ang sinumang magdasal sa akin ng sampung beses sa umaga at sampung beses sa gabi, ang aking pamamagitan ay makakarating sa kanya sa Araw ng Muling Pagkabuhay... Isinalaysay ni At-Tabarani na may dalawang tanikala, na ang isa ay mabuti. Tingnan ang Al-Zawa'id 10/120 at Sahih At-Targhib wa At-Tarhib 1/273"
+        ]
+      },
+      "Mga Alaala para sa Pagtulog": {
+        "text": [
+          "Dapat niyang ilapat ang kanyang mga kamay, pagkatapos ay hipan ang mga ito at bigkasin ang: Sa pangalan ni Allah, ang Pinakamaawain, ang Pinakamaawain {Sabihin, 'Siya ang Allah, [na] Isa, * Allah, ang Walang Hanggang Kanlungan. * Siya ay hindi nanganak o ipinanganak, * Ni walang katumbas sa Kanya.'} Sa pangalan ni Allah, ang Pinakamaawain, ang Pinakamaawain {Sabihin, 'Ako ay nagpapakupkop sa Panginoon ng bukang-liwayway * Mula sa kasamaan ng Kanyang nilikha * At mula sa kasamaan ng kadiliman kapag ito ay naninirahan * At mula sa kasamaan ng mga humihipan sa kasamaan ng isang pangalan ng Allah} ang Pinakamaawain, ang Pinakamaawain {Sabihin, 'Ako ay nagpapakupkop sa Panginoon ng sangkatauhan, * Ang Soberano ng sangkatauhan. * Ang Diyos ng sangkatauhan. * Mula sa kasamaan ng umaatras na bumubulong - * Na bumubulong ng [kasamaan] sa dibdib ng sangkatauhan - * Mula sa gitna ng mga jinn at sangkatauhan.'} Pagkatapos ay dapat niyang punasan ng mga ito ang anumang makakaya niya sa kanyang katawan, simula sa kanyang ulo, kanyang mukha, at harap ng kanyang katawan. (Dapat niyang gawin ito ng tatlong beses).",
+          "{Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.}",
+          "{Ang Sugo ay naniwala sa ipinahayag sa kanya mula sa kanyang Panginoon, at [gayundin] ang mga mananampalataya. Lahat sila ay naniwala kay Allah at sa Kanyang mga anghel at sa Kanyang mga aklat at sa Kanyang mga mensahero, [na nagsasabi], 'Kami ay walang pagtatangi sa alinman sa Kanyang mga sugo.' At kanilang sinasabi, 'Kami ay nakikinig at kami ay sumusunod. [Humihingi kami] ng Iyong kapatawaran, aming Panginoon, at sa Iyo ang [huling] patutunguhan.' * Hindi sinisingil ng Allah ang isang kaluluwa maliban [na nasa loob ng] kakayahan nito. Ito ay magkakaroon [ng kahihinatnan ng] kung ano ang [kabutihan] na natamo nito, at ito ay magtataglay [ang kahihinatnan ng] kung ano ang [kasamaan] na nakuha nito. 'Aming Panginoon, huwag mo kaming sisihin kung kami ay nakalimot o nagkamali. Aming Panginoon, at huwag mo kaming bigyan ng pasanin na gaya ng iniatang Mo sa mga nauna sa amin. Panginoon namin, at huwag mo kaming bigyan ng pasanin ng hindi namin kayang dalhin. At patawarin mo kami; at patawarin mo kami; at maawa ka sa amin. Ikaw ang aming tagapagtanggol, kaya bigyan mo kami ng tagumpay laban sa mga taong hindi naniniwala.'}",
+          "Sa Iyong pangalan, aking Panginoon, inilalagay ko ang aking tagiliran, at sa pamamagitan Mo ay itinataas ko ito. Kung kukunin Mo ang aking kaluluwa, pagkatapos ay maawa ka rito, at kung ibabalik Mo ito, pagkatapos ay protektahan ito ng iyong pinangangalagaan ang Iyong mga matuwid na tagapaglingkod.",
+          "O Allah, nilikha Mo ang aking kaluluwa, at kinuha Mo ito. Sa Iyo ang kamatayan at buhay nito. Kung bibigyan Mo ito ng buhay, pagkatapos ay protektahan ito, at kung Iyong dahilan upang mamatay ito, pagkatapos ay patawarin ito. O Allah, hinihiling ko sa Iyo ang kapakanan.",
+          "O Allah, protektahan mo ako mula sa Iyong kaparusahan sa araw na Iyong buhayin ang Iyong mga lingkod. (Tatlong beses)",
+          "Sa pangalan Mo, O Allah, ako ay namamatay at ako ay nabubuhay.",
+          "Luwalhati kay Allah (tatlumpu't tatlong beses), at papuri sa Allah (tatlumpu't tatlong beses), at si Allah ang pinakadakila (tatlumpu't apat na beses).",
+          "O Allah, Panginoon ng pitong langit at Panginoon ng Makapangyarihang Trono, aming Panginoon at Panginoon ng lahat ng mga bagay, Splitter ng butil at datiles na bato, Tagapaghayag ng Torah, Ebanghelyo, at Furqan, nagpapakupkop ako sa Iyo mula sa kasamaan ng lahat ng bagay na Iyong hawak sa noo nito. O Allah, Ikaw ang Una, kaya't wala nang nauna sa Iyo, at Ikaw ang Huli, kaya't wala nang susunod sa Iyo, at Ikaw ang Nakikita, kaya't walang mas mataas sa Iyo, at Ikaw ang Nakatago, kaya't wala nang higit pa sa Iyo. Ayusin ang aming utang at pagyamanin kami mula sa kahirapan.",
+          "Ang lahat ng papuri ay para sa Allah na nagpakain sa amin at nagbigay sa amin ng inumin, at nagpasya sa amin at nagbigay sa amin ng kanlungan, sapagka't gaano karami ang walang makakasapat sa kanila o nagbibigay sa kanila ng kanlungan.",
+          "O Allah, Tagaalam ng di-nakikita at nakikita, Tagapaglikha ng mga langit at lupa, Panginoon at Soberano ng lahat ng bagay, ako ay sumasaksi na walang diyos maliban sa Iyo. Ako ay nagpapakupkop sa Iyo mula sa kasamaan ng aking sarili, at mula sa kasamaan ni Satanas at sa kanyang pag-uudyok, at mula sa paggawa ng kasamaan laban sa aking sarili o pagdadala nito sa isang Muslim.",
+          "Bigkasin ang {Alif, Lam, Meem} Tanzil (Surah As-Sajdah), at {Tabarakalladhi biyadihil-mulk} (Surah Al-Mulk).",
+          "O Allah, isinuko ko ang aking sarili sa Iyo, at ipinagkatiwala ko sa Iyo ang aking kapakanan, at tumalikod ako sa Iyo sa pag-asa at takot sa Iyo. Walang kanlungan at walang pagtakas mula sa Iyo maliban sa Iyo. Ako ay naniwala sa Iyong aklat na Iyong ipinahayag at sa Iyong Propeta na Iyong ipinadala."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 9/62 and Muslim 4/1723",
+          "Whoever recites it when he goes to his bed, a guardian from Allah will remain with him, and no devil will approach him until he wakes up. Al-Bukhari with Fath 4/487",
+          "Whoever recites them in a night, they will suffice him. Al-Bukhari with Fath 9/94 and Muslim 1/554. The two verses are from Surah Al-Baqarah, 285-286.",
+          "Kung ang isa sa inyo ay bumangon mula sa kanyang higaan at pagkatapos ay bumalik dito, dapat niyang alabok ito ng gilid ng kanyang damit ng tatlong beses at sabihin ang pangalan ng Allah, sapagkat hindi niya alam kung ano ang sumunod sa kanya dito. At kapag siya ay nakahiga, dapat niyang sabihin... ang hadith.",
+          "Al-Bukhari 11/126 and Muslim 4/2084",
+          "Narrated by Muslim 4/2083 and Ahmad with his wording 2/79",
+          "Kapag ang Sugo ng Allah (saw) ay gustong matulog, ilalagay niya ang kanyang kanang kamay sa ilalim ng kanyang pisngi at pagkatapos ay sasabihin... ang hadith.",
+          "Abu Dawud with his wording 4/311. See Sahih At-Tirmidhi 3/143",
+          "Al-Bukhari with Fath 11/113 and Muslim 4/2083",
+          "Whoever said that when he goes to his bed, it would be better for him than a servant. Al-Bukhari with Fath 7/71 and Muslim 4/2091",
+          "Muslim 4/2084",
+          "Muslim 4/2085",
+          "Abu Dawud 4/317. See Sahih Sunan At-Tirmidhi 3/142",
+          "At-Tirmidhi and An-Nasa'i. See Sahih Al-Jami' 4/255",
+          "Kapag ikaw ay pupunta sa iyong kama, magsagawa ng ablution tulad ng iyong ginagawa para sa pagdarasal, pagkatapos ay humiga sa iyong kanang bahagi at sabihin... ang hadith.",
+          "The Prophet (peace be upon him) said to the one who said that: 'If you die, you will die on the Fitrah (natural disposition).' Al-Bukhari with Fath 11/113 and Muslim 4/2081"
+        ]
+      },
+      "Pagsusumamo Kapag Bumaling sa Gabi": {
+        "text": [
+          "Walang ibang diyos maliban sa Allah, ang Nag-iisa, ang Mananaig, Panginoon ng mga langit at lupa at kung ano ang nasa pagitan nila, ang Dakila sa Kapangyarihan, ang Laging Nagpapatawad."
+        ],
+        "footnote": [
+          "One says this if he turns from side to side during the night. Reported by Al-Hakim, who authenticated it and Adh-Dhahabi agreed 1/540, An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah', and Ibn As-Sunni. See Sahih Al-Jami' 4/213"
+        ]
+      },
+      "Pagsusumamo para sa Pagkabalisa at Takot habang Natutulog at para sa Isang Nahihirapan ng Kalungkutan": {
+        "text": [
+          "Ako ay nagpapakupkop sa perpektong mga salita ni Allah mula sa Kanyang galit at Kanyang kaparusahan, mula sa kasamaan ng Kanyang mga alipin, at mula sa mga pang-uudyok ng mga demonyo at na sila ay naroroon."
+        ],
+        "footnote": [
+          "Abu Dawud 4/12. See Sahih At-Tirmidhi 3/171"
+        ]
+      },
+      "Ano ang Gagawin Kapag Nakakita ng Panaginip o Bangungot": {
+        "text": [
+          "Bahagyang dumura sa kanyang kaliwa (tatlong beses).",
+          "Humingi ng kanlungan kay Allah mula kay Satanas at mula sa kasamaan ng kanyang nakita (tatlong beses).",
+          "Huwag sabihin kahit kanino ang tungkol dito.",
+          "Lumiko sa kabilang panig.",
+          "Bumangon ka at manalangin kung nais niyang gawin ito."
+        ],
+        "footnote": [
+          "Muslim 4/1772",
+          "Muslim 4/1773",
+          "Muslim 4/1772",
+          "Muslim 4/1773",
+          "Muslim 4/1773"
+        ]
+      },
+      "Pagsusumamo para sa Qunut sa Witr na Panalangin": {
+        "text": [
+          "O Allah, patnubayan Mo ako sa mga pinatnubayan Mo, at pagkalooban Mo ako ng kapakanan kabilang sa mga pinagkalooban Mo ng kagalingan, at tanggapin Mo ako sa Iyong pamamahala sa mga Iyong pinamahalaan, at pagpalain Mo ako sa kung ano ang Iyong ibinigay, at protektahan ako mula sa kasamaan ng Iyong itinakda. Para sa Iyo ay nag-utos at walang makapagpapasya sa Iyo. Katotohanan, ang iyong tinanggap bilang kakampi ay hindi nagpapakumbaba, [at ang iyong tinanggap na kaaway ay hindi pinararangalan]. Mapalad ka, aming Panginoon, at dinadakila.",
+          "O Allah, ako ay nagpapakupkop sa Iyong kasiyahan mula sa Iyong galit, at nagpapakupkop ako sa Iyong kapatawaran mula sa Iyong kaparusahan, at nagpapakupkop ako sa Iyo mula sa Iyo. Hindi ko mabilang ang Iyong papuri. Ikaw ay gaya ng pagpuri mo sa iyong sarili.",
+          "O Allah, Ikaw lamang ang aming sinasamba, at sa Iyo kami nagdarasal at nagpapatirapa, at sa Iyo kami nagsusumikap at nagmamadali. Umaasa kami sa Iyong awa at natatakot sa Iyong parusa. Katotohanan, ang Iyong kaparusahan ay aabot sa mga hindi naniniwala. O Allah, humihingi kami ng tulong sa Iyo, at humihingi kami ng Iyong kapatawaran, at pinupuri Ka namin nang may kabutihan, at hindi kami naniwala sa Iyo, at naniniwala kami sa Iyo at nagpapasakop sa Iyo, at tinalikuran namin ang mga hindi naniniwala sa Iyo."
+        ],
+        "footnote": [
+          "Reported by the four compilers of Sunan, Ahmad, Ad-Darimi, Al-Hakim, and Al-Bayhaqi. What is between the brackets is from Al-Bayhaqi. See Sahih At-Tirmidhi 1/144, Sahih Ibn Majah 1/194, and Irwa' al-Ghalil by Al-Albani 2/172",
+          "Reported by the four compilers of Sunan and Ahmad. See Sahih At-Tirmidhi 3/180, Sahih Ibn Majah 1/194, and Al-Irwa' 2/175",
+          "Iniulat ni Al-Bayhaqi sa As-Sunan Al-Kubra at pinatotohanan niya ang tanikala nito 2/211. Sinabi ni Sheikh Al-Albani sa Irwa' al-Ghalil, 'Ito ay isang tunay na kadena' 2/170. Ito ay isang pahayag ni 'Umar."
+        ]
+      },
+      "Pag-alaala pagkatapos ng Salam ng Witr Prayer": {
+        "text": [
+          "Ang Sugo ng Allah (sumakanya nawa ang kapayapaan) ay madalas na binibigkas sa panalanging Witr: (Luwalhatiin ang pangalan ng inyong Panginoon, ang Kataas-taasan), at (Sabihin, O mga hindi naniniwala), at (Sabihin, Siya ang Allah, ang Nag-iisa). Kapag nagbigay siya ng Salam, sasabihin niya: 'Luwalhati sa Hari, ang Kabanal-banalan' [Panginoon ng mga anghel at Espiritu] nang tatlong beses, at sa ikatlong pagkakataon, itataas niya ang kanyang tinig at pahahabain ito."
+        ],
+        "footnote": [
+          "Narrated by An-Nasa'i 3/244, Ad-Daraqutni, and others. What is between the brackets is an addition by Ad-Daraqutni 2/31 and its chain is authentic. See Zad Al-Ma'ad with the verification of Shu'ayb Al-Arna'ut and 'Abd al-Qadir Al-Arna'ut 1/337"
+        ]
+      },
+      "Pagsusumamo para sa Pag-aalala at dalamhati": {
+        "text": [
+          "O Allah, ako ay Iyong alipin, anak ng Iyong alipin, anak ng Iyong babaeng alipin. Ang aking noo ay nasa Iyong kamay. Ang iyong utos sa akin ay natupad magpakailanman at ang iyong utos sa akin ay makatarungan. Hinihiling ko sa Iyo sa bawat pangalan na pagmamay-ari Mo na Iyong ipinangalan sa Iyong Sarili, o ipinahayag sa Iyong Aklat, o itinuro sa sinuman sa Iyong nilikha, o napanatili sa kaalaman ng hindi nakikita sa Iyo, na gawin Mo ang Quran na buhay ng aking puso at liwanag ng aking dibdib, at isang pag-alis para sa aking kalungkutan at pagpapalaya para sa aking pagkabalisa.",
+          "O Allah, ako ay nagpapakupkop sa Iyo mula sa pagkabalisa at kalungkutan, mula sa kawalan ng kakayahan at katamaran, mula sa pagiging kuripot at kaduwagan, at mula sa pagkatalo ng utang at pananaig ng mga tao."
+        ],
+        "footnote": [
+          "Ahmad 1/391, authenticated by Al-Albani",
+          "Al-Bukhari 7/158. The Messenger of Allah (peace be upon him) used to say this supplication frequently."
+        ]
+      },
+      "Pagsusumamo para sa Kapighatian": {
+        "text": [
+          "Walang ibang diyos maliban kay Allah, ang Dakila, ang Mapagpahinuhod. Walang ibang diyos maliban sa Allah, Panginoon ng Makapangyarihang Trono. Walang ibang diyos maliban sa Allah, Panginoon ng mga langit at Panginoon ng marangal na Trono.",
+          "O Allah, umaasa ako sa Iyong awa, kaya huwag mo akong ipagkatiwala sa aking sarili sa isang kisap-mata, at ituwid para sa akin ang lahat ng aking mga gawain. Walang diyos kundi Ikaw.",
+          "Walang diyos maliban sa Iyo; dakila Ka. Katotohanan, ako ay naging kabilang sa mga gumagawa ng kamalian.",
+          "Allah, si Allah ang aking Panginoon. Wala akong iniuugnay sa Kanya."
+        ],
+        "footnote": [
+          "Al-Bukhari 7/154 and Muslim 4/2092",
+          "Abu Dawud 4/324 and Ahmad 5/42. Graded as hasan by Al-Albani in Sahih Abi Dawud 3/959",
+          "At-Tirmidhi 5/529 and Al-Hakim, who authenticated it and Adh-Dhahabi agreed 1/505. See Sahih At-Tirmidhi 3/168",
+          "Reported by Abu Dawud 2/87. See Sahih Ibn Majah 2/335"
+        ]
+      },
+      "Pagsusumamo para sa Pagharap sa Kaaway at Yaong May Awtoridad": {
+        "text": [
+          "O Allah, inilalagay ka namin sa kanilang mga lalamunan at nagpapakupkop kami sa Iyo mula sa kanilang mga kasamaan.",
+          "O Allah, Ikaw ang aking lakas at Ikaw ang aking tagasuporta. Sa pamamagitan mo ako ay gumagalaw, sa pamamagitan mo ako ay umaatake, at sa pamamagitan mo ako lumalaban.",
+          "Ang Allah ay sapat na sa atin, at Siya ang pinakamahusay na Tagapagtanggol ng mga gawain."
+        ],
+        "footnote": [
+          "Abu Dawud 2/89, authenticated by Al-Hakim and Adh-Dhahabi agreed 2/142",
+          "Abu Dawud 3/42 and At-Tirmidhi 5/572. See Sahih At-Tirmidhi 3/183",
+          "Al-Bukhari 5/172"
+        ]
+      },
+      "Pagsusumamo ng Isang Natatakot sa Pang-aapi ng Isang Pinuno": {
+        "text": [
+          "O Allah, Panginoon ng pitong langit at Panginoon ng Makapangyarihang Trono, maging tagapagtanggol ka sa akin mula kay ganito-at-ganoon na anak ni ganito-at-ganito, at sa kanyang mga partisan mula sa Iyong nilikha; baka ang sinoman sa kanila ay magsisalangsang laban sa akin o apihin ako. Makapangyarihan ang Iyong proteksyon, at maluwalhati ang Iyong papuri. Walang diyos kundi Ikaw.",
+          "Si Allah ang pinakadakila, ang Allah ay higit na makapangyarihan kaysa sa lahat ng Kanyang nilikha. Si Allah ay higit na makapangyarihan kaysa sa aking kinatatakutan at kung ano ang aking ingatan. Ako ay nagpapakupkop kay Allah, maliban sa kanya ay walang diyos, ang Isa na humawak sa pitong langit mula sa pagkahulog sa lupa maliban sa Kanyang pahintulot, mula sa kasamaan ng Iyong lingkod na si ganito-at-si, at ang kanyang mga kawal at ang kanyang mga tagasunod at ang kanyang mga tagasuporta, mula sa mga jinn at sangkatauhan. O Allah, maging isang tagapagtanggol para sa akin mula sa kanilang kasamaan. Maluwalhati ang Iyong papuri at makapangyarihan ang Iyong proteksyon, at pinagpala ang Iyong pangalan. Walang ibang diyos maliban sa Iyo. (Tatlong beses)"
+        ],
+        "footnote": [
+          "Al-Bukhari in Al-Adab Al-Mufrad, no. 707, authenticated by Al-Albani in Sahih Al-Adab Al-Mufrad, no. 545",
+          "Al-Bukhari in Al-Adab Al-Mufrad, no. 708, authenticated by Al-Albani in Sahih Al-Adab Al-Mufrad, no. 546"
+        ]
+      },
+      "Pagsusumamo Laban sa Kaaway": {
+        "text": [
+          "O Allah, Tagapagsiwalat ng Aklat, mabilis ang pag-uulat, talunin ang mga katuwang. O Allah, talunin mo sila at kalugin sila."
+        ],
+        "footnote": [
+          "Muslim 3/1362"
+        ]
+      },
+      "Ano ang Sasabihin Kapag Natatakot sa Isang Grupo ng mga Tao": {
+        "text": [
+          "O Allah, sapat na sa akin laban sa kanila kung ano ang ibig Mo."
+        ],
+        "footnote": [
+          "Muslim 4/2300"
+        ]
+      },
+      "Pagsusumamo para sa Isang May Pagdududa sa Pananampalataya": {
+        "text": [
+          "Dapat siyang humingi ng kanlungan kay Allah.",
+          "Dapat niyang itigil ang kanyang pinagdududahan.",
+          "Dapat niyang sabihin: 'Naniniwala ako sa Allah at sa Kanyang mga Sugo.'",
+          "Dapat niyang bigkasin ang kasabihan ng Allah na Makapangyarihan: {Siya ang Una at ang Huli, ang Mataas at ang Matalik, at Siya, sa lahat ng bagay, ang Nakaaalam.}"
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 6/336 and Muslim 1/120",
+          "Al-Bukhari with Fath 6/336 and Muslim 1/120",
+          "Muslim 1/120",
+          "Surah Al-Hadid, Verse: 3. Abu Dawud 4/329, graded as hasan by Al-Albani in Sahih Abi Dawud 3/962"
+        ]
+      },
+      "Pagsusumamo para sa Pag-aayos ng Utang": {
+        "text": [
+          "O Allah, sapat na sa akin ang Iyong pinahintulutan laban sa Iyong ipinagbawal, at gawin akong malaya sa lahat maliban sa Iyo.",
+          "O Allah, ako ay nagpapakupkop sa Iyo mula sa pagkabalisa at kalungkutan, mula sa kawalan ng kakayahan at katamaran, mula sa pagiging kuripot at kaduwagan, at mula sa pagkatalo ng utang at pananaig ng mga tao."
+        ],
+        "footnote": [
+          "At-Tirmidhi 5/560. See Sahih At-Tirmidhi 3/180",
+          "Al-Bukhari 7/158"
+        ]
+      },
+      "Pagsusumamo para sa Waswasah (Bulong) sa Panalangin at Pagbigkas": {
+        "text": [
+          "Ako ay nagpapakupkop kay Allah mula sa isinumpang Satanas, at dumura nang bahagya sa iyong kaliwa (tatlong beses)."
+        ],
+        "footnote": [
+          "Muslim 4/1729, mula sa hadith ni 'Uthman bin Al-'As (nawa'y kalugdan siya ng Allah), kung saan sinabi niya: 'Ginawa ko iyon, at inalis ito ng Allah sa akin.'"
+        ]
+      },
+      "Pagsusumamo para sa Isang Nahihirapan": {
+        "text": [
+          "O Allah, walang kadalian maliban sa iyong ginagawang madali, at ginagawa Mo ang mahirap, kung nais Mo, madali."
+        ],
+        "footnote": [
+          "Narrated by Ibn Hibban in his Sahih, no. 2427 (Mawarid) and Ibn As-Sunni, no. 351. Al-Hafiz said this hadith is authentic, and 'Abd al-Qadir al-Arna'ut authenticated it in his verification of Al-Adhkar by An-Nawawi, p. 106"
+        ]
+      },
+      "Ang Sinasabi at Ginagawa ng Isang Nakagawa ng Kasalanan": {
+        "text": [
+          "Walang alipin na nakagawa ng kasalanan, pagkatapos ay nilinis ng mabuti ang kanyang sarili, pagkatapos ay tumayo at nagdarasal ng dalawang rak'ah, pagkatapos ay humingi ng kapatawaran sa Allah, ngunit patatawarin siya ng Allah."
+        ],
+        "footnote": [
+          "Abu Dawud 2/86 and At-Tirmidhi 2/257, authenticated by Al-Albani in Sahih Abi Dawud 1/283"
+        ]
+      },
+      "Pagsusumamo para sa Pagpatalsik kay Satanas at sa Kanyang mga Bulong": {
+        "text": [
+          "Paghingi ng kanlungan kay Allah mula sa kanya.",
+          "Ang Adhan (tawag sa panalangin).",
+          "Mga alaala at pagbigkas ng Quran."
+        ],
+        "footnote": [
+          "Abu Dawud 1/206 and At-Tirmidhi. See Sahih At-Tirmidhi 1/77. See Surah Al-Mu'minun, verses 98-99",
+          "Muslim 1/291 and Al-Bukhari 1/151",
+          "'Huwag ninyong gawing libingan ang inyong mga bahay. Katotohanan, si Satanas ay tumatakas mula sa bahay kung saan binibigkas ang Surah Al-Baqarah.' Isinalaysay ni Muslim 1/539. Kabilang sa mga bagay na nagtataboy kay Satanas ay ang mga alaala sa umaga at gabi, mga alaala sa pagtulog at paggising, mga alaala sa pagpasok at paglabas ng bahay, mga alaala sa pagpasok at paglabas ng mosque, at iba pang mga itinalagang alaala tulad ng pagbigkas ng Ayat al-Kursi bago matulog, ang huling dalawang talata ng Surah Al-Baqarah, at sinumang magsabi ng 'Walang kasama kundi si Allah. Sa Kanya ang pag-aari at sa Kanya ang lahat ng papuri, at Siya ay may kakayahang gawin ang lahat ng mga bagay' isang daang beses, ito ay magiging isang proteksyon para sa kanya mula kay Satanas sa buong araw. Gayundin, ang Adhan ay nagtataboy kay Satanas."
+        ]
+      },
+      "Pagsusumamo Kapag May Nangyayari na Hindi Nakalulugod o Ang Isa ay Nadaig ng Isang Usapin": {
+        "text": [
+          "Si Allah ay nagtakda, at kung ano ang Kanyang naisin, Kanyang ginagawa.",
+          "Kung ang isang bagay ay magtagumpay sa iyo, sabihin: 'Si Allah ay sapat na para sa akin, at Siya ang pinakamahusay na Tagapagtanggol ng mga gawain.'"
+        ],
+        "footnote": [
+          "'Ang malakas na mananampalataya ay higit na mabuti at higit na minamahal ng Allah kaysa sa mahinang mananampalataya, at sa dalawa ay may kabutihan. Maging masigasig sa kung ano ang kapaki-pakinabang sa iyo, humingi ng tulong mula sa Allah, at huwag maging walang magawa. Kung may mangyari sa iyo, huwag mong sabihing, 'Kung nagawa ko lang sana ang ganito at ganoon,' ngunit sabihin, 'Itinakda ng Allah, at kung ano ang Kanyang naisin, ginagawa Niya,' dahil 'kung sana' ay nagbubukas ng pinto sa gawain ni Satanas.' Muslim 4/2052",
+          "See Takhrij Al-Adhkar by Al-Arna'ut, p. 106"
+        ]
+      },
+      "Binabati ang isang Bagong Magulang at ang Tugon": {
+        "text": [
+          "Pagpalain ka nawa ng Allah sa ibinigay sa iyo, at nawa'y magpasalamat ka sa Tagapagbigay, at nawa'y maabot niya (ang bata) ang kanyang buong lakas, at pagpalain ka nawa ng kanyang katuwiran. Ang isa na binabati ay tumugon sa pagsasabing: 'Pagpalain ka nawa ng Allah at pagkalooban ka ng Kanyang mga pagpapala, at nawa'y gantimpalaan ka ng Allah ng kabutihan, at nawa'y bigyan ka ng Allah ng katulad, at paramihin Niya ang iyong gantimpala.'"
+        ],
+        "footnote": [
+          "See Al-Adhkar by An-Nawawi, p. 349, and Sahih Al-Adhkar by An-Nawawi, by Salim Al-Hilali 2/713"
+        ]
+      },
+      "Paano Protektahan ang mga Bata": {
+        "text": [
+          "Ang Sugo ng Allah (sumakanya nawa ang kapayapaan) ay madalas na humingi ng proteksyon para kay Al-Hasan at Al-Husayn, na nagsasabi: 'Ako ay humihingi ng proteksyon para sa inyo pareho sa perpektong mga salita ni Allah, mula sa bawat demonyo at bawat makamandag na peste, at mula sa bawat masamang mata.'"
+        ],
+        "footnote": [
+          "Al-Bukhari 4/119, from the hadith of Ibn 'Abbas (may Allah be pleased with them)"
+        ]
+      },
+      "Pagsusumamo para sa Maysakit Kapag Bumisita sa Kanila": {
+        "text": [
+          "Walang pinsala, ito ay isang paglilinis, kung niloob ng Allah.",
+          "Hinihiling ko kay Allah ang Dakila, Panginoon ng Makapangyarihang Trono, na pagalingin ka. (Pitong beses)"
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 10/118",
+          "There is no Muslim servant who visits a sick person whose time has not yet come and says seven times... the hadith, but he will be cured. Reported by At-Tirmidhi and Abu Dawud. See Sahih At-Tirmidhi 2/210 and Sahih Al-Jami' 5/180"
+        ]
+      },
+      "Ang Kabutihan ng Pagdalaw sa Maysakit": {
+        "text": [
+          "Ang Propeta (saws) ay nagsabi: 'Kapag ang isang tao ay bumisita sa kanyang kapatid na Muslim, siya ay lumalakad sa ani ng Paraiso hanggang sa siya ay maupo. Pag-upo niya, binalot siya ng awa. Kung ito ay sa umaga, pitumpung libong anghel ang nananalangin para sa kanya hanggang sa gabi, at kung ito ay sa gabi, pitumpung libong anghel ang nananalangin para sa kanya hanggang sa umaga.'"
+        ],
+        "footnote": [
+          "Narrated by At-Tirmidhi, Ibn Majah, and Ahmad. See Sahih Ibn Majah 1/244 and Sahih At-Tirmidhi 1/286. It was also authenticated by Ahmad Shakir."
+        ]
+      },
+      "Pagsusumamo ng Maysakit na Nawalan ng Pag-asa sa Buhay": {
+        "text": [
+          "O Allah, patawarin mo ako, maawa ka sa akin, at isama mo ako sa pinakamataas na kasama.",
+          "Ang Propeta (sumakanya nawa ang kapayapaan) ay ilalagay ang kanyang mga kamay sa tubig at pinupunasan ang kanyang mukha ng mga ito, na nagsasabi: 'Walang diyos maliban kay Allah. Sa katunayan, ang kamatayan ay may mga paghihirap.'",
+          "Walang diyos maliban sa Allah, at si Allah ang pinakadakila. Walang diyos maliban sa Allah, nag-iisa. Walang diyos maliban sa Allah, nag-iisa, na walang katambal. Walang diyos maliban sa Allah; sa Kanya ang paghahari at sa Kanya ang lahat ng papuri. Walang diyos maliban kay Allah, at walang kapangyarihan o kapangyarihan maliban kay Allah."
+        ],
+        "footnote": [
+          "Al-Bukhari 7/10 and Muslim 4/1893",
+          "Al-Bukhari with Fath 8/144. The hadith mentions the Siwak (tooth-stick).",
+          "Reported by At-Tirmidhi and Ibn Majah, authenticated by Al-Albani. See Sahih At-Tirmidhi 3/152 and Sahih Ibn Majah 2/317"
+        ]
+      },
+      "Pag-udyok sa Namamatay": {
+        "text": [
+          "Ang sinumang huling salita ay 'La ilaha illallah' (Walang Diyos maliban sa Allah) ay papasok sa Paraiso."
+        ],
+        "footnote": [
+          "Abu Dawud 3/190. See Sahih Al-Jami' 5/432"
+        ]
+      },
+      "Pagsusumamo para sa Isang Dinaranas ng Kalamidad": {
+        "text": [
+          "Tunay na kay Allah tayo ay pag-aari at sa Kanya tayo babalik. O Allah, gantimpalaan mo ako sa aking kapahamakan at palitan mo ito ng mas mabuti."
+        ],
+        "footnote": [
+          "Muslim 2/632"
+        ]
+      },
+      "Pagsusumamo Kapag Nakapikit ang mga Mata ng Namatay": {
+        "text": [
+          "O Allah, patawarin mo si ganito-at-ganito (sa kanyang pangalan) at itaas ang kanyang antas sa mga napatnubayan, at pumalit sa kanyang puwesto sa kanyang mga inapo sa mga naiwan. At patawarin kami at siya, O Panginoon ng mga daigdig, at gawing maluwang ang kanyang libingan para sa kanya at liwanagan ito para sa kanya."
+        ],
+        "footnote": [
+          "Muslim 2/634"
+        ]
+      },
+      "Pagsusumamo para sa Namatay sa Panalangin sa Paglilibing": {
+        "text": [
+          "O Allah, patawarin mo siya at maawa ka sa kanya, pagkalooban mo siya ng kabutihan at patawarin siya, at gawing marangal ang kanyang pahingahang dako at palawakin ang kanyang pasukan, at hugasan siya ng tubig, niyebe, at granizo, at linisin siya sa mga kasalanan tulad ng isang puting damit na nililinis ng dumi, at bigyan siya ng tahanan na mas mahusay kaysa sa kanyang tahanan, at isang pamilya na mas mahusay kaysa sa kanyang pamilya, at isang asawang mas mahusay kaysa sa kanyang pamilya, at isang asawa sa Paraiso, at protektahan siya mula sa kanyang asawa, at protektahan siya mula sa Paraiso libingan (at mula sa kaparusahan ng Apoy).",
+          "O Allah, patawarin mo ang aming mga buhay at ang aming mga patay, ang aming kasalukuyan at ang aming wala, ang aming mga bata at aming matanda, ang aming mga lalaki at aming mga babae. O Allah, sinumang Iyong pananatilihin na buhay sa amin, buhayin Mo siyang buhay sa Islam, at sinumang pinapatay Mo sa amin, patayin mo siya sa pananampalataya. O Allah, huwag Mo kaming pagkaitan ng kanyang gantimpala at huwag Mo kaming hayaang maligaw pagkatapos niya.",
+          "O Allah, tunay na si ganito-at-ganoon na anak ni ganito-at-ganito ay nasa ilalim ng Iyong pangangalaga at nasa lubid ng Iyong seguridad, kaya't ingatan mo siya mula sa pagsubok sa libingan at parusa sa Apoy. Ikaw ang Isa na tapat at totoo. Kaya patawarin mo siya at maawa ka sa kanya. Katotohanan, Ikaw ang Mapagpatawad, ang Maawain.",
+          "O Allah, ang Iyong lingkod, ang anak ng Iyong alipin, at ang anak ng Iyong babaeng alipin, ay nangangailangan ng Iyong awa, at hindi Ninyo kailangan ang kanyang kaparusahan. Kung siya ay isang gumagawa ng mabuti, kung gayon ay dagdagan ang kanyang mga mabubuting gawa, at kung siya ay isang gumagawa ng masama, pagkatapos ay palampasin ang kanyang mga maling gawain."
+        ],
+        "footnote": [
+          "Muslim 2/663",
+          "Ibn Majah 1/480 and Ahmad 2/368. See Sahih Ibn Majah 1/251",
+          "Reported by Ibn Majah. See Sahih Ibn Majah 1/251. Narrated by Abu Dawud 3/211",
+          "Reported by Al-Hakim, who authenticated it and Adh-Dhahabi agreed 1/359. See Ahkam Al-Jana'iz by Al-Albani, p. 125"
+        ]
+      },
+      "Pagsusumamo para sa isang Bata sa Panalangin sa Paglilibing": {
+        "text": [
+          "O Allah, ingatan mo siya mula sa parusa ng libingan.",
+          "Kung siya ay nagsabi: 'O Allah, gawin mo siyang isang naunang gantimpala at isang nakaimbak na kayamanan para sa kanyang mga magulang, at isang nasagot na tagapamagitan. O Allah, gawin mong mabigat sa kanya ang timbangan ng kanyang mga magulang at palakihin mo ang kanilang mga gantimpala sa kanya, at isama mo siya sa mga matuwid na mananampalataya, at ilagay siya sa ilalim ng pangangalaga ni Ibrahim, at protektahan siya sa pamamagitan ng Iyong awa mula sa parusa ng Impiyerno, at bigyan siya ng tahanan na mas mahusay kaysa sa kanyang tahanan, at isang pamilya na mas mahusay kaysa sa kanyang pamilya. O Allah, patawarin mo ang mga nauna sa amin, ang aming mga naunang anak, at ang mga nauna sa amin sa pananampalataya,' ito ay mabuti.",
+          "O Allah, gawin mo siya para sa amin na isang naunang gantimpala, isang nauna, at isang gantimpala."
+        ],
+        "footnote": [
+          "Sa'id bin Al-Musayyib said: 'I prayed behind Abu Hurayrah over a child who had never committed a sin, and I heard him say...' the hadith. Reported by Malik in Al-Muwatta' 1/288, Ibn Abi Shaybah in Al-Musannaf 3/217, and Al-Bayhaqi 4/9. Shu'ayb Al-Arna'ut authenticated its chain in his verification of Sharh As-Sunnah by Al-Baghawi 5/357",
+          "See: Al-Mughni by Ibn Qudamah 3/416 and Ad-Durus Al-Muhimmah li-'Ammat Al-Ummah by Sheikh 'Abd al-'Aziz bin 'Abdullah bin Baz, may Allah preserve him, p. 15",
+          "Al-Hasan used to recite Surah Al-Fatihah over the child and say... the hadith. Reported by Al-Baghawi in Sharh As-Sunnah 5/357 and 'Abd ar-Razzaq, no. 6588. Al-Bukhari mentioned it as a ta'liq in the Book of Funerals, chapter 65: Reciting Surah Al-Fatihah over the deceased 2/113"
+        ]
+      },
+      "Pagsusumamo ng pakikiramay": {
+        "text": [
+          "Katotohanan, kay Allah ang Kanyang kinuha, at sa Kanya ang Kanyang ibinigay. At lahat ng bagay sa Kanya ay may takdang panahon... kaya hayaan siyang maging matiyaga at humanap ng gantimpala.",
+          "At kung siya ay nagsabi: 'Nawa'y palakihin ng Allah ang iyong gantimpala, at gawing mabuti ang iyong pagluluksa, at patawarin ang iyong namatay,' ito ay mabuti."
+        ],
+        "footnote": [
+          "Al-Bukhari 2/80 and Muslim 2/636",
+          "Al-Adhkar by An-Nawawi, p. 126"
+        ]
+      },
+      "Pagsusumamo Kapag Inilalagay ang Namatay sa Libingan": {
+        "text": [
+          "Sa ngalan ng Allah at sa Sunnah ng Sugo ng Allah."
+        ],
+        "footnote": [
+          "Abu Dawud 3/314 with an authentic chain, and Ahmad with the wording 'In the name of Allah and upon the religion of the Messenger of Allah' and its chain is authentic."
+        ]
+      },
+      "Pagsusumamo Pagkatapos Ilibing ang Namatay": {
+        "text": [
+          "O Allah, patawarin mo siya. O Allah, patatagin mo siya."
+        ],
+        "footnote": [
+          "When the Prophet (peace be upon him) finished burying the deceased, he would stand over him and say: 'Ask for forgiveness for your brother and ask for him to be made firm, for he is now being questioned.' Abu Dawud 3/315 and Al-Hakim, who authenticated it and Adh-Dhahabi agreed 1/370"
+        ]
+      },
+      "Panalangin para sa Pagdalaw sa mga Libingan": {
+        "text": [
+          "Sumainyo nawa ang kapayapaan, O mga naninirahan sa mga tahanan, mula sa mga mananampalataya at mga Muslim. At kami, kung gugustuhin ni Allah, ay susunod sa iyo. [Nawa'y kaawaan ng Allah ang mga nauna sa atin at ang mga darating pagkatapos.] Hinihiling ko sa Allah ang kapakanan para sa amin at para sa iyo."
+        ],
+        "footnote": [
+          "Muslim 2/671, and Ibn Majah, the wording is his 1/494 from Buraydah (may Allah be pleased with him). What is between the brackets is from the hadith of 'A'ishah (may Allah be pleased with her) in Muslim 2/671"
+        ]
+      },
+      "Pagsusumamo para sa Hangin": {
+        "text": [
+          "O Allah, hinihiling ko sa Iyo ang kabutihan nito, at nagpapakupkop ako sa Iyo mula sa kasamaan nito.",
+          "O Allah, hinihiling ko sa Iyo ang kabutihan nito, ang kabutihang nasa loob nito, at ang kabutihang ipinadala nito. At ako ay nagpapakupkop sa Iyo mula sa kasamaan nito, ang kasamaan na nasa loob nito, at ang kasamaan na ipinadala nito."
+        ],
+        "footnote": [
+          "Reported by Abu Dawud 4/326 and Ibn Majah 2/1228. See Sahih Ibn Majah 2/305",
+          "Muslim 2/616 and Al-Bukhari 4/76"
+        ]
+      },
+      "Pagsusumamo para kay Thunder": {
+        "text": [
+          "Luwalhati sa Isa na niluluwalhati ng kulog sa Kanyang papuri, at sa mga anghel, sa takot sa Kanya."
+        ],
+        "footnote": [
+          "When 'Abdullah bin Az-Zubayr (may Allah be pleased with them) heard thunder, he would stop talking and say... Al-Muwatta' 2/992. Al-Albani said its chain is authentic as a mawquf narration."
+        ]
+      },
+      "Mga Pagsusumamo para sa Ulan": {
+        "text": [
+          "O Allah, bigyan mo kami ng isang nakakatipid, kapaki-pakinabang, nakapagpapalusog, at mayabong na ulan, na hindi nakapipinsala, kaagad at hindi naantala.",
+          "O Allah, bigyan mo kami ng ulan. O Allah, bigyan mo kami ng ulan. O Allah, bigyan mo kami ng ulan.",
+          "O Allah, bigyan ng tubig ang Iyong mga lingkod at ang Iyong mga alagang hayop, at ikalat ang Iyong awa, at buhayin ang Iyong patay na lupain."
+        ],
+        "footnote": [
+          "Abu Dawud 1/303, authenticated by Al-Albani in Sahih Abi Dawud 1/216",
+          "Al-Bukhari 1/224, Muslim 2/613",
+          "Abu Dawud 1/305, graded as hasan by Al-Albani in Sahih Abi Dawud 1/218"
+        ]
+      },
+      "Pagmamakaawa Kapag Umuulan": {
+        "text": [
+          "O Allah, nawa'y maging kapaki-pakinabang na buhos ng ulan."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 2/518"
+        ]
+      },
+      "Remembrance After it Rains": {
+        "text": [
+          "Binigyan tayo ng ulan sa pamamagitan ng biyaya at awa ng Allah."
+        ],
+        "footnote": [
+          "Al-Bukhari 1/205, Muslim 1/83"
+        ]
+      },
+      "Mga Pagsusumamo para sa Pag-clear ng Langit": {
+        "text": [
+          "O Allah, sa paligid namin at hindi sa amin. O Allah, sa mga burol, sa mga bundok, sa mga lambak, at sa mga lugar kung saan tumutubo ang mga puno."
+        ],
+        "footnote": [
+          "Al-Bukhari 1/224, Muslim 2/614"
+        ]
+      },
+      "Pagsusumamo para Makita ang Bagong Buwan": {
+        "text": [
+          "Si Allah ang pinakadakila. O Allah, dalhin mo ito sa amin nang may katiwasayan at pananampalataya, may kapayapaan at Islam, at may patnubay sa kung ano ang iniibig at kinalulugdan ng aming Panginoon. Ang aming Panginoon at ang inyong Panginoon ay si Allah."
+        ],
+        "footnote": [
+          "At-Tirmidhi 5/504 and Ad-Darimi with his wording 1/336. See Sahih At-Tirmidhi 3/157"
+        ]
+      },
+      "Pagsusumamo Kapag Nag-aayuno": {
+        "text": [
+          "Ang pagkauhaw ay nawala, ang mga ugat ay nabasa, at ang gantimpala ay napatunayan, kung niloob ng Allah.",
+          "O Allah, hinihiling ko sa Iyo sa pamamagitan ng Iyong awa na sumasaklaw sa lahat ng bagay, na patawarin Mo ako."
+        ],
+        "footnote": [
+          "Reported by Abu Dawud 2/306 and others. See Sahih Al-Jami' 4/209",
+          "Reported by Ibn Majah 1/557 from the supplication of 'Abdullah bin 'Amr (may Allah be pleased with them). Al-Hafiz graded it as hasan in his verification of Al-Adhkar. See Sharh Al-Adhkar 4/342"
+        ]
+      },
+      "Pagsusumamo Bago Kumain": {
+        "text": [
+          "Kapag ang isa sa inyo ay kumain, hayaan siyang magsabi: 'Sa pangalan ni Allah.' Kung siya ay nakalimutan sa simula, hayaan siyang magsabi: 'Sa pangalan ng Allah sa simula at wakas nito.'",
+          "Sinuman ang pinakain ng Allah ng pagkain, hayaan siyang magsabi: 'O Allah, pagpalain Mo kami dito at pakainin kami ng higit na mabuti kaysa rito.' At sinumang pinainom ni Allah ng gatas, sabihin niya: 'O Allah, pagpalain mo kami dito at dagdagan mo kami mula rito.'"
+        ],
+        "footnote": [
+          "Reported by Abu Dawud 3/347 and At-Tirmidhi 4/288. See Sahih At-Tirmidhi 2/167",
+          "At-Tirmidhi 5/506. See Sahih At-Tirmidhi 3/1"
+        ]
+      },
+      "Pagsusumamo Pagkatapos ng Kainan": {
+        "text": [
+          "Ang lahat ng papuri ay para sa Allah na nagpakain sa akin nito at naglaan nito para sa akin nang walang anumang lakas o kapangyarihan sa aking bahagi.",
+          "Ang lahat ng papuri ay para kay Allah, isang sagana, mabuti, at pinagpalang papuri, [hindi dapat ipagwalang-bahala, o] dapat iwanan, o maiiwan nang walang pangangailangan, ating Panginoon."
+        ],
+        "footnote": [
+          "Reported by the compilers of Sunan except An-Nasa'i. See Sahih At-Tirmidhi 3/159",
+          "Al-Bukhari 6/214 and At-Tirmidhi with his wording 5/507"
+        ]
+      },
+      "Pagsusumamo ng Panauhin para sa Host": {
+        "text": [
+          "O Allah, pagpalain mo sila kung ano ang iyong ipinagkaloob sa kanila, at patawarin mo sila at maawa ka sa kanila."
+        ],
+        "footnote": [
+          "Muslim 3/1626"
+        ]
+      },
+      "Pagsusumamo para sa Isang Nagbigay ng Inumin o Nilalayon": {
+        "text": [
+          "O Allah, pakainin mo ang nagpakain sa akin at painumin mo ang nagpainom sa akin."
+        ],
+        "footnote": [
+          "Muslim 3/26"
+        ]
+      },
+      "Pagsusumamo Kapag Nagbe-break Fast sa Bahay ng Isang Tao": {
+        "text": [
+          "Nawa'y ang mga taong nag-aayuno ay pumutol ng kanilang pag-aayuno kasama mo, at nawa'y kainin ng mga matuwid ang iyong pagkain, at nawa'y magpadala ang mga anghel ng mga panalangin sa iyo."
+        ],
+        "footnote": [
+          "Sunan Abi Dawud 3/367, Ibn Majah 1/556, and An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 298. It is stated that the Prophet (peace be upon him) would say this when breaking his fast at someone's house. Authenticated by Al-Albani in Sahih Abi Dawud 2/730"
+        ]
+      },
+      "Pagsusumamo ng Isang Nag-aayuno Kapag May Pagkain at Hindi Nila Nag-aayuno": {
+        "text": [
+          "Kung ang isa sa inyo ay inanyayahan, dapat niyang tanggapin. Kung siya ay nag-aayuno, dapat siyang manalangin, at kung hindi siya nag-aayuno, dapat siyang kumain. Ang kahulugan ng 'dapat siyang manalangin' ay dapat siyang magsumamo."
+        ],
+        "footnote": [
+          "Muslim 2/1054"
+        ]
+      },
+      "Ano ang Sinasabi ng Isang Nag-aayuno Kung May Mang-insulto sa Kanila": {
+        "text": [
+          "Ako ay nag-aayuno, ako ay nag-aayuno."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 4/103, and Muslim 2/806"
+        ]
+      },
+      "Pagsusumamo Nang Makita ang mga Unang Bunga ng Panahon": {
+        "text": [
+          "O Allah, pagpalain para sa amin ang aming mga bunga, at pagpalain para sa amin ang aming lungsod, at pagpalain para sa amin ang aming sa' (isang yunit ng sukat), at pagpalain para sa amin ang aming mudd (isang yunit ng sukat)."
+        ],
+        "footnote": [
+          "Muslim 2/1000"
+        ]
+      },
+      "Pagsusumamo para sa Pagbahin": {
+        "text": [
+          "Kung ang isa sa inyo ay bumahing, dapat niyang sabihin: 'Alhamdulillah' (Ang lahat ng papuri ay para sa Allah). At ang kanyang kapatid o kasama ay dapat magsabi sa kanya: 'Yarhamukallah' (Nawa'y kaawaan ka ni Allah). Kung siya ay nagsabi ng 'Yarhamukallah' sa kanya, dapat niyang sabihin: 'Yahdeekumullah wa yuslih baalakum' (Nawa'y gabayan ka ng Allah at ayusin ang iyong mga gawain)."
+        ],
+        "footnote": [
+          "Al-Bukhari 7/125"
+        ]
+      },
+      "Ano ang Sasabihin sa Isang Hindi Sumasampalataya na Bumahing at Nagpupuri kay Allah": {
+        "text": [
+          "Nawa'y gabayan ka ng Allah at ayusin ang iyong mga gawain."
+        ],
+        "footnote": [
+          "At-Tirmidhi 5/82, Ahmad 4/400, and Abu Dawud 4/308. See Sahih At-Tirmidhi 2/354"
+        ]
+      },
+      "Pagsusumamo para sa Bagong Kasal": {
+        "text": [
+          "Nawa'y pagpalain kayo ng Allah, at pagkalooban kayo ng Kanyang mga pagpapala, at pagsama-samahin kayo sa kabutihan."
+        ],
+        "footnote": [
+          "Reported by the compilers of Sunan except An-Nasa'i. See Sahih At-Tirmidhi 1/316"
+        ]
+      },
+      "Ang Pagsusumamo ng Nobyo para sa Kanyang Sarili at sa Pagbili ng Bundok": {
+        "text": [
+          "Kapag ang isa sa inyo ay nagpakasal sa isang babae, o kung siya ay bumili ng isang alipin, siya ay dapat magsabi: 'O Allah, hinihiling ko sa Iyo ang kanyang kabutihan at ang kabutihan kung saan Mo siya nilikha, at ako ay nagpapakupkop sa Iyo mula sa kanyang kasamaan at ang kasamaan na nilikha Mo sa kanya.' At kung bibili siya ng kamelyo, dapat niyang hawakan ang tuktok ng umbok nito at ganoon din ang sasabihin."
+        ],
+        "footnote": [
+          "Abu Dawud 2/248 and Ibn Majah 1/617. See Sahih Ibn Majah 1/324"
+        ]
+      },
+      "Pagsusumamo Bago ang Pagtalik": {
+        "text": [
+          "Sa ngalan ni Allah. O Allah, ilayo mo si Satanas sa amin at ilayo mo si Satanas sa mga ipinagkakaloob Mo sa amin."
+        ],
+        "footnote": [
+          "Al-Bukhari 6/141 and Muslim 2/1028"
+        ]
+      },
+      "Pagsusumamo para sa Galit": {
+        "text": [
+          "Ako ay nagpapakupkop kay Allah mula sa isinumpang Satanas."
+        ],
+        "footnote": [
+          "Al-Bukhari 6/99 and Muslim 4/2015"
+        ]
+      },
+      "Pagsusumamo Nang Makita ang Isang Tao sa Pagdurusa": {
+        "text": [
+          "Ang lahat ng papuri ay para sa Allah na nagligtas sa akin mula sa kung ano ang Kanyang pinahirapan sa iyo, at pinaboran ako sa marami sa Kanyang mga nilikha."
+        ],
+        "footnote": [
+          "At-Tirmidhi 5/494 and 5/493. See Sahih At-Tirmidhi 3/153"
+        ]
+      },
+      "Ano ang Sinasabi sa isang Pagtitipon": {
+        "text": [
+          "Si Ibn 'Umar ay nagsabi: 'Ito ay binilang para sa Sugo ng Allah (sumakanya nawa ang kapayapaan) sa isang pagtitipon, isang daang beses bago siya bumangon: 'Aking Panginoon, patawarin mo ako at tanggapin mo ang aking pagsisisi. Katotohanan, Ikaw ang Isa na tumatanggap ng pagsisisi, ang Mapagpatawad.''"
+        ],
+        "footnote": [
+          "At-Tirmidhi and others. See Sahih At-Tirmidhi 3/153 and Sahih Ibn Majah 2/321. The wording is from At-Tirmidhi."
+        ]
+      },
+      "Expiation para sa isang Pagtitipon at Kung Ano ang Magtatapos sa Mga Pagtitipon": {
+        "text": [
+          "Luwalhati sa Iyo, O Allah, at papuri sa Iyo. Sumasaksi ako na walang diyos maliban sa Iyo. Humihingi ako ng Iyong kapatawaran at nagsisisi ako sa Iyo."
+        ],
+        "footnote": [
+          "Reported by the compilers of Sunan. See Sahih At-Tirmidhi 3/153. It is authentically reported from 'A'ishah (may Allah be pleased with her) that she said: 'The Messenger of Allah (peace be upon him) never sat in a gathering, nor recited Quran, nor prayed, but he concluded that with these words...' The hadith was reported by An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah no. 308, and Ahmad 6/77. Dr. Faruq Hamadah authenticated it in his verification of 'Amal Al-Yawm wa Al-Laylah by An-Nasa'i, p. 273"
+        ]
+      },
+      "Panalangin para sa Isang Nagsabi ng 'Ghafarallahu lak' (Patawarin ka nawa ng Allah)": {
+        "text": [
+          "At sa iyo."
+        ],
+        "footnote": [
+          "Ahmad 5/28 and An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah, p. 218, no. 421, verification by Dr. Faruq Hamadah"
+        ]
+      },
+      "Pagsusumamo para sa Isang Pabor sa Iyo": {
+        "text": [
+          "Jazakallahu khairan (Nawa'y gantimpalaan kayo ng Allah ng kabutihan)."
+        ],
+        "footnote": [
+          "Reported by At-Tirmidhi no. 2035. See Sahih Al-Jami' 6244 and Sahih At-Tirmidhi 2/200"
+        ]
+      },
+      "Ano ang Pinoprotektahan mula sa Dajjal (Antikristo)": {
+        "text": [
+          "Ang sinumang nagsaulo ng sampung talata mula sa simula ng Surah Al-Kahf ay protektado mula sa Dajjal. At humingi ng kanlungan kay Allah mula sa kanyang pagsubok pagkatapos ng huling Tashahhud ng bawat panalangin."
+        ],
+        "footnote": [
+          "Muslim 1/555. Sa isa pang salaysay, 'mula sa katapusan ng Al-Kahf' 1/556",
+          "See hadith no. 55 and hadith 56"
+        ]
+      },
+      "Panalangin para sa Isang Nagsasabing 'Mahal kita alang-alang kay Allah'": {
+        "text": [
+          "Nawa'y ang Isa para sa kapakanan na mahal mo ako, ay mahalin ka."
+        ],
+        "footnote": [
+          "Reported by Abu Dawud 4/333, and graded as hasan by Al-Albani in Sahih Sunan Abi Dawud 3/965"
+        ]
+      },
+      "Pagsusumamo para sa Isang Nag-aalok sa Iyo ng Kanilang Kayamanan": {
+        "text": [
+          "Pagpalain ka nawa ng Allah sa iyong pamilya at sa iyong kayamanan."
+        ],
+        "footnote": [
+          "Al-Bukhari, Al-Fath 4/88"
+        ]
+      },
+      "Pagsusumamo para sa Nagpapahiram sa Pagbayad": {
+        "text": [
+          "Pagpalain ka nawa ng Allah sa iyong pamilya at sa iyong kayamanan. Ang tanging gantimpala para sa isang pautang ay papuri at pagbabayad."
+        ],
+        "footnote": [
+          "Reported by An-Nasa'i in 'Amal Al-Yawm wa Al-Laylah, p. 300, and Ibn Majah 2/809. See Sahih Ibn Majah 2/55"
+        ]
+      },
+      "Pagsusumamo para sa Takot sa Shirk (Polytheism)": {
+        "text": [
+          "O Allah, ako ay nagpapakupkop sa Iyo mula sa pagtatambal ng anuman sa Iyo nang nalalaman, at ako ay humihingi ng Iyong kapatawaran sa hindi ko nalalaman."
+        ],
+        "footnote": [
+          "Ahmad 4/403 and others. See Sahih Al-Jami' 3/333 and Sahih At-Targhib wa At-Tarhib by Al-Albani"
+        ]
+      },
+      "Pagsusumamo para sa Isang Nagsasabi ng 'Barakallahu feek' (Pagpalain ka nawa ng Allah)": {
+        "text": [
+          "Wa feeka barakallah (At pagpalain ka rin ng Allah)."
+        ],
+        "footnote": [
+          "Reported by Ibn As-Sunni, p. 138, no. 278. See Al-Wabil As-Sayyib by Ibn Al-Qayyim, p. 304, verification by Bashir Muhammad 'Uyun"
+        ]
+      },
+      "Pagsusumamo para sa Pag-ayaw sa isang Omen": {
+        "text": [
+          "O Allah, walang pangitain maliban sa Iyong tanda, at walang kabutihan maliban sa Iyong kabutihan, at walang diyos maliban sa Iyo."
+        ],
+        "footnote": [
+          "Ahmad 2/220 and Ibn As-Sunni no. 292. Authenticated by Al-Albani in Al-Ahadith As-Sahiha 3/54, no. 1065. As for good omens (fa'l), the Prophet (peace be upon him) used to like them; for this reason, he heard a good word from a man and it pleased him, so he said: 'We have taken your good omen from your mouth.' Abu Dawud and Ahmad, authenticated by Al-Albani in As-Sahiha 2/363 from Abu Ash-Shaykh in 'Akhlaq An-Nabi'"
+        ]
+      },
+      "Panalangin para sa Pagsakay sa Bundok": {
+        "text": [
+          "Sa ngalan ni Allah. Ang lahat ng papuri ay para sa Allah. {Mataas Siya na nagpasakop nito sa atin, at hindi natin ito masusupil. * At sa katunayan, sa ating Panginoon kami ay tiyak na magbabalik.} Ang lahat ng papuri ay para sa Allah, ang lahat ng papuri ay para sa Allah, ang lahat ng papuri ay para sa Allah. Si Allah ang pinakadakila, si Allah ang pinakadakila, si Allah ang pinakadakila. Luwalhati sa Iyo, O Allah. Ako ay nagkasala sa aking sarili, kaya't patawarin mo ako, dahil sa katunayan, walang sinuman ang nagpapatawad ng mga kasalanan maliban sa Iyo."
+        ],
+        "footnote": [
+          "Abu Dawud 3/34 and At-Tirmidhi 5/501. See Sahih At-Tirmidhi 3/156"
+        ]
+      },
+      "Pagsusumamo para sa Paglalakbay": {
+        "text": [
+          "Si Allah ang pinakadakila, si Allah ang pinakadakila, si Allah ang pinakadakila. {Mataas Siya na nagpasakop nito sa atin, at hindi natin ito masusupil. * At sa katunayan, sa aming Panginoon kami ay tiyak na babalik.} O Allah, kami ay humihiling sa Iyo sa aming paglalakbay na ito ng kabutihan at kabanalan, at para sa mga gawaing nakalulugod sa Iyo. O Allah, gawing madali para sa amin ang paglalakbay na ito at paikliin ang distansya nito para sa amin. O Allah, Ikaw ang Kasama sa paglalakbay at Tagapangalaga ng pamilya. O Allah, ako ay nagpapakupkop sa Iyo mula sa kahirapan sa paglalakbay, mula sa karimlan ng mga tanawin, at mula sa masamang kahihinatnan sa kayamanan at pamilya. At kapag siya ay bumalik, siya ay nagsabi ng gayon din at idinagdag sa kanila: 'Pagbabalik, pagsisisi, pagsamba, at pagpupuri sa ating Panginoon.'"
+        ],
+        "footnote": [
+          "Narrated by Muslim 2/978"
+        ]
+      },
+      "Pagsusumamo para sa Pagpasok sa isang Nayon o Bayan": {
+        "text": [
+          "O Allah, Panginoon ng pitong langit at kung ano ang kanilang inililim, at Panginoon ng pitong lupa at kung ano ang kanilang dinala, at Panginoon ng mga demonyo at kung ano ang kanilang iniligaw, at Panginoon ng mga hangin at kung ano ang kanilang ikinalat. Hinihiling ko sa Iyo ang kabutihan ng nayong ito, ang kabutihan ng mga tao nito, at ang kabutihang nasa loob nito. At ako ay nagpapakupkop sa Iyo mula sa kasamaan nito, sa kasamaan ng mga tao nito, at sa kasamaan na nasa loob nito."
+        ],
+        "footnote": [
+          "Al-Hakim, who authenticated it and Adh-Dhahabi agreed 2/100, and Ibn As-Sunni no. 524. Al-Hafiz graded it as hasan in Takhrij Al-Adhkar 5/154. Ibn Baz said: 'Narrated by An-Nasa'i with a good chain.' See Tuhfat Al-Akhyar, p. 37"
+        ]
+      },
+      "Pagsusumamo para sa Pagpasok sa Pamilihan": {
+        "text": [
+          "Walang diyos maliban sa Allah, nag-iisa, na walang katambal. Sa Kanya ang pag-aari at sa Kanya ang lahat ng papuri. Siya ang nagbibigay ng buhay at nagiging sanhi ng kamatayan, at Siya ang Walang-hanggang Buhay na hindi namamatay. Nasa Kanyang kamay ang lahat ng mabuti, at kayang gawin ang lahat ng bagay."
+        ],
+        "footnote": [
+          "At-Tirmidhi 5/491 and Al-Hakim 1/538. Graded as hasan by Al-Albani in Sahih Ibn Majah 2/21 and in Sahih At-Tirmidhi 3/152"
+        ]
+      },
+      "Pagsusumamo kung ang Bundok ay Natitisod": {
+        "text": [
+          "Sa ngalan ni Allah."
+        ],
+        "footnote": [
+          "Abu Dawud 4/296, authenticated by Al-Albani in Sahih Abi Dawud 3/941"
+        ]
+      },
+      "Pagsusumamo ng Manlalakbay para sa Naninirahan": {
+        "text": [
+          "Ipinagkatiwala ko kayo kay Allah, na ang mga pagtitiwala ay hindi mawawala."
+        ],
+        "footnote": [
+          "Ahmad 2/403 and Ibn Majah 2/943. See Sahih Ibn Majah 2/133"
+        ]
+      },
+      "Pagsusumamo ng Residente para sa Manlalakbay": {
+        "text": [
+          "Ipinagkatiwala ko kay Allah ang iyong relihiyon, ang iyong mga pagtitiwala, at ang huli sa iyong mga gawa.",
+          "Nawa'y bigyan ka ng Allah ng kabanalan, patawarin ang iyong kasalanan, at gawing madali para sa iyo ang kabutihan saan ka man naroroon."
+        ],
+        "footnote": [
+          "Ahmad 2/7, At-Tirmidhi 5/499. See Sahih At-Tirmidhi 3/155",
+          "At-Tirmidhi. See Sahih At-Tirmidhi 3/155"
+        ]
+      },
+      "Takbir at Tasbih Sa Paglalakbay": {
+        "text": [
+          "Si Jabir (nawa'y kalugdan siya ng Allah) ay nagsabi: 'Kapag kami ay umakyat, sasabihin namin ang 'Allahu Akbar,' at kapag kami ay bumaba, sasabihin namin ang 'Subhanallah.''"
+        ],
+        "footnote": [
+          "Al-Bukhari, Al-Fath 6/135"
+        ]
+      },
+      "Pagsusumamo ng Manlalakbay sa madaling araw": {
+        "text": [
+          "Narinig ng isang tagapakinig ang ating papuri kay Allah at ang Kanyang mabuting pagsubok sa atin. Panginoon namin, samahan mo kami at ipagkaloob Mo sa amin ang iyong biyaya, na nagpapakupkop kay Allah mula sa Apoy."
+        ],
+        "footnote": [
+          "Muslim 4/2086. Ang kahulugan ng 'narinig ng isang tagapakinig' ay: nasaksihan ng isang saksi ang ating papuri sa Allah para sa Kanyang mga pagpapala at mabuting pagsubok. At ang kahulugan ng 'narinig ng isang tagapakinig' ay: hayaan ang isang tagapakinig na ihatid ang aking pahayag sa iba at sabihin ang katulad nito, bilang isang paalala para sa pag-alaala sa madaling araw at pagsusumamo. At ang kanyang pagsasabi: 'Aming Panginoon, samahan mo kami at ipagkaloob Mo sa amin ang Iyong biyaya' ay nangangahulugan: protektahan mo kami, palibutan mo kami, ingatan mo kami, at ipagkaloob mo sa amin ang Iyong masaganang pagpapala at ilayo mo sa amin ang lahat ng pinsala. Sharh An-Nawawi 17/39"
+        ]
+      },
+      "Pagsusumamo Kapag Huminto sa Isang Lugar Habang Naglalakbay o Kung Hindi": {
+        "text": [
+          "Ako ay nagpapakupkop sa perpektong salita ni Allah mula sa kasamaan ng Kanyang nilikha."
+        ],
+        "footnote": [
+          "Narrated by Muslim 4/2080"
+        ]
+      },
+      "Pag-alaala sa Pagbabalik mula sa Paglalakbay": {
+        "text": [
+          "Siya ay nagsabi ng 'Allahu Akbar' nang tatlong beses sa bawat mataas na lugar, pagkatapos ay nagsabi: 'Walang diyos maliban sa Allah, nag-iisa, na walang katambal. Sa Kanya ang kapangyarihan, at sa Kanya ang lahat ng papuri, at Siya ay may kakayahang gawin ang lahat ng bagay. Ang pagbabalik, pagsisisi, pagsamba, at pagpupuri sa ating Panginoon. Tinupad ng Allah ang Kanyang pangako, at tinulungan ang Kanyang alipin, at tinalo ang mga katuwang nang nag-iisa.'"
+        ],
+        "footnote": [
+          "The Prophet (peace be upon him) used to say it when returning from a battle or Hajj. Al-Bukhari 7/163 and Muslim 2/980"
+        ]
+      },
+      "Ano ang Dapat Sabihin at Gawin Kapag May Nangyayari na Nakalulugod o Hindi Nakalulugod": {
+        "text": [
+          "Kapag ang isang bagay na nakalulugod ay dumating sa Propeta (sumakanya nawa ang kapayapaan), sasabihin niya: 'Ang lahat ng papuri ay para sa Allah, na sa pamamagitan ng kanyang biyaya ay natatapos ang mga mabubuting gawa.' At kung may dumating sa kanya na hindi nakalulugod, sasabihin niya: 'Ang lahat ng papuri ay para kay Allah sa lahat ng pagkakataon.'"
+        ],
+        "footnote": [
+          "Iniulat ni Ibn As-Sunni sa 'Amal Al-Yawm wa Al-Laylah at Al-Hakim, na pinatotohanan ito 1/499. Pinatotohanan ni Al-Albani sa Sahih Al-Jami' 4/201"
+        ]
+      },
+      "Ang Kabutihan ng Pagpapadala ng mga Panalangin sa Propeta (sumakanya nawa ang kapayapaan)": {
+        "text": [
+          "Ang Propeta (sumakanya nawa ang kapayapaan) ay nagsabi: 'Sinuman ang magpadala ng isang panalangin sa akin, ang Allah ay magpapadala sa kanya ng sampung panalangin.'",
+          "At ang Propeta (sumakanya nawa ang kapayapaan) ay nagsabi: 'Huwag mong gawing lugar ng kapistahan ang aking libingan, bagkus padalhan mo ako ng panalangin, sapagkat ang iyong mga panalangin ay makakarating sa akin saanman ka naroroon.'",
+          "At ang Propeta (sumakanya nawa ang kapayapaan) ay nagsabi: 'Ang kuripot ay ang taong sa kanyang harapan ay binanggit ako at hindi siya nagpapadala ng mga panalangin sa akin.'",
+          "At ang Propeta (sumakanya nawa ang kapayapaan) ay nagsabi: 'Katotohanan, ang Allah ay may mga anghel na naglalakbay sa buong mundo, na naghahatid sa akin ng mga pagbati ng kapayapaan mula sa aking Ummah.'",
+          "At ang Propeta (sumakanya nawa ang kapayapaan) ay nagsabi: 'Walang sinuman ang nagpapadala ng pagbati ng kapayapaan sa akin ngunit ibinalik ng Allah ang aking kaluluwa sa akin upang maibalik ko ang pagbati ng kapayapaan.'"
+        ],
+        "footnote": [
+          "Reported by Muslim 1/288",
+          "Abu Dawud 2/218 and Ahmad 2/367. Authenticated by Al-Albani in Sahih Abi Dawud 2/383",
+          "At-Tirmidhi 5/551 and others. See Sahih Al-Jami' 3/25 and Sahih At-Tirmidhi 3/177",
+          "An-Nasa'i, and Al-Hakim 2/421. Authenticated by Al-Albani in Sahih An-Nasa'i 1/274",
+          "Abu Dawud no. 2041, graded as hasan by Al-Albani in Sahih Abi Dawud 1/383"
+        ]
+      },
+      "Pagpapalaganap ng Salam (Pagbati ng Kapayapaan)": {
+        "text": [
+          "Ang Sugo ng Allah (sumakanya nawa ang kapayapaan) ay nagsabi: 'Hindi kayo papasok sa Paraiso hangga't hindi kayo naniniwala, at hindi kayo maniniwala hangga't hindi ninyo minamahal ang isa't isa. Hindi ko ba kayo gagabayan sa isang bagay na kung gagawin ninyo ito, mamahalin ninyo ang isa't isa? Ikalat ang Salam sa inyong mga sarili.'",
+          "Tatlong bagay, sinumang pagsamahin ang mga ito ay may pinagsamang pananampalataya: pagiging patas mula sa iyong sarili, pag-aalay ng Salam sa mundo, at paggastos mula sa maliit.",
+          "Sa awtoridad ni 'Abdullah bin 'Umar (kalugdan sila ng Allah): Isang lalaki ang nagtanong sa Propeta (sumakanya nawa ang kapayapaan), 'Ano ang pinakamahusay sa Islam?' Sinabi niya: 'Upang pakainin ang mga mahihirap at batiin ng Salam ang mga kilala mo at ang mga hindi mo kilala.'"
+        ],
+        "footnote": [
+          "Muslim 1/74 and others",
+          "Al-Bukhari with Fath 1/82 from 'Ammar (may Allah be pleased with him), as a mawquf, mu'allaq narration",
+          "Al-Bukhari with Fath 1/55 and Muslim 1/65"
+        ]
+      },
+      "Paano Magbabalik ng Salam sa isang Hindi Sumasampalataya kung Bumati sila": {
+        "text": [
+          "Kung ang mga Tao ng Aklat ay bumati sa iyo, pagkatapos ay sabihin: 'Wa 'alaykum' (At sa iyo)."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 11/42, and Muslim 4/1705"
+        ]
+      },
+      "Pagsusumamo para sa Pagtilaok ng Tandang at Pagtitilaok ng Asno": {
+        "text": [
+          "Kapag narinig ninyo ang pagtilaok ng mga tandang, hingin ninyo kay Allah ang Kanyang kagandahang-loob, sapagkat sila ay nakakita ng isang anghel. At kapag narinig mo ang ingay ng isang asno, humingi ng kanlungan kay Allah mula kay Satanas, sapagkat ito ay nakakita ng demonyo."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 6/350, and Muslim 4/2092"
+        ]
+      },
+      "Pagsusumamo para sa Tahol ng mga Aso sa Gabi": {
+        "text": [
+          "Kapag narinig mo ang tahol ng mga aso at ang ingay ng mga asno sa gabi, humingi ng kanlungan kay Allah mula sa kanila, dahil nakikita nila ang hindi mo nakikita."
+        ],
+        "footnote": [
+          "Abu Dawud 4/327 and Ahmad 3/306. Authenticated by Al-Albani in Sahih Abi Dawud 3/961"
+        ]
+      },
+      "Pagsusumamo para sa Isang Sinumpa Mo": {
+        "text": [
+          "Ang Propeta (sumakanya nawa ang kapayapaan) ay nagsabi: 'O Allah, sinumang mananampalataya ang aking isinumpa, gawin iyan na isang paraan ng paglapit sa Iyo para sa kanya sa Araw ng Muling Pagkabuhay.'"
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 11/171 and Muslim 4/2007, whose wording is 'make it for him a purification and a mercy.'"
+        ]
+      },
+      "Ano ang Sinasabi ng isang Muslim Kapag Pinupuri ang Ibang Muslim": {
+        "text": [
+          "Ang Propeta (sumakanya nawa ang kapayapaan) ay nagsabi: 'Kung ang isa sa inyo ay dapat purihin ang kanyang kasamahan, hayaan siyang magsabi: 'Itinuturing kong si ganito at si ganito ay si ganito-at-si, at si Allah ang kanyang tagapagbilang, at hindi ko pinabanal ang sinuman sa harap ng Allah. Itinuturing ko siyang - kung alam niya iyon - ganito-at-ganyan.''"
+        ],
+        "footnote": [
+          "Narrated by Muslim 4/2296"
+        ]
+      },
+      "Ano ang Sinasabi ng isang Muslim Kapag Sila ay Pinupuri": {
+        "text": [
+          "O Allah, huwag mo akong panagutin sa kanilang sinasabi, at patawarin mo ako sa hindi nila nalalaman, [at gawin mo akong mas mabuti kaysa sa kanilang iniisip]."
+        ],
+        "footnote": [
+          "Al-Bukhari in Al-Adab Al-Mufrad, no. 761. Al-Albani authenticated its chain in Sahih Al-Adab Al-Mufrad, no. 585. What is between the brackets is an addition by Al-Bayhaqi in Shu'ab Al-Iman 4/228 from another route."
+        ]
+      },
+      "Paano Ang isang Pilgrim sa Hajj o 'Umrah ay Nagsasabi ng Talbiyah": {
+        "text": [
+          "Labbyka Allahumma Labbyk, nilinis si Labbyka. Walang paraan upang pumunta sa wal-mulk, ngunit siya ay malinis. (Narito ako, O Allah, narito ako. Narito ako, nasa Iu ang aking pangalan. Tunay, ang Tunay, Lroed, Biyaya, at soiignty sa isa."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 3/408, and Muslim 2/841"
+        ]
+      },
+      "Ang Takbir Kapag Naabot ang Itim na Bato": {
+        "text": [
+          "Ang Propeta (sumakanya nawa ang kapayapaan) ay umikot sa Bahay sakay ng isang kamelyo. Sa tuwing darating siya sa Sulok, itinuturo niya ito gamit ang isang bagay na mayroon siya at magsasabi ng 'Allahu Akbar'."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 3/476. The 'something' refers to a crooked staff. See: Al-Bukhari with Fath 3/472"
+        ]
+      },
+      "Pagsusumamo sa pagitan ng Sulok ng Yemeni at ng Black Stone": {
+        "text": [
+          "{Aming Panginoon, bigyan mo kami sa mundong ito [na] mabuti at sa Kabilang-Buhay [na] mabuti at iligtas mo kami mula sa kaparusahan ng Apoy.}"
+        ],
+        "footnote": [
+          "Abu Dawud 2/179, Ahmad 3/411, and Al-Baghawi in Sharh As-Sunnah 7/128. Graded as hasan by Al-Albani in Sahih Abi Dawud 1/354. The verse is from Surah Al-Baqarah, 201."
+        ]
+      },
+      "Pagsusumamo Kapag Nakatayo sa As-Safa at Al-Marwah": {
+        "text": [
+          "Nang ang Propeta (sumakanya nawa ang kapayapaan) ay lumapit sa As-Safa, binibigkas niya: {Katotohanan, ang As-Safa at Al-Marwah ay kabilang sa mga simbolo ng Allah.} 'Nagsisimula ako sa kung ano ang sinimulan ni Allah.' Kaya nagsimula siya sa As-Safa, umakyat dito hanggang sa makita niya ang Ka'bah. Siya ay humarap sa Qiblah, ipinahayag ang Kaisahan at kadakilaan ni Allah, at nagsabi: 'Walang diyos maliban sa Allah, nag-iisa, na walang katambal. Sa Kanya ang kapangyarihan at sa Kanya ang lahat ng papuri, at Siya ay may kakayahang gawin ang lahat ng bagay. Walang diyos maliban sa Allah, nag-iisa. Tinupad Niya ang Kanyang pangako, at tinulungan ang Kanyang lingkod, at nag-iisang tinalo ang mga katunggali.' Pagkatapos ay nagsumamo siya sa pagitan niyon. Tatlong beses niyang sinabi ito. Ang hadith ay nagpatuloy: 'Ginawa niya sa Al-Marwah tulad ng ginawa niya sa As-Safa.'"
+        ],
+        "footnote": [
+          "Muslim 2/888"
+        ]
+      },
+      "Pagsusumamo sa Araw ng 'Arafah": {
+        "text": [
+          "Ang pinakamainam sa mga pagsusumamo ay ang pagsusumamo sa Araw ng 'Arafah, at ang pinakamabuti sa sinabi ko at ng mga Propeta na nauna sa akin ay: 'Walang diyos maliban sa Allah, nag-iisa, na walang katambal. Sa Kanya ang kapangyarihan at sa Kanya ang lahat ng papuri, at Siya ay may kakayahang gawin ang lahat ng bagay.'"
+        ],
+        "footnote": [
+          "At-Tirmidhi, graded as hasan by Al-Albani in Sahih At-Tirmidhi 3/184, and in As-Silsilah As-Sahiha 4/6"
+        ]
+      },
+      "Pag-alaala sa Al-Mash'ar Al-Haram": {
+        "text": [
+          "Ang Propeta (sumakanya nawa ang kapayapaan) ay sumakay sa Al-Qaswa' hanggang sa marating niya ang Al-Mash'ar Al-Haram. Siya ay humarap sa Qiblah, (nagsumamo sa Kanya, nagsabi ng 'Allahu Akbar,' 'La ilaha illallah,' at ipinahayag ang Kanyang Kaisahan) at nanatiling nakatayo hanggang sa ito ay napakaliwanag. Pagkatapos ay umalis siya bago sumikat ang araw."
+        ],
+        "footnote": [
+          "Muslim 2/891"
+        ]
+      },
+      "Ang Takbir Kapag Binabato ang Jamarat sa Bawat Pebble": {
+        "text": [
+          "Siya ay nagsasabi ng 'Allahu Akbar' sa tuwing naghahagis siya ng maliit na bato sa tatlong Jamarat. Pagkatapos ay sumulong siya, tumayo, at nagsusumamo nang nakaharap sa Qiblah, itinaas ang kanyang mga kamay pagkatapos ng una at pangalawang Jamrah. Tungkol naman sa Jamrat Al-'Aqabah, binabato niya ito at nagsabi ng 'Allahu Akbar' sa bawat maliit na bato, pagkatapos ay umalis nang hindi nakatayo doon."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 3/583 and 3/584, see its wording there. And Al-Bukhari with Fath 3/581, also narrated by Muslim."
+        ]
+      },
+      "Ano ang Sasabihin sa Pagtataka o Isang Nakalulugod na Bagay": {
+        "text": [
+          "Subhanallah (Luwalhati sa Allah)",
+          "Allahu Akbar (Allah ang pinakadakila)"
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 1/210, 390, 414 and Muslim 4/1857",
+          "Al-Bukhari, Al-Fath 8/441. See Sahih At-Tirmidhi 2/103 and 2/235, and Musnad Ahmad 5/218"
+        ]
+      },
+      "Ano ang Dapat Gawin Kapag May Nangyari": {
+        "text": [
+          "Kapag ang isang bagay na nakalulugod o nakalulugod ay dumating sa Propeta (sumakanya nawa ang kapayapaan), siya ay magpapatirapa bilang pasasalamat sa Allah, ang Pinagpala at Dakila."
+        ],
+        "footnote": [
+          "Narrated by the compilers of Sunan except An-Nasa'i. See Sahih Ibn Majah 1/233 and Irwa' al-Ghalil 2/226"
+        ]
+      },
+      "Ano ang Sasabihin Kapag Nakaramdam ng Sakit sa Katawan": {
+        "text": [
+          "Ilagay ang iyong kamay sa bahagi ng iyong katawan na masakit at sabihin ang: 'Bismillah' (Sa ngalan ng Allah) ng tatlong beses. At sabihin ng pitong beses: 'A'udhu billahi wa qudratihi min sharri ma ajidu wa uhadhir' (Ako ay nagpapakupkop kay Allah at sa Kanyang kapangyarihan mula sa kasamaan ng aking nararamdaman at kung ano ang aking kinakatakutan)."
+        ],
+        "footnote": [
+          "Muslim 4/1728"
+        ]
+      },
+      "Pagsusumamo ng Isang Natatakot na Magsakit ng Isang Bagay na may Masasamang Mata": {
+        "text": [
+          "Kung ang isa sa inyo ay nakakita ng isang bagay mula sa kanyang kapatid, o mula sa kanyang sarili, o mula sa kanyang kayamanan na kanyang nagustuhan, [hayaan siyang manalangin para sa mga pagpapala para dito], sapagkat ang masamang mata ay totoo."
+        ],
+        "footnote": [
+          "Musnad Ahmad 4/447, Ibn Majah, and Malik. Authenticated by Al-Albani in Sahih Al-Jami' 1/212. See the verification of Zad Al-Ma'ad by Al-Arna'ut 4/170"
+        ]
+      },
+      "Ano ang Sasabihin Kapag Natatakot": {
+        "text": [
+          "La ilaha illallah (Walang diyos maliban sa Allah)."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 6/181, and Muslim 4/2208"
+        ]
+      },
+      "Ano ang Sasabihin Sa Pagkatay o Paghahain": {
+        "text": [
+          "Bismillah, Allahu Akbar. [O Allah, mula sa Iyo at para sa Iyo.] O Allah, tanggapin mo mula sa akin."
+        ],
+        "footnote": [
+          "Muslim 3/1557 at Al-Bayhaqi 9/287. Ang nasa pagitan ng mga bracket ay mula sa Al-Bayhaqi 9/287 at iba pa. Ang huling pangungusap ay naihatid sa kahulugan mula sa pagsasalaysay ng Muslim."
+        ]
+      },
+      "Ano ang Sasabihin para Maitaboy ang Kasamaan ng Mapanghimagsik na Diyablo": {
+        "text": [
+          "Ako ay nagpapakupkop sa perpektong mga salita ni Allah, na walang matuwid o masamang tao ang maaaring labagin, mula sa kasamaan ng Kanyang nilikha, na nilikha, at lumaganap, mula sa kasamaan ng kung ano ang bumaba mula sa langit, mula sa kasamaan ng kung ano ang umakyat doon, mula sa kasamaan ng kung ano ang nilikha sa lupa, mula sa kasamaan ng anumang lumalabas dito, at mula sa kasamaan ng mga pagsubok, at mula sa kasamaan ng mga pagsubok, at mula sa kasamaan ng isang araw. na may kasamang kabutihan, O Pinakamaawain."
+        ],
+        "footnote": [
+          "Ahmad 3/419 with an authentic chain, and Ibn As-Sunni no. 637. Al-Arna'ut authenticated its chain in his verification of At-Tahawiyyah, p. 133. See Majma' Az-Zawa'id 10/127."
+        ]
+      },
+      "Paghahanap ng Kapatawaran at Pagsisisi": {
+        "text": [
+          "Ang Sugo ng Allah (sumakanya nawa ang kapayapaan) ay nagsabi: 'Sumpa sa Allah, ako ay humihingi ng kapatawaran sa Allah at nagsisisi sa Kanya nang higit sa pitumpung beses sa isang araw.'",
+          "At siya (sumakanya nawa ang kapayapaan) ay nagsabi: 'O mga tao, magsisi kayo kay Allah, sapagkat ako ay nagsisi sa Kanya ng isang daang beses sa isang araw.'",
+          "At siya (sumakanya nawa ang kapayapaan) ay nagsabi: 'Sinuman ang magsabi: 'Ako ay humihingi ng kapatawaran sa Allah na Dakila, maliban sa kanya ay walang diyos, ang Walang-hanggang Buhay, ang Nagmamasid sa Sarili, at ako ay nagsisi sa Kanya,' si Allah ay patatawarin siya, kahit na siya ay tumakas mula sa larangan ng digmaan.'",
+          "At siya (sumakanya nawa ang kapayapaan) ay nagsabi: 'Ang pinakamalapit na Panginoon sa isang alipin ay nasa huling bahagi ng gabi, kaya kung ikaw ay maaaring kabilang sa mga nakaaalaala kay Allah sa oras na iyon, pagkatapos ay gawin mo ito.'",
+          "At siya (sumakanya nawa ang kapayapaan) ay nagsabi: 'Ang pinakamalapit na alipin sa kanyang Panginoon ay kapag siya ay nagpapatirapa, kaya dagdagan ninyo ang inyong mga pagsusumamo.'",
+          "At siya (sumakanya nawa ang kapayapaan) ay nagsabi: 'Katotohanan, kung minsan ay may takip sa aking puso, at ako ay humihingi ng kapatawaran kay Allah nang isang daang beses sa isang araw.'"
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 11/101",
+          "Muslim 4/2076",
+          "Reported by Abu Dawud 2/85, At-Tirmidhi 5/569, and Al-Hakim who authenticated it and Adh-Dhahabi agreed 1/511. Authenticated by Al-Albani. See Sahih At-Tirmidhi 3/182 and Jami' Al-Usul li-Ahadith Ar-Rasul (peace be upon him) 4/389-390 with the verification of Al-Arna'ut.",
+          "Reported by At-Tirmidhi, An-Nasa'i 1/279, and Al-Hakim. See Sahih At-Tirmidhi 3/183 and Jami' Al-Usul with the verification of Al-Arna'ut 4/144.",
+          "Muslim 1/350",
+          "Iniulat ni Muslim 4/2075. Sinabi ni Ibn Al-Athir: '(Isang takip sa aking puso)' ay nangangahulugang ito ay natatakpan o nakatalukbong. Ang ibig sabihin ay pagkalimot; dahil siya (sumakanya nawa ang kapayapaan) ay palaging nasa isang estado ng pagtaas ng pag-alala, pagiging malapit, at patuloy na pagbabantay, kaya kung may nakalimutan siya tungkol dito minsan, o nakakalimutan, itinuring niya ito bilang isang kasalanan sa kanyang sarili at nagmamadaling humingi ng kapatawaran. Tingnan ang Jami' Al-Usul 4/386."
+        ]
+      },
+      "The Virtue of Tasbih, Tahmid, Tahlil, and Takbir": {
+        "text": [
+          "Ang Propeta (sumakanya nawa ang kapayapaan) ay nagsabi: 'Sinuman ang magsabi ng 'Subhanallahi wa bihamdihi' (Luwalhati sa Allah at papuri sa Kanya) isang daang beses sa isang araw, ang kanyang mga kasalanan ay mabubura, kahit na ang mga ito ay parang bula ng dagat.'",
+          "At siya (sumakanya nawa ang kapayapaan) ay nagsabi: 'Sinuman ang magsabi ng 'La ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu, wa huwa 'ala kulli shay'in qadir' (Walang diyos maliban sa Allah, nag-iisa, walang katambal. Sa Kanya ang kapangyarihan at sa Kanya ang lahat ng papuri, at magagawa Niya ang lahat ng bagay mula sa apat na pagkakataon, at magagawa Niya ang lahat ng bagay na ito ay malaya mula sa apat na pagkakataon, ang lahat ng bagay ay magagawa Niya mula sa apat na pagkakataon, at lahat ng bagay ay magagawa Niya mula sa apat na pagkakataon, at magagawa Niya ang lahat ng bagay na ito ay malaya mula sa apat na beses mga inapo ni Ismael.'",
+          "At siya (sumakanya nawa ang kapayapaan) ay nagsabi: 'Dalawang salita na magaan sa dila, mabigat sa timbangan, at minamahal ng Pinakamaawain: 'Subhanallahi wa bihamdihi, Subhanallahil-'Azim' (Luwalhati sa Allah at papuri sa Kanya, Luwalhati sa Allah na Dakila).'",
+          "At siya (sumakanya nawa ang kapayapaan) ay nagsabi: 'Para sa akin na sabihin ang 'Subhanallah, walhamdulillah, wa la ilaha illallah, wallahu akbar' (Luwalhati sa Allah, at papuri sa Allah, at walang diyos maliban sa Allah, at si Allah ang pinakadakila) ay higit na minamahal ko kaysa sa lahat ng sinikatan ng araw.'",
+          "At siya (sumakanya nawa ang kapayapaan) ay nagsabi: 'Ang isa ba sa inyo ay hindi kayang kumita ng isang libong kabutihan araw-araw?' Isang nagtatanong mula sa kanyang mga kasama ang nagtanong: 'Paano ang isa sa atin ay kikita ng isang libong kabutihan?' Sinabi niya: 'Siya ay nagsabi ng 'Subhanallah' nang isang daang beses, at isang libong kabutihan ang isusulat para sa kanya, o isang libong kasalanan ang mabubura mula sa kanya.'",
+          "Sinumang magsabi ng 'Subhanallahil-'Azim wa bihamdihi' (Luwalhati sa Allah ang Dakila at papuri sa Kanya), isang puno ng palma ang itatanim para sa kanya sa Paraiso.",
+          "At siya (sumakanya nawa ang kapayapaan) ay nagsabi: 'O 'Abdullah bin Qais, hindi ba kita papatnubayan sa isang kayamanan mula sa mga kayamanan ng Paraiso?' Sinabi ko: 'Oo, O Sugo ng Allah.' Siya ay nagsabi: 'Sabihin ang 'La hawla wa la quwwata illa billah' (Walang lakas o kapangyarihan maliban kay Allah).'",
+          "At siya (sumakanya nawa ang kapayapaan) ay nagsabi: 'Ang pinakamamahal na salita sa Allah ay apat: 'Subhanallah, walhamdulillah, wa la ilaha illallah, wallahu akbar.' Hindi mahalaga kung alin sa kanila ang sisimulan mo.'",
+          "Isang Bedouin ang lumapit sa Sugo ng Allah (sumakanya nawa ang kapayapaan) at nagsabi: 'Turuan mo ako ng ilang salitang sasabihin.' Sinabi niya: 'Sabihin: 'La ilaha illallahu wahdahu la sharika lah, Allahu Akbaru kabira, walhamdulillahi kathira, Subhanallahi Rabbil-'alamin, la hawla wa la quwwata illa billahil-'Azizil-Hakim' (Walang diyos maliban sa Allah, nag-iisa, na walang katambal. Ang Allah ay dakila. Luwalhati kay Allah, Panginoon ng mga daigdig, walang kapangyarihan o kapangyarihan maliban kay Allah, ang Makapangyarihan, ang Marunong).' Sinabi niya: 'Ang mga ito ay para sa aking Panginoon, ngunit ano ang para sa akin?' Sinabi niya: 'Sabihin: 'Allahummaghfir li, warhamni, wahdini, warzuqni' (O Allah, patawarin mo ako, maawa ka sa akin, patnubayan mo ako, at paglaanan mo ako).'",
+          "Kapag ang isang tao ay yumakap sa Islam, ang Propeta (saws) ay magtuturo sa kanya ng pagdarasal, pagkatapos ay utusan siyang magsumamo sa mga salitang ito: 'Allahummaghfir li, warhamni, wahdini, wa 'afini, warzuqni' (O Allah, patawarin mo ako, maawa ka sa akin, patnubayan mo ako, pagkalooban mo ako ng kagalingan, at paglaanan mo ako).'",
+          "Katotohanan, ang pinakamagandang alaala ay 'La ilaha illallah.'",
+          "Ang nagtatapos sa mabubuting gawa ay: 'Subhanallah, walhamdulillah, wa la ilaha illallah, wallahu akbar, wa la hawla wa la quwwata illa billah.'"
+        ],
+        "footnote": [
+          "Al-Bukhari 7/168 and Muslim 4/2071. See: the virtue of one who says it one hundred times in the morning and evening.",
+          "Al-Bukhari 7/67 and Muslim with his wording 4/2071. See the virtue of one who says it one hundred times a day.",
+          "Al-Bukhari 7/167 and Muslim 4/2072",
+          "Muslim 4/2072",
+          "Muslim 4/2073",
+          "Reported by At-Tirmidhi 5/511 and Al-Hakim 1/501, who authenticated it and Adh-Dhahabi agreed. See Sahih Al-Jami' 5/531 and Sahih At-Tirmidhi 3/160.",
+          "Al-Bukhari with Fath 11/213 and Muslim 4/2076",
+          "Muslim 3/1685",
+          "Muslim 4/2072. Abu Dawud added: 'When the Bedouin turned to leave, the Prophet (peace be upon him) said: 'He has filled his hands with goodness.'' 1/220",
+          "Muslim 4/2073. Sa isang salaysay ni Muslim: 'Sapagkat ang mga ito ay magtitipon para sa iyo ng iyong makamundong buhay at ng iyong Kabilang-Buhay.'",
+          "At-Tirmidhi 5/462, Ibn Majah 2/1249, and Al-Hakim 1/503, who authenticated it and Adh-Dhahabi agreed. See Sahih Al-Jami' 1/362.",
+          "Ahmad, no. 513, arranged by Ahmad Shakir, and its chain is authentic. See Majma' Az-Zawa'id 1/297. Ibn Hajar attributed it in Bulugh Al-Maram from the narration of Abu Sa'id to An-Nasa'i and said: 'Ibn Hibban and Al-Hakim authenticated it.'"
+        ]
+      },
+      "How Did the Prophet (peace be upon him) Make Tasbih?": {
+        "text": [
+          "Mula kay 'Abdullah bin 'Amr (nawa'y kalugdan sila ng Allah), na nagsabi: 'Nakita ko ang Propeta (sumakanya nawa ang kapayapaan) na nagbibilang ng Tasbih sa kanyang kanang kamay.'"
+        ],
+        "footnote": [
+          "Reported by Abu Dawud with his wording 2/81 and At-Tirmidhi 5/521. See Sahih Al-Jami' 4/271, no. 4865."
+        ]
+      },
+      "Iba't ibang Mabuting Gawa at Komprehensibong Asal": {
+        "text": [
+          "Kapag ang mga pakpak ng gabi ay kumalat – o kapag ikaw ay dumating sa gabi – panatilihin ang iyong mga anak sa loob, dahil ang mga demonyo ay kumalat sa oras na iyon. Pagkatapos kapag lumipas ang isang oras ng gabi, hayaan mo sila. At isara ang mga pinto at banggitin ang pangalan ng Allah, sapagkat si Satanas ay hindi nagbubukas ng saradong pinto. At itali ang inyong mga balat at banggitin ang pangalan ni Allah, at takpan ang inyong mga sisidlan at banggitin ang pangalan ng Allah, kahit na maglagay lamang kayo ng isang bagay sa ibabaw nito, at patayin ang inyong mga ilawan."
+        ],
+        "footnote": [
+          "Al-Bukhari with Fath 10/88 and Muslim 3/1595"
+        ]
+      }
+    }
+  }
+}
